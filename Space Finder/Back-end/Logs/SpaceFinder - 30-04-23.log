@@ -1,0 +1,2163 @@
+2023-04-30 20:27:36,253 - WARNING -  * Debugger is active!
+2023-04-30 20:27:36,272 - INFO -  * Debugger PIN: 687-154-953
+2023-04-30 20:28:54,372 - INFO - Return one room Request Initiated
+2023-04-30 20:28:54,376 - INFO - Return one room Request ended
+2023-04-30 20:28:54,378 - INFO - 127.0.0.1 - - [30/Apr/2023 20:28:54] "GET /api/v1.0/rooms/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 20:28:54,382 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:28:54,385 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:28:54,389 - INFO - ProfilePicture Request Ended
+2023-04-30 20:28:54,390 - INFO - 127.0.0.1 - - [30/Apr/2023 20:28:54] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:28:54,390 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:28:54,391 - INFO - 127.0.0.1 - - [30/Apr/2023 20:28:54] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 20:28:54,635 - INFO - 127.0.0.1 - - [30/Apr/2023 20:28:54] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:28:54,695 - INFO - authtoken Request Initiated
+2023-04-30 20:28:54,700 - INFO - authtoken Request Ended
+2023-04-30 20:28:54,700 - INFO - 127.0.0.1 - - [30/Apr/2023 20:28:54] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:28:54,944 - INFO - Show one room booking Request Initiated
+2023-04-30 20:28:54,945 - WARNING - No bookings for this room
+2023-04-30 20:28:54,946 - INFO - 127.0.0.1 - - [30/Apr/2023 20:28:54] "[33mGET /api/v1.0/bookings/undefined HTTP/1.1[0m" 404 -
+2023-04-30 20:29:22,446 - INFO - Return one room Request Initiated
+2023-04-30 20:29:22,447 - INFO - Return one room Request ended
+2023-04-30 20:29:22,448 - INFO - 127.0.0.1 - - [30/Apr/2023 20:29:22] "GET /api/v1.0/rooms/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 20:29:22,450 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:29:22,452 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:29:22,454 - INFO - ProfilePicture Request Ended
+2023-04-30 20:29:22,455 - INFO - 127.0.0.1 - - [30/Apr/2023 20:29:22] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:29:22,456 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:29:22,457 - INFO - 127.0.0.1 - - [30/Apr/2023 20:29:22] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 20:29:22,713 - INFO - 127.0.0.1 - - [30/Apr/2023 20:29:22] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:29:22,761 - INFO - authtoken Request Initiated
+2023-04-30 20:29:22,763 - INFO - authtoken Request Ended
+2023-04-30 20:29:22,764 - INFO - 127.0.0.1 - - [30/Apr/2023 20:29:22] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:29:23,026 - INFO - Show one room booking Request Initiated
+2023-04-30 20:29:23,027 - WARNING - No bookings for this room
+2023-04-30 20:29:23,028 - INFO - 127.0.0.1 - - [30/Apr/2023 20:29:23] "[33mGET /api/v1.0/bookings/undefined HTTP/1.1[0m" 404 -
+2023-04-30 20:30:31,580 - INFO - Return one room Request Initiated
+2023-04-30 20:30:31,582 - INFO - Return one room Request ended
+2023-04-30 20:30:31,583 - INFO - 127.0.0.1 - - [30/Apr/2023 20:30:31] "GET /api/v1.0/rooms/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 20:30:31,584 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:30:31,587 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:30:31,590 - INFO - ProfilePicture Request Ended
+2023-04-30 20:30:31,591 - INFO - 127.0.0.1 - - [30/Apr/2023 20:30:31] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:30:31,592 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:30:31,593 - INFO - 127.0.0.1 - - [30/Apr/2023 20:30:31] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 20:30:31,835 - INFO - 127.0.0.1 - - [30/Apr/2023 20:30:31] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:30:31,896 - INFO - authtoken Request Initiated
+2023-04-30 20:30:31,897 - INFO - authtoken Request Ended
+2023-04-30 20:30:31,898 - INFO - 127.0.0.1 - - [30/Apr/2023 20:30:31] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:30:32,150 - INFO - Show one room booking Request Initiated
+2023-04-30 20:30:32,151 - INFO - Show one room booking Request ended
+2023-04-30 20:30:32,152 - INFO - 127.0.0.1 - - [30/Apr/2023 20:30:32] "GET /api/v1.0/bookings/1 HTTP/1.1" 200 -
+2023-04-30 20:30:54,300 - INFO - Return one room Request Initiated
+2023-04-30 20:30:54,302 - INFO - Return one room Request ended
+2023-04-30 20:30:54,303 - INFO - 127.0.0.1 - - [30/Apr/2023 20:30:54] "GET /api/v1.0/rooms/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 20:30:54,304 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:30:54,307 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:30:54,308 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:30:54,309 - INFO - 127.0.0.1 - - [30/Apr/2023 20:30:54] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 20:30:54,310 - INFO - ProfilePicture Request Ended
+2023-04-30 20:30:54,312 - INFO - 127.0.0.1 - - [30/Apr/2023 20:30:54] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:30:54,555 - INFO - 127.0.0.1 - - [30/Apr/2023 20:30:54] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:30:54,619 - INFO - authtoken Request Initiated
+2023-04-30 20:30:54,620 - INFO - authtoken Request Ended
+2023-04-30 20:30:54,621 - INFO - 127.0.0.1 - - [30/Apr/2023 20:30:54] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:30:54,872 - INFO - Show one room booking Request Initiated
+2023-04-30 20:30:54,874 - INFO - Show one room booking Request ended
+2023-04-30 20:30:54,874 - INFO - 127.0.0.1 - - [30/Apr/2023 20:30:54] "GET /api/v1.0/bookings/1 HTTP/1.1" 200 -
+2023-04-30 20:31:14,242 - INFO - Return one room Request Initiated
+2023-04-30 20:31:14,244 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:31:14,244 - INFO - Return one room Request ended
+2023-04-30 20:31:14,246 - INFO - 127.0.0.1 - - [30/Apr/2023 20:31:14] "GET /api/v1.0/rooms/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 20:31:14,248 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:31:14,251 - INFO - ProfilePicture Request Ended
+2023-04-30 20:31:14,252 - INFO - 127.0.0.1 - - [30/Apr/2023 20:31:14] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:31:14,253 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:31:14,254 - INFO - 127.0.0.1 - - [30/Apr/2023 20:31:14] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 20:31:14,508 - INFO - 127.0.0.1 - - [30/Apr/2023 20:31:14] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:31:14,554 - INFO - authtoken Request Initiated
+2023-04-30 20:31:14,556 - INFO - authtoken Request Ended
+2023-04-30 20:31:14,556 - INFO - 127.0.0.1 - - [30/Apr/2023 20:31:14] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:31:14,824 - INFO - Show one room booking Request Initiated
+2023-04-30 20:31:14,825 - INFO - Show one room booking Request ended
+2023-04-30 20:31:14,826 - INFO - 127.0.0.1 - - [30/Apr/2023 20:31:14] "GET /api/v1.0/bookings/1 HTTP/1.1" 200 -
+2023-04-30 20:31:48,221 - INFO - Return one room Request Initiated
+2023-04-30 20:31:48,223 - INFO - Return one room Request ended
+2023-04-30 20:31:48,224 - INFO - 127.0.0.1 - - [30/Apr/2023 20:31:48] "GET /api/v1.0/rooms/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 20:31:48,225 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:31:48,228 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:31:48,231 - INFO - ProfilePicture Request Ended
+2023-04-30 20:31:48,232 - INFO - 127.0.0.1 - - [30/Apr/2023 20:31:48] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:31:48,233 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:31:48,234 - INFO - 127.0.0.1 - - [30/Apr/2023 20:31:48] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 20:31:48,487 - INFO - 127.0.0.1 - - [30/Apr/2023 20:31:48] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:31:48,534 - INFO - authtoken Request Initiated
+2023-04-30 20:31:48,535 - INFO - authtoken Request Ended
+2023-04-30 20:31:48,536 - INFO - 127.0.0.1 - - [30/Apr/2023 20:31:48] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:31:48,798 - INFO - Show one room booking Request Initiated
+2023-04-30 20:31:48,799 - INFO - Show one room booking Request ended
+2023-04-30 20:31:48,800 - INFO - 127.0.0.1 - - [30/Apr/2023 20:31:48] "GET /api/v1.0/bookings/1 HTTP/1.1" 200 -
+2023-04-30 20:32:14,697 - INFO - Return one room Request Initiated
+2023-04-30 20:32:14,699 - INFO - Return one room Request ended
+2023-04-30 20:32:14,700 - INFO - 127.0.0.1 - - [30/Apr/2023 20:32:14] "GET /api/v1.0/rooms/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 20:32:14,701 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:32:14,704 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:32:14,706 - INFO - ProfilePicture Request Ended
+2023-04-30 20:32:14,708 - INFO - 127.0.0.1 - - [30/Apr/2023 20:32:14] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:32:14,708 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:32:14,709 - INFO - 127.0.0.1 - - [30/Apr/2023 20:32:14] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 20:32:14,962 - INFO - 127.0.0.1 - - [30/Apr/2023 20:32:14] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:32:15,009 - INFO - authtoken Request Initiated
+2023-04-30 20:32:15,011 - INFO - authtoken Request Ended
+2023-04-30 20:32:15,012 - INFO - 127.0.0.1 - - [30/Apr/2023 20:32:15] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:32:15,273 - INFO - Show one room booking Request Initiated
+2023-04-30 20:32:15,275 - INFO - Show one room booking Request ended
+2023-04-30 20:32:15,276 - INFO - 127.0.0.1 - - [30/Apr/2023 20:32:15] "GET /api/v1.0/bookings/1 HTTP/1.1" 200 -
+2023-04-30 20:33:20,677 - INFO - Return one room Request Initiated
+2023-04-30 20:33:20,679 - INFO - Return one room Request ended
+2023-04-30 20:33:20,680 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:33:20,681 - INFO - 127.0.0.1 - - [30/Apr/2023 20:33:20] "GET /api/v1.0/rooms/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 20:33:20,684 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:33:20,688 - INFO - ProfilePicture Request Ended
+2023-04-30 20:33:20,690 - INFO - 127.0.0.1 - - [30/Apr/2023 20:33:20] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:33:20,690 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:33:20,692 - INFO - 127.0.0.1 - - [30/Apr/2023 20:33:20] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 20:33:20,931 - INFO - 127.0.0.1 - - [30/Apr/2023 20:33:20] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:33:20,991 - INFO - authtoken Request Initiated
+2023-04-30 20:33:20,992 - INFO - authtoken Request Ended
+2023-04-30 20:33:20,993 - INFO - 127.0.0.1 - - [30/Apr/2023 20:33:20] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:33:21,239 - INFO - Show one room booking Request Initiated
+2023-04-30 20:33:21,241 - INFO - Show one room booking Request ended
+2023-04-30 20:33:21,241 - INFO - 127.0.0.1 - - [30/Apr/2023 20:33:21] "GET /api/v1.0/bookings/1 HTTP/1.1" 200 -
+2023-04-30 20:36:40,162 - INFO - Return one room Request Initiated
+2023-04-30 20:36:40,164 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:36:40,167 - INFO - Return one room Request ended
+2023-04-30 20:36:40,168 - INFO - 127.0.0.1 - - [30/Apr/2023 20:36:40] "GET /api/v1.0/rooms/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 20:36:40,175 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:36:40,180 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:36:40,181 - INFO - 127.0.0.1 - - [30/Apr/2023 20:36:40] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 20:36:40,183 - INFO - ProfilePicture Request Ended
+2023-04-30 20:36:40,184 - INFO - 127.0.0.1 - - [30/Apr/2023 20:36:40] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:36:40,430 - INFO - 127.0.0.1 - - [30/Apr/2023 20:36:40] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:36:40,491 - INFO - authtoken Request Initiated
+2023-04-30 20:36:40,493 - INFO - authtoken Request Ended
+2023-04-30 20:36:40,494 - INFO - 127.0.0.1 - - [30/Apr/2023 20:36:40] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:36:40,743 - INFO - Show one room booking Request Initiated
+2023-04-30 20:36:40,745 - INFO - Show one room booking Request ended
+2023-04-30 20:36:40,746 - INFO - 127.0.0.1 - - [30/Apr/2023 20:36:40] "GET /api/v1.0/bookings/1 HTTP/1.1" 200 -
+2023-04-30 20:38:28,872 - INFO - Return one room Request Initiated
+2023-04-30 20:38:28,873 - INFO - Return one room Request ended
+2023-04-30 20:38:28,874 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:38:28,875 - INFO - 127.0.0.1 - - [30/Apr/2023 20:38:28] "GET /api/v1.0/rooms/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 20:38:28,878 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:38:28,881 - INFO - ProfilePicture Request Ended
+2023-04-30 20:38:28,882 - INFO - 127.0.0.1 - - [30/Apr/2023 20:38:28] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:38:28,883 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:38:28,884 - INFO - 127.0.0.1 - - [30/Apr/2023 20:38:28] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 20:38:29,122 - INFO - 127.0.0.1 - - [30/Apr/2023 20:38:29] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:38:29,187 - INFO - authtoken Request Initiated
+2023-04-30 20:38:29,189 - INFO - authtoken Request Ended
+2023-04-30 20:38:29,190 - INFO - 127.0.0.1 - - [30/Apr/2023 20:38:29] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:38:29,434 - INFO - Show one room booking Request Initiated
+2023-04-30 20:38:29,436 - INFO - Show one room booking Request ended
+2023-04-30 20:38:29,436 - INFO - 127.0.0.1 - - [30/Apr/2023 20:38:29] "GET /api/v1.0/bookings/1 HTTP/1.1" 200 -
+2023-04-30 20:39:06,876 - INFO - Return one room Request Initiated
+2023-04-30 20:39:06,877 - INFO - Return one room Request ended
+2023-04-30 20:39:06,878 - INFO - 127.0.0.1 - - [30/Apr/2023 20:39:06] "GET /api/v1.0/rooms/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 20:39:06,880 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:39:06,883 - INFO - ProfilePicture Request Ended
+2023-04-30 20:39:06,884 - INFO - 127.0.0.1 - - [30/Apr/2023 20:39:06] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:39:06,885 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:39:06,887 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:39:06,888 - INFO - 127.0.0.1 - - [30/Apr/2023 20:39:06] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 20:39:07,141 - INFO - 127.0.0.1 - - [30/Apr/2023 20:39:07] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:39:07,190 - INFO - authtoken Request Initiated
+2023-04-30 20:39:07,191 - INFO - authtoken Request Ended
+2023-04-30 20:39:07,192 - INFO - 127.0.0.1 - - [30/Apr/2023 20:39:07] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:39:07,460 - INFO - Show one room booking Request Initiated
+2023-04-30 20:39:07,461 - INFO - Show one room booking Request ended
+2023-04-30 20:39:07,462 - INFO - 127.0.0.1 - - [30/Apr/2023 20:39:07] "GET /api/v1.0/bookings/1 HTTP/1.1" 200 -
+2023-04-30 20:40:05,837 - INFO - Return one room Request Initiated
+2023-04-30 20:40:05,838 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:40:05,839 - INFO - Return one room Request ended
+2023-04-30 20:40:05,841 - INFO - 127.0.0.1 - - [30/Apr/2023 20:40:05] "GET /api/v1.0/rooms/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 20:40:05,842 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:40:05,843 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:40:05,844 - INFO - 127.0.0.1 - - [30/Apr/2023 20:40:05] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 20:40:05,846 - INFO - ProfilePicture Request Ended
+2023-04-30 20:40:05,847 - INFO - 127.0.0.1 - - [30/Apr/2023 20:40:05] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:40:06,084 - INFO - 127.0.0.1 - - [30/Apr/2023 20:40:06] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:40:06,164 - INFO - authtoken Request Initiated
+2023-04-30 20:40:06,165 - INFO - authtoken Request Ended
+2023-04-30 20:40:06,166 - INFO - 127.0.0.1 - - [30/Apr/2023 20:40:06] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:40:06,397 - INFO - Show one room booking Request Initiated
+2023-04-30 20:40:06,399 - INFO - Show one room booking Request ended
+2023-04-30 20:40:06,399 - INFO - 127.0.0.1 - - [30/Apr/2023 20:40:06] "GET /api/v1.0/bookings/1 HTTP/1.1" 200 -
+2023-04-30 20:40:20,541 - INFO - Return one room Request Initiated
+2023-04-30 20:40:20,543 - INFO - Return one room Request ended
+2023-04-30 20:40:20,544 - INFO - 127.0.0.1 - - [30/Apr/2023 20:40:20] "GET /api/v1.0/rooms/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 20:40:20,850 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:40:20,852 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:40:20,854 - INFO - ProfilePicture Request Ended
+2023-04-30 20:40:20,856 - INFO - 127.0.0.1 - - [30/Apr/2023 20:40:20] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:40:20,857 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:40:20,857 - INFO - 127.0.0.1 - - [30/Apr/2023 20:40:20] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 20:40:20,861 - INFO - 127.0.0.1 - - [30/Apr/2023 20:40:20] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:40:21,178 - INFO - authtoken Request Initiated
+2023-04-30 20:40:21,180 - INFO - authtoken Request Ended
+2023-04-30 20:40:21,181 - INFO - 127.0.0.1 - - [30/Apr/2023 20:40:21] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:40:21,445 - INFO - Show one room booking Request Initiated
+2023-04-30 20:40:21,446 - INFO - Show one room booking Request ended
+2023-04-30 20:40:21,447 - INFO - 127.0.0.1 - - [30/Apr/2023 20:40:21] "GET /api/v1.0/bookings/1 HTTP/1.1" 200 -
+2023-04-30 20:41:08,056 - INFO - Return one room Request Initiated
+2023-04-30 20:41:08,059 - INFO - Return one room Request ended
+2023-04-30 20:41:08,060 - INFO - 127.0.0.1 - - [30/Apr/2023 20:41:08] "GET /api/v1.0/rooms/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 20:41:08,372 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:41:08,374 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:41:08,377 - INFO - ProfilePicture Request Ended
+2023-04-30 20:41:08,378 - INFO - 127.0.0.1 - - [30/Apr/2023 20:41:08] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:41:08,378 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:41:08,379 - INFO - 127.0.0.1 - - [30/Apr/2023 20:41:08] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 20:41:08,383 - INFO - 127.0.0.1 - - [30/Apr/2023 20:41:08] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:41:08,697 - INFO - authtoken Request Initiated
+2023-04-30 20:41:08,701 - INFO - authtoken Request Ended
+2023-04-30 20:41:08,702 - INFO - 127.0.0.1 - - [30/Apr/2023 20:41:08] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:41:08,959 - INFO - Show one room booking Request Initiated
+2023-04-30 20:41:08,960 - INFO - Show one room booking Request ended
+2023-04-30 20:41:08,961 - INFO - 127.0.0.1 - - [30/Apr/2023 20:41:08] "GET /api/v1.0/bookings/1 HTTP/1.1" 200 -
+2023-04-30 20:41:23,841 - INFO - Return one room Request Initiated
+2023-04-30 20:41:23,843 - INFO - Return one room Request ended
+2023-04-30 20:41:23,844 - INFO - 127.0.0.1 - - [30/Apr/2023 20:41:23] "GET /api/v1.0/rooms/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 20:41:24,146 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:41:24,148 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:41:24,150 - INFO - ProfilePicture Request Ended
+2023-04-30 20:41:24,152 - INFO - 127.0.0.1 - - [30/Apr/2023 20:41:24] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:41:24,152 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:41:24,153 - INFO - 127.0.0.1 - - [30/Apr/2023 20:41:24] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 20:41:24,158 - INFO - 127.0.0.1 - - [30/Apr/2023 20:41:24] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:41:24,475 - INFO - authtoken Request Initiated
+2023-04-30 20:41:24,477 - INFO - authtoken Request Ended
+2023-04-30 20:41:24,477 - INFO - 127.0.0.1 - - [30/Apr/2023 20:41:24] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:41:24,740 - INFO - Show one room booking Request Initiated
+2023-04-30 20:41:24,741 - INFO - Show one room booking Request ended
+2023-04-30 20:41:24,742 - INFO - 127.0.0.1 - - [30/Apr/2023 20:41:24] "GET /api/v1.0/bookings/1 HTTP/1.1" 200 -
+2023-04-30 20:42:27,550 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:42:27,556 - INFO - Return all rooms Request Initiated
+2023-04-30 20:42:27,558 - INFO - ProfilePicture Request Ended
+2023-04-30 20:42:27,558 - INFO - Return all rooms Request ended
+2023-04-30 20:42:27,560 - INFO - 127.0.0.1 - - [30/Apr/2023 20:42:27] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:42:27,575 - INFO - 127.0.0.1 - - [30/Apr/2023 20:42:27] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 20:42:27,811 - INFO - 127.0.0.1 - - [30/Apr/2023 20:42:27] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:42:27,903 - INFO - authtoken Request Initiated
+2023-04-30 20:42:27,904 - INFO - authtoken Request Ended
+2023-04-30 20:42:27,905 - INFO - 127.0.0.1 - - [30/Apr/2023 20:42:27] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:42:46,441 - INFO - Return all rooms Request Initiated
+2023-04-30 20:42:46,443 - INFO - Return all rooms Request ended
+2023-04-30 20:42:46,454 - INFO - 127.0.0.1 - - [30/Apr/2023 20:42:46] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:42:46,455 - INFO - 127.0.0.1 - - [30/Apr/2023 20:42:46] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 20:42:46,457 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:42:46,460 - INFO - ProfilePicture Request Ended
+2023-04-30 20:42:46,461 - INFO - 127.0.0.1 - - [30/Apr/2023 20:42:46] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:42:46,705 - INFO - authtoken Request Initiated
+2023-04-30 20:42:46,706 - INFO - authtoken Request Ended
+2023-04-30 20:42:46,707 - INFO - 127.0.0.1 - - [30/Apr/2023 20:42:46] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:42:51,226 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:42:51,230 - INFO - ProfilePicture Request Ended
+2023-04-30 20:42:51,231 - INFO - 127.0.0.1 - - [30/Apr/2023 20:42:51] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:42:51,530 - INFO - Return all rooms Request Initiated
+2023-04-30 20:42:51,531 - INFO - Return all rooms Request ended
+2023-04-30 20:42:51,542 - INFO - 127.0.0.1 - - [30/Apr/2023 20:42:51] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 20:42:51,858 - INFO - 127.0.0.1 - - [30/Apr/2023 20:42:51] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:42:52,126 - INFO - authtoken Request Initiated
+2023-04-30 20:42:52,127 - INFO - authtoken Request Ended
+2023-04-30 20:42:52,128 - INFO - 127.0.0.1 - - [30/Apr/2023 20:42:52] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:43:06,620 - INFO - Post a booking by Name Request Initiated
+2023-04-30 20:43:06,635 - INFO - Post a booking by Name Request Ended
+2023-04-30 20:43:06,635 - INFO - 127.0.0.1 - - [30/Apr/2023 20:43:06] "[35m[1mPOST /api/v1.0/bookingsname HTTP/1.1[0m" 201 -
+2023-04-30 20:43:11,308 - INFO - Return all rooms Request Initiated
+2023-04-30 20:43:11,309 - INFO - Return all rooms Request ended
+2023-04-30 20:43:11,321 - INFO - 127.0.0.1 - - [30/Apr/2023 20:43:11] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 20:43:11,613 - INFO - 127.0.0.1 - - [30/Apr/2023 20:43:11] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:43:11,615 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:43:11,618 - INFO - ProfilePicture Request Ended
+2023-04-30 20:43:11,619 - INFO - 127.0.0.1 - - [30/Apr/2023 20:43:11] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:43:11,924 - INFO - authtoken Request Initiated
+2023-04-30 20:43:11,926 - INFO - authtoken Request Ended
+2023-04-30 20:43:11,926 - INFO - 127.0.0.1 - - [30/Apr/2023 20:43:11] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:43:13,603 - INFO - Return one room Request Initiated
+2023-04-30 20:43:13,605 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:43:13,606 - INFO - Return one room Request ended
+2023-04-30 20:43:13,608 - INFO - 127.0.0.1 - - [30/Apr/2023 20:43:13] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:43:13,609 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:43:13,612 - INFO - ProfilePicture Request Ended
+2023-04-30 20:43:13,613 - INFO - 127.0.0.1 - - [30/Apr/2023 20:43:13] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:43:13,615 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:43:13,616 - INFO - 127.0.0.1 - - [30/Apr/2023 20:43:13] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:43:13,853 - INFO - authtoken Request Initiated
+2023-04-30 20:43:13,854 - INFO - authtoken Request Ended
+2023-04-30 20:43:13,855 - INFO - 127.0.0.1 - - [30/Apr/2023 20:43:13] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:43:13,916 - INFO - Show one room booking Request Initiated
+2023-04-30 20:43:13,917 - INFO - Show one room booking Request ended
+2023-04-30 20:43:13,917 - INFO - 127.0.0.1 - - [30/Apr/2023 20:43:13] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 20:43:50,455 - INFO - Return one room Request Initiated
+2023-04-30 20:43:50,456 - INFO - Return one room Request ended
+2023-04-30 20:43:50,457 - INFO - 127.0.0.1 - - [30/Apr/2023 20:43:50] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:43:50,459 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:43:50,461 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:43:50,464 - INFO - ProfilePicture Request Ended
+2023-04-30 20:43:50,465 - INFO - 127.0.0.1 - - [30/Apr/2023 20:43:50] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:43:50,466 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:43:50,467 - INFO - 127.0.0.1 - - [30/Apr/2023 20:43:50] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:43:50,709 - INFO - 127.0.0.1 - - [30/Apr/2023 20:43:50] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:43:50,770 - INFO - authtoken Request Initiated
+2023-04-30 20:43:50,772 - INFO - authtoken Request Ended
+2023-04-30 20:43:50,772 - INFO - 127.0.0.1 - - [30/Apr/2023 20:43:50] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:43:51,020 - INFO - Show one room booking Request Initiated
+2023-04-30 20:43:51,021 - INFO - Show one room booking Request ended
+2023-04-30 20:43:51,022 - INFO - 127.0.0.1 - - [30/Apr/2023 20:43:51] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 20:45:30,958 - INFO - Return one room Request Initiated
+2023-04-30 20:45:30,962 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:45:30,964 - INFO - Return one room Request ended
+2023-04-30 20:45:30,965 - INFO - 127.0.0.1 - - [30/Apr/2023 20:45:30] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:45:30,968 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:45:30,971 - INFO - ProfilePicture Request Ended
+2023-04-30 20:45:30,974 - INFO - 127.0.0.1 - - [30/Apr/2023 20:45:30] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:45:30,976 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:45:30,978 - INFO - 127.0.0.1 - - [30/Apr/2023 20:45:30] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:45:31,223 - INFO - 127.0.0.1 - - [30/Apr/2023 20:45:31] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:45:31,284 - INFO - authtoken Request Initiated
+2023-04-30 20:45:31,286 - INFO - authtoken Request Ended
+2023-04-30 20:45:31,287 - INFO - 127.0.0.1 - - [30/Apr/2023 20:45:31] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:45:31,535 - INFO - Show one room booking Request Initiated
+2023-04-30 20:45:31,537 - INFO - Show one room booking Request ended
+2023-04-30 20:45:31,538 - INFO - 127.0.0.1 - - [30/Apr/2023 20:45:31] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 20:46:05,332 - INFO - Return one room Request Initiated
+2023-04-30 20:46:05,334 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:46:05,335 - INFO - Return one room Request ended
+2023-04-30 20:46:05,336 - INFO - 127.0.0.1 - - [30/Apr/2023 20:46:05] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:46:05,339 - INFO - ProfilePicture Request Ended
+2023-04-30 20:46:05,340 - INFO - 127.0.0.1 - - [30/Apr/2023 20:46:05] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:46:05,341 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:46:05,344 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:46:05,345 - INFO - 127.0.0.1 - - [30/Apr/2023 20:46:05] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:46:05,600 - INFO - 127.0.0.1 - - [30/Apr/2023 20:46:05] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:46:05,647 - INFO - authtoken Request Initiated
+2023-04-30 20:46:05,649 - INFO - authtoken Request Ended
+2023-04-30 20:46:05,650 - INFO - 127.0.0.1 - - [30/Apr/2023 20:46:05] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:46:05,911 - INFO - Show one room booking Request Initiated
+2023-04-30 20:46:05,912 - INFO - Show one room booking Request ended
+2023-04-30 20:46:05,913 - INFO - 127.0.0.1 - - [30/Apr/2023 20:46:05] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 20:46:35,422 - INFO - Return one room Request Initiated
+2023-04-30 20:46:35,423 - INFO - Return one room Request ended
+2023-04-30 20:46:35,425 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:46:35,426 - INFO - 127.0.0.1 - - [30/Apr/2023 20:46:35] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:46:35,428 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:46:35,430 - INFO - ProfilePicture Request Ended
+2023-04-30 20:46:35,432 - INFO - 127.0.0.1 - - [30/Apr/2023 20:46:35] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:46:35,433 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:46:35,434 - INFO - 127.0.0.1 - - [30/Apr/2023 20:46:35] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:46:35,685 - INFO - 127.0.0.1 - - [30/Apr/2023 20:46:35] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:46:35,747 - INFO - authtoken Request Initiated
+2023-04-30 20:46:35,749 - INFO - authtoken Request Ended
+2023-04-30 20:46:35,749 - INFO - 127.0.0.1 - - [30/Apr/2023 20:46:35] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:46:35,997 - INFO - Show one room booking Request Initiated
+2023-04-30 20:46:35,999 - INFO - Show one room booking Request ended
+2023-04-30 20:46:36,000 - INFO - 127.0.0.1 - - [30/Apr/2023 20:46:36] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 20:47:46,567 - INFO - Return one room Request Initiated
+2023-04-30 20:47:46,570 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:47:46,570 - INFO - Return one room Request ended
+2023-04-30 20:47:46,572 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:47:46,573 - INFO - 127.0.0.1 - - [30/Apr/2023 20:47:46] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:47:46,576 - INFO - ProfilePicture Request Ended
+2023-04-30 20:47:46,577 - INFO - 127.0.0.1 - - [30/Apr/2023 20:47:46] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:47:46,578 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:47:46,579 - INFO - 127.0.0.1 - - [30/Apr/2023 20:47:46] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:47:46,819 - INFO - 127.0.0.1 - - [30/Apr/2023 20:47:46] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:47:46,895 - INFO - authtoken Request Initiated
+2023-04-30 20:47:46,897 - INFO - authtoken Request Ended
+2023-04-30 20:47:46,898 - INFO - 127.0.0.1 - - [30/Apr/2023 20:47:46] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:47:47,129 - INFO - Show one room booking Request Initiated
+2023-04-30 20:47:47,130 - INFO - Show one room booking Request ended
+2023-04-30 20:47:47,130 - INFO - 127.0.0.1 - - [30/Apr/2023 20:47:47] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 20:47:55,111 - INFO - Return one room Request Initiated
+2023-04-30 20:47:55,115 - INFO - Return one room Request ended
+2023-04-30 20:47:55,116 - INFO - 127.0.0.1 - - [30/Apr/2023 20:47:55] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:47:55,118 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:47:55,123 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:47:55,126 - INFO - ProfilePicture Request Ended
+2023-04-30 20:47:55,128 - INFO - 127.0.0.1 - - [30/Apr/2023 20:47:55] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:47:55,130 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:47:55,131 - INFO - 127.0.0.1 - - [30/Apr/2023 20:47:55] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:47:55,375 - INFO - 127.0.0.1 - - [30/Apr/2023 20:47:55] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:47:55,436 - INFO - authtoken Request Initiated
+2023-04-30 20:47:55,437 - INFO - authtoken Request Ended
+2023-04-30 20:47:55,438 - INFO - 127.0.0.1 - - [30/Apr/2023 20:47:55] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:47:55,688 - INFO - Show one room booking Request Initiated
+2023-04-30 20:47:55,690 - INFO - Show one room booking Request ended
+2023-04-30 20:47:55,691 - INFO - 127.0.0.1 - - [30/Apr/2023 20:47:55] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 20:48:40,970 - INFO - Return one room Request Initiated
+2023-04-30 20:48:40,973 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:48:40,974 - INFO - Return one room Request ended
+2023-04-30 20:48:40,976 - INFO - 127.0.0.1 - - [30/Apr/2023 20:48:40] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:48:40,979 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:48:40,983 - INFO - ProfilePicture Request Ended
+2023-04-30 20:48:40,984 - INFO - 127.0.0.1 - - [30/Apr/2023 20:48:40] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:48:40,985 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:48:40,987 - INFO - 127.0.0.1 - - [30/Apr/2023 20:48:40] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:48:41,235 - INFO - 127.0.0.1 - - [30/Apr/2023 20:48:41] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:48:41,296 - INFO - authtoken Request Initiated
+2023-04-30 20:48:41,298 - INFO - authtoken Request Ended
+2023-04-30 20:48:41,299 - INFO - 127.0.0.1 - - [30/Apr/2023 20:48:41] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:48:41,547 - INFO - Show one room booking Request Initiated
+2023-04-30 20:48:41,550 - INFO - Show one room booking Request ended
+2023-04-30 20:48:41,552 - INFO - 127.0.0.1 - - [30/Apr/2023 20:48:41] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 20:48:47,131 - INFO - Return one room Request Initiated
+2023-04-30 20:48:47,133 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:48:47,134 - INFO - Return one room Request ended
+2023-04-30 20:48:47,136 - INFO - 127.0.0.1 - - [30/Apr/2023 20:48:47] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:48:47,137 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:48:47,139 - INFO - ProfilePicture Request Ended
+2023-04-30 20:48:47,142 - INFO - 127.0.0.1 - - [30/Apr/2023 20:48:47] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:48:47,143 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:48:47,144 - INFO - 127.0.0.1 - - [30/Apr/2023 20:48:47] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:48:47,394 - INFO - 127.0.0.1 - - [30/Apr/2023 20:48:47] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:48:47,456 - INFO - authtoken Request Initiated
+2023-04-30 20:48:47,458 - INFO - authtoken Request Ended
+2023-04-30 20:48:47,458 - INFO - 127.0.0.1 - - [30/Apr/2023 20:48:47] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:48:47,706 - INFO - Show one room booking Request Initiated
+2023-04-30 20:48:47,707 - INFO - Show one room booking Request ended
+2023-04-30 20:48:47,708 - INFO - 127.0.0.1 - - [30/Apr/2023 20:48:47] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 20:50:02,960 - INFO - Return one room Request Initiated
+2023-04-30 20:50:02,962 - INFO - Return one room Request ended
+2023-04-30 20:50:02,963 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:50:02,964 - INFO - 127.0.0.1 - - [30/Apr/2023 20:50:02] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:50:02,967 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:50:02,970 - INFO - ProfilePicture Request Ended
+2023-04-30 20:50:02,971 - INFO - 127.0.0.1 - - [30/Apr/2023 20:50:02] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:50:02,971 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:50:02,972 - INFO - 127.0.0.1 - - [30/Apr/2023 20:50:02] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:50:03,227 - INFO - 127.0.0.1 - - [30/Apr/2023 20:50:03] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:50:03,275 - INFO - authtoken Request Initiated
+2023-04-30 20:50:03,277 - INFO - authtoken Request Ended
+2023-04-30 20:50:03,277 - INFO - 127.0.0.1 - - [30/Apr/2023 20:50:03] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:50:03,536 - INFO - Show one room booking Request Initiated
+2023-04-30 20:50:03,537 - INFO - Show one room booking Request ended
+2023-04-30 20:50:03,538 - INFO - 127.0.0.1 - - [30/Apr/2023 20:50:03] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 20:50:11,816 - INFO - Return one room Request Initiated
+2023-04-30 20:50:11,818 - INFO - Return one room Request ended
+2023-04-30 20:50:11,818 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:50:11,820 - INFO - 127.0.0.1 - - [30/Apr/2023 20:50:11] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:50:11,823 - INFO - ProfilePicture Request Ended
+2023-04-30 20:50:11,824 - INFO - 127.0.0.1 - - [30/Apr/2023 20:50:11] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:50:11,826 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:50:11,828 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:50:11,829 - INFO - 127.0.0.1 - - [30/Apr/2023 20:50:11] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:50:12,080 - INFO - 127.0.0.1 - - [30/Apr/2023 20:50:12] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:50:12,141 - INFO - authtoken Request Initiated
+2023-04-30 20:50:12,142 - INFO - authtoken Request Ended
+2023-04-30 20:50:12,143 - INFO - 127.0.0.1 - - [30/Apr/2023 20:50:12] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:50:12,387 - INFO - Show one room booking Request Initiated
+2023-04-30 20:50:12,388 - INFO - Show one room booking Request ended
+2023-04-30 20:50:12,389 - INFO - 127.0.0.1 - - [30/Apr/2023 20:50:12] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 20:50:25,767 - INFO - Return one room Request Initiated
+2023-04-30 20:50:25,770 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:50:25,770 - INFO - Return one room Request ended
+2023-04-30 20:50:25,772 - INFO - 127.0.0.1 - - [30/Apr/2023 20:50:25] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:50:25,773 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:50:25,775 - INFO - ProfilePicture Request Ended
+2023-04-30 20:50:25,777 - INFO - 127.0.0.1 - - [30/Apr/2023 20:50:25] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:50:25,778 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:50:25,779 - INFO - 127.0.0.1 - - [30/Apr/2023 20:50:25] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:50:26,033 - INFO - 127.0.0.1 - - [30/Apr/2023 20:50:26] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:50:26,078 - INFO - authtoken Request Initiated
+2023-04-30 20:50:26,080 - INFO - authtoken Request Ended
+2023-04-30 20:50:26,081 - INFO - 127.0.0.1 - - [30/Apr/2023 20:50:26] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:50:26,345 - INFO - Show one room booking Request Initiated
+2023-04-30 20:50:26,346 - INFO - Show one room booking Request ended
+2023-04-30 20:50:26,347 - INFO - 127.0.0.1 - - [30/Apr/2023 20:50:26] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 20:50:43,817 - INFO - Return one room Request Initiated
+2023-04-30 20:50:43,819 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:50:43,820 - INFO - Return one room Request ended
+2023-04-30 20:50:43,821 - INFO - 127.0.0.1 - - [30/Apr/2023 20:50:43] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:50:43,823 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:50:43,825 - INFO - ProfilePicture Request Ended
+2023-04-30 20:50:43,826 - INFO - 127.0.0.1 - - [30/Apr/2023 20:50:43] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:50:43,827 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:50:43,828 - INFO - 127.0.0.1 - - [30/Apr/2023 20:50:43] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:50:44,081 - INFO - 127.0.0.1 - - [30/Apr/2023 20:50:44] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:50:44,142 - INFO - authtoken Request Initiated
+2023-04-30 20:50:44,144 - INFO - authtoken Request Ended
+2023-04-30 20:50:44,144 - INFO - 127.0.0.1 - - [30/Apr/2023 20:50:44] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:50:44,390 - INFO - Show one room booking Request Initiated
+2023-04-30 20:50:44,392 - INFO - Show one room booking Request ended
+2023-04-30 20:50:44,392 - INFO - 127.0.0.1 - - [30/Apr/2023 20:50:44] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 20:51:28,757 - INFO - Return one room Request Initiated
+2023-04-30 20:51:28,758 - INFO - Return one room Request ended
+2023-04-30 20:51:28,759 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:51:28,760 - INFO - 127.0.0.1 - - [30/Apr/2023 20:51:28] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:51:28,763 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:51:28,765 - INFO - ProfilePicture Request Ended
+2023-04-30 20:51:28,767 - INFO - 127.0.0.1 - - [30/Apr/2023 20:51:28] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:51:28,767 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:51:28,768 - INFO - 127.0.0.1 - - [30/Apr/2023 20:51:28] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:51:29,022 - INFO - 127.0.0.1 - - [30/Apr/2023 20:51:29] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:51:29,067 - INFO - authtoken Request Initiated
+2023-04-30 20:51:29,069 - INFO - authtoken Request Ended
+2023-04-30 20:51:29,069 - INFO - 127.0.0.1 - - [30/Apr/2023 20:51:29] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:51:29,336 - INFO - Show one room booking Request Initiated
+2023-04-30 20:51:29,337 - INFO - Show one room booking Request ended
+2023-04-30 20:51:29,338 - INFO - 127.0.0.1 - - [30/Apr/2023 20:51:29] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 20:51:36,011 - INFO - Return one room Request Initiated
+2023-04-30 20:51:36,020 - INFO - Return one room Request ended
+2023-04-30 20:51:36,022 - INFO - 127.0.0.1 - - [30/Apr/2023 20:51:36] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:51:36,318 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:51:36,321 - INFO - ProfilePicture Request Ended
+2023-04-30 20:51:36,322 - INFO - 127.0.0.1 - - [30/Apr/2023 20:51:36] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:51:36,325 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:51:36,327 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:51:36,328 - INFO - 127.0.0.1 - - [30/Apr/2023 20:51:36] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:51:36,350 - INFO - 127.0.0.1 - - [30/Apr/2023 20:51:36] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:51:36,661 - INFO - authtoken Request Initiated
+2023-04-30 20:51:36,663 - INFO - authtoken Request Ended
+2023-04-30 20:51:36,663 - INFO - 127.0.0.1 - - [30/Apr/2023 20:51:36] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:51:36,926 - INFO - Show one room booking Request Initiated
+2023-04-30 20:51:36,927 - INFO - Show one room booking Request ended
+2023-04-30 20:51:36,927 - INFO - 127.0.0.1 - - [30/Apr/2023 20:51:36] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 20:52:36,019 - INFO - Return one room Request Initiated
+2023-04-30 20:52:36,020 - INFO - Return one room Request ended
+2023-04-30 20:52:36,021 - INFO - 127.0.0.1 - - [30/Apr/2023 20:52:36] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:52:36,022 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:52:36,025 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:52:36,028 - INFO - ProfilePicture Request Ended
+2023-04-30 20:52:36,030 - INFO - 127.0.0.1 - - [30/Apr/2023 20:52:36] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:52:36,031 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:52:36,032 - INFO - 127.0.0.1 - - [30/Apr/2023 20:52:36] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:52:36,280 - INFO - 127.0.0.1 - - [30/Apr/2023 20:52:36] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:52:36,341 - INFO - authtoken Request Initiated
+2023-04-30 20:52:36,343 - INFO - authtoken Request Ended
+2023-04-30 20:52:36,344 - INFO - 127.0.0.1 - - [30/Apr/2023 20:52:36] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:52:36,593 - INFO - Show one room booking Request Initiated
+2023-04-30 20:52:36,594 - INFO - Show one room booking Request ended
+2023-04-30 20:52:36,595 - INFO - 127.0.0.1 - - [30/Apr/2023 20:52:36] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 20:53:29,927 - INFO - Return one room Request Initiated
+2023-04-30 20:53:29,930 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:53:29,931 - INFO - Return one room Request ended
+2023-04-30 20:53:29,932 - INFO - 127.0.0.1 - - [30/Apr/2023 20:53:29] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:53:29,934 - INFO - ProfilePicture Request Ended
+2023-04-30 20:53:29,935 - INFO - 127.0.0.1 - - [30/Apr/2023 20:53:29] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:53:29,938 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:53:29,940 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:53:29,941 - INFO - 127.0.0.1 - - [30/Apr/2023 20:53:29] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:53:30,194 - INFO - 127.0.0.1 - - [30/Apr/2023 20:53:30] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:53:30,240 - INFO - authtoken Request Initiated
+2023-04-30 20:53:30,242 - INFO - authtoken Request Ended
+2023-04-30 20:53:30,243 - INFO - 127.0.0.1 - - [30/Apr/2023 20:53:30] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:53:30,510 - INFO - Show one room booking Request Initiated
+2023-04-30 20:53:30,512 - INFO - Show one room booking Request ended
+2023-04-30 20:53:30,512 - INFO - 127.0.0.1 - - [30/Apr/2023 20:53:30] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 20:55:13,741 - INFO - Return one room Request Initiated
+2023-04-30 20:55:13,745 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:55:13,746 - INFO - Return one room Request ended
+2023-04-30 20:55:13,747 - INFO - 127.0.0.1 - - [30/Apr/2023 20:55:13] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:55:13,750 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:55:13,753 - INFO - ProfilePicture Request Ended
+2023-04-30 20:55:13,755 - INFO - 127.0.0.1 - - [30/Apr/2023 20:55:13] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:55:13,756 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:55:13,757 - INFO - 127.0.0.1 - - [30/Apr/2023 20:55:13] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:55:13,991 - INFO - 127.0.0.1 - - [30/Apr/2023 20:55:13] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:55:14,068 - INFO - authtoken Request Initiated
+2023-04-30 20:55:14,069 - INFO - authtoken Request Ended
+2023-04-30 20:55:14,070 - INFO - 127.0.0.1 - - [30/Apr/2023 20:55:14] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:55:14,302 - INFO - Show one room booking Request Initiated
+2023-04-30 20:55:14,304 - INFO - Show one room booking Request ended
+2023-04-30 20:55:14,304 - INFO - 127.0.0.1 - - [30/Apr/2023 20:55:14] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 20:56:28,785 - INFO - Return one room Request Initiated
+2023-04-30 20:56:28,787 - INFO - Return one room Request ended
+2023-04-30 20:56:28,788 - INFO - 127.0.0.1 - - [30/Apr/2023 20:56:28] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:56:28,817 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:56:28,820 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:56:28,822 - INFO - ProfilePicture Request Ended
+2023-04-30 20:56:28,823 - INFO - 127.0.0.1 - - [30/Apr/2023 20:56:28] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:56:28,824 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:56:28,825 - INFO - 127.0.0.1 - - [30/Apr/2023 20:56:28] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:56:29,052 - INFO - 127.0.0.1 - - [30/Apr/2023 20:56:29] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:56:29,099 - INFO - authtoken Request Initiated
+2023-04-30 20:56:29,100 - INFO - authtoken Request Ended
+2023-04-30 20:56:29,101 - INFO - 127.0.0.1 - - [30/Apr/2023 20:56:29] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:56:29,364 - INFO - Show one room booking Request Initiated
+2023-04-30 20:56:29,365 - INFO - Show one room booking Request ended
+2023-04-30 20:56:29,367 - INFO - 127.0.0.1 - - [30/Apr/2023 20:56:29] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 20:56:38,618 - INFO - Return one room Request Initiated
+2023-04-30 20:56:38,621 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:56:38,621 - INFO - Return one room Request ended
+2023-04-30 20:56:38,624 - INFO - 127.0.0.1 - - [30/Apr/2023 20:56:38] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:56:38,625 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:56:38,627 - INFO - ProfilePicture Request Ended
+2023-04-30 20:56:38,629 - INFO - 127.0.0.1 - - [30/Apr/2023 20:56:38] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:56:38,629 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:56:38,630 - INFO - 127.0.0.1 - - [30/Apr/2023 20:56:38] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:56:38,868 - INFO - 127.0.0.1 - - [30/Apr/2023 20:56:38] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:56:38,945 - INFO - authtoken Request Initiated
+2023-04-30 20:56:38,947 - INFO - authtoken Request Ended
+2023-04-30 20:56:38,947 - INFO - 127.0.0.1 - - [30/Apr/2023 20:56:38] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:56:39,180 - INFO - Show one room booking Request Initiated
+2023-04-30 20:56:39,181 - INFO - Show one room booking Request ended
+2023-04-30 20:56:39,182 - INFO - 127.0.0.1 - - [30/Apr/2023 20:56:39] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 20:57:09,606 - INFO - Return one room Request Initiated
+2023-04-30 20:57:09,608 - INFO - Return one room Request ended
+2023-04-30 20:57:09,609 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:57:09,610 - INFO - 127.0.0.1 - - [30/Apr/2023 20:57:09] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:57:09,612 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:57:09,615 - INFO - ProfilePicture Request Ended
+2023-04-30 20:57:09,617 - INFO - 127.0.0.1 - - [30/Apr/2023 20:57:09] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:57:09,617 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:57:09,618 - INFO - 127.0.0.1 - - [30/Apr/2023 20:57:09] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:57:09,871 - INFO - 127.0.0.1 - - [30/Apr/2023 20:57:09] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:57:09,932 - INFO - authtoken Request Initiated
+2023-04-30 20:57:09,934 - INFO - authtoken Request Ended
+2023-04-30 20:57:09,935 - INFO - 127.0.0.1 - - [30/Apr/2023 20:57:09] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:57:10,185 - INFO - Show one room booking Request Initiated
+2023-04-30 20:57:10,186 - INFO - Show one room booking Request ended
+2023-04-30 20:57:10,186 - INFO - 127.0.0.1 - - [30/Apr/2023 20:57:10] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 20:57:50,027 - INFO - Return one room Request Initiated
+2023-04-30 20:57:50,029 - INFO - Return one room Request ended
+2023-04-30 20:57:50,030 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:57:50,031 - INFO - 127.0.0.1 - - [30/Apr/2023 20:57:50] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:57:50,034 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:57:50,036 - INFO - ProfilePicture Request Ended
+2023-04-30 20:57:50,039 - INFO - 127.0.0.1 - - [30/Apr/2023 20:57:50] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:57:50,039 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:57:50,040 - INFO - 127.0.0.1 - - [30/Apr/2023 20:57:50] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:57:50,294 - INFO - 127.0.0.1 - - [30/Apr/2023 20:57:50] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:57:50,355 - INFO - authtoken Request Initiated
+2023-04-30 20:57:50,357 - INFO - authtoken Request Ended
+2023-04-30 20:57:50,358 - INFO - 127.0.0.1 - - [30/Apr/2023 20:57:50] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:57:50,603 - INFO - Show one room booking Request Initiated
+2023-04-30 20:57:50,604 - INFO - Show one room booking Request ended
+2023-04-30 20:57:50,605 - INFO - 127.0.0.1 - - [30/Apr/2023 20:57:50] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 20:59:00,100 - INFO - Return one room Request Initiated
+2023-04-30 20:59:00,101 - INFO - Return one room Request ended
+2023-04-30 20:59:00,102 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:59:00,103 - INFO - 127.0.0.1 - - [30/Apr/2023 20:59:00] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:59:00,105 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:59:00,107 - INFO - ProfilePicture Request Ended
+2023-04-30 20:59:00,109 - INFO - 127.0.0.1 - - [30/Apr/2023 20:59:00] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:59:00,110 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:59:00,111 - INFO - 127.0.0.1 - - [30/Apr/2023 20:59:00] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:59:00,365 - INFO - 127.0.0.1 - - [30/Apr/2023 20:59:00] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:59:00,413 - INFO - authtoken Request Initiated
+2023-04-30 20:59:00,415 - INFO - authtoken Request Ended
+2023-04-30 20:59:00,415 - INFO - 127.0.0.1 - - [30/Apr/2023 20:59:00] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:59:00,675 - INFO - Show one room booking Request Initiated
+2023-04-30 20:59:00,676 - INFO - Show one room booking Request ended
+2023-04-30 20:59:00,677 - INFO - 127.0.0.1 - - [30/Apr/2023 20:59:00] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 20:59:09,863 - INFO - Return one room Request Initiated
+2023-04-30 20:59:09,865 - INFO - Return one room Request ended
+2023-04-30 20:59:09,866 - INFO - 127.0.0.1 - - [30/Apr/2023 20:59:09] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:59:09,867 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:59:09,870 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:59:09,872 - INFO - ProfilePicture Request Ended
+2023-04-30 20:59:09,874 - INFO - 127.0.0.1 - - [30/Apr/2023 20:59:09] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:59:09,875 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:59:09,876 - INFO - 127.0.0.1 - - [30/Apr/2023 20:59:09] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:59:10,130 - INFO - 127.0.0.1 - - [30/Apr/2023 20:59:10] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:59:10,177 - INFO - authtoken Request Initiated
+2023-04-30 20:59:10,179 - INFO - authtoken Request Ended
+2023-04-30 20:59:10,180 - INFO - 127.0.0.1 - - [30/Apr/2023 20:59:10] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:59:10,444 - INFO - Show one room booking Request Initiated
+2023-04-30 20:59:10,445 - INFO - Show one room booking Request ended
+2023-04-30 20:59:10,445 - INFO - 127.0.0.1 - - [30/Apr/2023 20:59:10] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 20:59:24,658 - INFO - Return one room Request Initiated
+2023-04-30 20:59:24,659 - INFO - Return one room Request ended
+2023-04-30 20:59:24,660 - INFO - 127.0.0.1 - - [30/Apr/2023 20:59:24] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:59:24,663 - INFO - ProfilePicture Request Initiated
+2023-04-30 20:59:24,665 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 20:59:24,668 - INFO - ProfilePicture Request Ended
+2023-04-30 20:59:24,669 - INFO - 127.0.0.1 - - [30/Apr/2023 20:59:24] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 20:59:24,669 - INFO - Room Mapping Picture Request Ended
+2023-04-30 20:59:24,670 - INFO - 127.0.0.1 - - [30/Apr/2023 20:59:24] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 20:59:24,922 - INFO - 127.0.0.1 - - [30/Apr/2023 20:59:24] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:59:24,985 - INFO - authtoken Request Initiated
+2023-04-30 20:59:24,986 - INFO - authtoken Request Ended
+2023-04-30 20:59:24,987 - INFO - 127.0.0.1 - - [30/Apr/2023 20:59:24] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 20:59:25,237 - INFO - Show one room booking Request Initiated
+2023-04-30 20:59:25,238 - INFO - Show one room booking Request ended
+2023-04-30 20:59:25,239 - INFO - 127.0.0.1 - - [30/Apr/2023 20:59:25] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 21:00:18,259 - INFO - Return one room Request Initiated
+2023-04-30 21:00:18,262 - INFO - Return one room Request ended
+2023-04-30 21:00:18,263 - INFO - 127.0.0.1 - - [30/Apr/2023 21:00:18] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:00:18,571 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:00:18,573 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 21:00:18,575 - INFO - ProfilePicture Request Ended
+2023-04-30 21:00:18,577 - INFO - 127.0.0.1 - - [30/Apr/2023 21:00:18] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:00:18,577 - INFO - Room Mapping Picture Request Ended
+2023-04-30 21:00:18,578 - INFO - 127.0.0.1 - - [30/Apr/2023 21:00:18] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:00:18,581 - INFO - 127.0.0.1 - - [30/Apr/2023 21:00:18] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:00:18,897 - INFO - authtoken Request Initiated
+2023-04-30 21:00:18,898 - INFO - authtoken Request Ended
+2023-04-30 21:00:18,899 - INFO - 127.0.0.1 - - [30/Apr/2023 21:00:18] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:00:19,165 - INFO - Show one room booking Request Initiated
+2023-04-30 21:00:19,166 - INFO - Show one room booking Request ended
+2023-04-30 21:00:19,167 - INFO - 127.0.0.1 - - [30/Apr/2023 21:00:19] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 21:00:31,647 - INFO - Return one room Request Initiated
+2023-04-30 21:00:31,649 - INFO - Return one room Request ended
+2023-04-30 21:00:31,650 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:00:31,651 - INFO - 127.0.0.1 - - [30/Apr/2023 21:00:31] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:00:31,653 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 21:00:31,656 - INFO - ProfilePicture Request Ended
+2023-04-30 21:00:31,658 - INFO - 127.0.0.1 - - [30/Apr/2023 21:00:31] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:00:31,658 - INFO - Room Mapping Picture Request Ended
+2023-04-30 21:00:31,659 - INFO - 127.0.0.1 - - [30/Apr/2023 21:00:31] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:00:31,915 - INFO - 127.0.0.1 - - [30/Apr/2023 21:00:31] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:00:31,961 - INFO - authtoken Request Initiated
+2023-04-30 21:00:31,962 - INFO - authtoken Request Ended
+2023-04-30 21:00:31,963 - INFO - 127.0.0.1 - - [30/Apr/2023 21:00:31] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:00:32,227 - INFO - Show one room booking Request Initiated
+2023-04-30 21:00:32,228 - INFO - Show one room booking Request ended
+2023-04-30 21:00:32,228 - INFO - 127.0.0.1 - - [30/Apr/2023 21:00:32] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 21:02:24,758 - INFO - Return one room Request Initiated
+2023-04-30 21:02:24,760 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:02:24,761 - INFO - Return one room Request ended
+2023-04-30 21:02:24,762 - INFO - 127.0.0.1 - - [30/Apr/2023 21:02:24] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:02:24,765 - INFO - ProfilePicture Request Ended
+2023-04-30 21:02:24,766 - INFO - 127.0.0.1 - - [30/Apr/2023 21:02:24] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:02:24,768 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 21:02:24,770 - INFO - Room Mapping Picture Request Ended
+2023-04-30 21:02:24,771 - INFO - 127.0.0.1 - - [30/Apr/2023 21:02:24] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:02:25,022 - INFO - 127.0.0.1 - - [30/Apr/2023 21:02:25] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:02:25,083 - INFO - authtoken Request Initiated
+2023-04-30 21:02:25,085 - INFO - authtoken Request Ended
+2023-04-30 21:02:25,085 - INFO - 127.0.0.1 - - [30/Apr/2023 21:02:25] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:02:25,333 - INFO - Show one room booking Request Initiated
+2023-04-30 21:02:25,334 - INFO - Show one room booking Request ended
+2023-04-30 21:02:25,335 - INFO - 127.0.0.1 - - [30/Apr/2023 21:02:25] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 21:02:56,165 - INFO - Return one room Request Initiated
+2023-04-30 21:02:56,167 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:02:56,168 - INFO - Return one room Request ended
+2023-04-30 21:02:56,169 - INFO - 127.0.0.1 - - [30/Apr/2023 21:02:56] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:02:56,171 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 21:02:56,174 - INFO - ProfilePicture Request Ended
+2023-04-30 21:02:56,175 - INFO - 127.0.0.1 - - [30/Apr/2023 21:02:56] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:02:56,176 - INFO - Room Mapping Picture Request Ended
+2023-04-30 21:02:56,177 - INFO - 127.0.0.1 - - [30/Apr/2023 21:02:56] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:02:56,417 - INFO - 127.0.0.1 - - [30/Apr/2023 21:02:56] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:02:56,478 - INFO - authtoken Request Initiated
+2023-04-30 21:02:56,483 - INFO - authtoken Request Ended
+2023-04-30 21:02:56,484 - INFO - 127.0.0.1 - - [30/Apr/2023 21:02:56] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:02:56,730 - INFO - Show one room booking Request Initiated
+2023-04-30 21:02:56,731 - INFO - Show one room booking Request ended
+2023-04-30 21:02:56,732 - INFO - 127.0.0.1 - - [30/Apr/2023 21:02:56] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 21:03:05,929 - INFO - Return one room Request Initiated
+2023-04-30 21:03:05,932 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:03:05,932 - INFO - Return one room Request ended
+2023-04-30 21:03:05,934 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:05] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:03:05,936 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 21:03:05,938 - INFO - ProfilePicture Request Ended
+2023-04-30 21:03:05,940 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:05] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:03:05,940 - INFO - Room Mapping Picture Request Ended
+2023-04-30 21:03:05,941 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:05] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:03:06,193 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:06] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:03:06,256 - INFO - authtoken Request Initiated
+2023-04-30 21:03:06,260 - INFO - authtoken Request Ended
+2023-04-30 21:03:06,261 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:06] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:03:06,504 - INFO - Show one room booking Request Initiated
+2023-04-30 21:03:06,506 - INFO - Show one room booking Request ended
+2023-04-30 21:03:06,507 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:06] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 21:03:17,952 - INFO - Return one room Request Initiated
+2023-04-30 21:03:17,954 - INFO - Return one room Request ended
+2023-04-30 21:03:17,955 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:03:17,956 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:17] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:03:17,959 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 21:03:17,961 - INFO - ProfilePicture Request Ended
+2023-04-30 21:03:17,963 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:17] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:03:17,964 - INFO - Room Mapping Picture Request Ended
+2023-04-30 21:03:17,964 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:17] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:03:18,217 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:18] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:03:18,278 - INFO - authtoken Request Initiated
+2023-04-30 21:03:18,280 - INFO - authtoken Request Ended
+2023-04-30 21:03:18,281 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:18] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:03:18,527 - INFO - Show one room booking Request Initiated
+2023-04-30 21:03:18,528 - INFO - Show one room booking Request ended
+2023-04-30 21:03:18,529 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:18] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 21:03:24,076 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:03:24,079 - INFO - ProfilePicture Request Ended
+2023-04-30 21:03:24,080 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:24] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:03:24,083 - INFO - Return all rooms Request Initiated
+2023-04-30 21:03:24,085 - INFO - Return all rooms Request ended
+2023-04-30 21:03:24,097 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:24] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 21:03:24,344 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:24] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:03:24,405 - INFO - authtoken Request Initiated
+2023-04-30 21:03:24,406 - INFO - authtoken Request Ended
+2023-04-30 21:03:24,407 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:24] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:03:41,022 - INFO - Post a booking by Name Request Initiated
+2023-04-30 21:03:41,030 - INFO - Post a booking by Name Request Ended
+2023-04-30 21:03:41,030 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:41] "[35m[1mPOST /api/v1.0/bookingsname HTTP/1.1[0m" 201 -
+2023-04-30 21:03:42,398 - INFO - Show all university news Request Initiated
+2023-04-30 21:03:42,400 - INFO - Show all university news Request Ended
+2023-04-30 21:03:42,401 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:42] "GET /api/v1.0/uniNews HTTP/1.1" 200 -
+2023-04-30 21:03:42,714 - INFO - show all unversity events Request Initiated
+2023-04-30 21:03:42,718 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:42] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:03:42,718 - INFO - show all unversity events Request Ended
+2023-04-30 21:03:42,720 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:42] "GET /api/v1.0/uniEvents HTTP/1.1" 200 -
+2023-04-30 21:03:42,723 - INFO - Generate Pie Chart Usage Request Initiated
+2023-04-30 21:03:42,727 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:03:42,744 - INFO - ProfilePicture Request Ended
+2023-04-30 21:03:42,745 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:42] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:03:43,038 - INFO - authtoken Request Initiated
+2023-04-30 21:03:43,039 - INFO - authtoken Request Ended
+2023-04-30 21:03:43,040 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:43] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:03:43,352 - INFO - Show all bookings for a user Request Initiated
+2023-04-30 21:03:43,354 - INFO - Show all bookings for a user Request ended
+2023-04-30 21:03:43,355 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:43] "GET /api/v1.0/bookings/user/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:03:44,126 - INFO - Return all rooms Request Initiated
+2023-04-30 21:03:44,127 - INFO - Return all rooms Request ended
+2023-04-30 21:03:44,134 - INFO - authtoken Request Initiated
+2023-04-30 21:03:44,139 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:44] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 21:03:44,140 - INFO - authtoken Request Ended
+2023-04-30 21:03:44,141 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:44] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:03:44,143 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:03:44,146 - INFO - ProfilePicture Request Ended
+2023-04-30 21:03:44,147 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:44] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:03:44,351 - INFO - Generate Pie Chart Usage Request Ended
+2023-04-30 21:03:44,352 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:44] "GET /api/v1.0/rooms/piegraph/2022-12-28%2012:00 HTTP/1.1" 200 -
+2023-04-30 21:03:46,395 - INFO - Return one room Request Initiated
+2023-04-30 21:03:46,396 - INFO - Return one room Request ended
+2023-04-30 21:03:46,397 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:46] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:03:46,398 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:03:46,401 - INFO - ProfilePicture Request Ended
+2023-04-30 21:03:46,403 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:46] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:03:46,404 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 21:03:46,406 - INFO - Room Mapping Picture Request Ended
+2023-04-30 21:03:46,407 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:46] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:03:46,644 - INFO - authtoken Request Initiated
+2023-04-30 21:03:46,645 - INFO - authtoken Request Ended
+2023-04-30 21:03:46,645 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:46] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:03:46,706 - INFO - Show one room booking Request Initiated
+2023-04-30 21:03:46,708 - INFO - Show one room booking Request ended
+2023-04-30 21:03:46,708 - INFO - 127.0.0.1 - - [30/Apr/2023 21:03:46] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 21:04:26,724 - INFO - Return one room Request Initiated
+2023-04-30 21:04:26,726 - INFO - Return one room Request ended
+2023-04-30 21:04:26,727 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:04:26,728 - INFO - 127.0.0.1 - - [30/Apr/2023 21:04:26] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:04:26,730 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 21:04:26,732 - INFO - ProfilePicture Request Ended
+2023-04-30 21:04:26,734 - INFO - 127.0.0.1 - - [30/Apr/2023 21:04:26] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:04:26,735 - INFO - Room Mapping Picture Request Ended
+2023-04-30 21:04:26,736 - INFO - 127.0.0.1 - - [30/Apr/2023 21:04:26] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:04:26,991 - INFO - 127.0.0.1 - - [30/Apr/2023 21:04:26] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:04:27,038 - INFO - authtoken Request Initiated
+2023-04-30 21:04:27,040 - INFO - authtoken Request Ended
+2023-04-30 21:04:27,040 - INFO - 127.0.0.1 - - [30/Apr/2023 21:04:27] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:04:27,309 - INFO - Show one room booking Request Initiated
+2023-04-30 21:04:27,310 - INFO - Show one room booking Request ended
+2023-04-30 21:04:27,310 - INFO - 127.0.0.1 - - [30/Apr/2023 21:04:27] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 21:04:46,415 - INFO - Return one room Request Initiated
+2023-04-30 21:04:46,417 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:04:46,419 - INFO - Return one room Request ended
+2023-04-30 21:04:46,420 - INFO - 127.0.0.1 - - [30/Apr/2023 21:04:46] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:04:46,423 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 21:04:46,426 - INFO - ProfilePicture Request Ended
+2023-04-30 21:04:46,427 - INFO - 127.0.0.1 - - [30/Apr/2023 21:04:46] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:04:46,429 - INFO - Room Mapping Picture Request Ended
+2023-04-30 21:04:46,430 - INFO - 127.0.0.1 - - [30/Apr/2023 21:04:46] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:04:46,681 - INFO - 127.0.0.1 - - [30/Apr/2023 21:04:46] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:04:46,741 - INFO - authtoken Request Initiated
+2023-04-30 21:04:46,743 - INFO - authtoken Request Ended
+2023-04-30 21:04:46,744 - INFO - 127.0.0.1 - - [30/Apr/2023 21:04:46] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:04:46,991 - INFO - Show one room booking Request Initiated
+2023-04-30 21:04:46,992 - INFO - Show one room booking Request ended
+2023-04-30 21:04:46,993 - INFO - 127.0.0.1 - - [30/Apr/2023 21:04:46] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 21:04:50,321 - INFO - Return one room Request Initiated
+2023-04-30 21:04:50,323 - INFO - Return one room Request ended
+2023-04-30 21:04:50,325 - INFO - 127.0.0.1 - - [30/Apr/2023 21:04:50] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:04:50,632 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:04:50,635 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 21:04:50,637 - INFO - ProfilePicture Request Ended
+2023-04-30 21:04:50,638 - INFO - 127.0.0.1 - - [30/Apr/2023 21:04:50] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:04:50,640 - INFO - Room Mapping Picture Request Ended
+2023-04-30 21:04:50,641 - INFO - 127.0.0.1 - - [30/Apr/2023 21:04:50] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:04:50,643 - INFO - authtoken Request Initiated
+2023-04-30 21:04:50,645 - INFO - authtoken Request Ended
+2023-04-30 21:04:50,646 - INFO - 127.0.0.1 - - [30/Apr/2023 21:04:50] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:04:50,961 - INFO - Show one room booking Request Initiated
+2023-04-30 21:04:50,962 - INFO - Show one room booking Request ended
+2023-04-30 21:04:50,963 - INFO - 127.0.0.1 - - [30/Apr/2023 21:04:50] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 21:05:38,897 - INFO - Return one room Request Initiated
+2023-04-30 21:05:38,899 - INFO - Return one room Request ended
+2023-04-30 21:05:38,901 - INFO - 127.0.0.1 - - [30/Apr/2023 21:05:38] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:05:38,906 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:05:38,909 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 21:05:38,913 - INFO - ProfilePicture Request Ended
+2023-04-30 21:05:38,915 - INFO - 127.0.0.1 - - [30/Apr/2023 21:05:38] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:05:38,916 - INFO - Room Mapping Picture Request Ended
+2023-04-30 21:05:38,917 - INFO - 127.0.0.1 - - [30/Apr/2023 21:05:38] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:05:39,152 - INFO - 127.0.0.1 - - [30/Apr/2023 21:05:39] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:05:39,214 - INFO - authtoken Request Initiated
+2023-04-30 21:05:39,216 - INFO - authtoken Request Ended
+2023-04-30 21:05:39,216 - INFO - 127.0.0.1 - - [30/Apr/2023 21:05:39] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:05:39,465 - INFO - Show one room booking Request Initiated
+2023-04-30 21:05:39,466 - INFO - Show one room booking Request ended
+2023-04-30 21:05:39,467 - INFO - 127.0.0.1 - - [30/Apr/2023 21:05:39] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 21:05:50,443 - INFO - Return one room Request Initiated
+2023-04-30 21:05:50,445 - INFO - Return one room Request ended
+2023-04-30 21:05:50,446 - INFO - 127.0.0.1 - - [30/Apr/2023 21:05:50] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:05:50,447 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:05:50,450 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 21:05:50,452 - INFO - ProfilePicture Request Ended
+2023-04-30 21:05:50,454 - INFO - 127.0.0.1 - - [30/Apr/2023 21:05:50] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:05:50,454 - INFO - Room Mapping Picture Request Ended
+2023-04-30 21:05:50,455 - INFO - 127.0.0.1 - - [30/Apr/2023 21:05:50] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:05:50,712 - INFO - 127.0.0.1 - - [30/Apr/2023 21:05:50] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:05:50,758 - INFO - authtoken Request Initiated
+2023-04-30 21:05:50,759 - INFO - authtoken Request Ended
+2023-04-30 21:05:50,760 - INFO - 127.0.0.1 - - [30/Apr/2023 21:05:50] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:05:51,024 - INFO - Show one room booking Request Initiated
+2023-04-30 21:05:51,026 - INFO - Show one room booking Request ended
+2023-04-30 21:05:51,026 - INFO - 127.0.0.1 - - [30/Apr/2023 21:05:51] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 21:06:01,522 - INFO - Return one room Request Initiated
+2023-04-30 21:06:01,525 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:06:01,525 - INFO - Return one room Request ended
+2023-04-30 21:06:01,527 - INFO - 127.0.0.1 - - [30/Apr/2023 21:06:01] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:06:01,531 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 21:06:01,533 - INFO - ProfilePicture Request Ended
+2023-04-30 21:06:01,536 - INFO - 127.0.0.1 - - [30/Apr/2023 21:06:01] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:06:01,537 - INFO - Room Mapping Picture Request Ended
+2023-04-30 21:06:01,538 - INFO - 127.0.0.1 - - [30/Apr/2023 21:06:01] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:06:01,788 - INFO - 127.0.0.1 - - [30/Apr/2023 21:06:01] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:06:01,851 - INFO - authtoken Request Initiated
+2023-04-30 21:06:01,852 - INFO - authtoken Request Ended
+2023-04-30 21:06:01,853 - INFO - 127.0.0.1 - - [30/Apr/2023 21:06:01] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:06:02,100 - INFO - Show one room booking Request Initiated
+2023-04-30 21:06:02,101 - INFO - Show one room booking Request ended
+2023-04-30 21:06:02,102 - INFO - 127.0.0.1 - - [30/Apr/2023 21:06:02] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 21:06:52,041 - INFO - Return one room Request Initiated
+2023-04-30 21:06:52,043 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:06:52,044 - INFO - Return one room Request ended
+2023-04-30 21:06:52,045 - INFO - 127.0.0.1 - - [30/Apr/2023 21:06:52] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:06:52,048 - INFO - ProfilePicture Request Ended
+2023-04-30 21:06:52,050 - INFO - 127.0.0.1 - - [30/Apr/2023 21:06:52] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:06:52,052 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 21:06:52,056 - INFO - Room Mapping Picture Request Ended
+2023-04-30 21:06:52,057 - INFO - 127.0.0.1 - - [30/Apr/2023 21:06:52] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:06:52,305 - INFO - 127.0.0.1 - - [30/Apr/2023 21:06:52] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:06:52,365 - INFO - authtoken Request Initiated
+2023-04-30 21:06:52,367 - INFO - authtoken Request Ended
+2023-04-30 21:06:52,368 - INFO - 127.0.0.1 - - [30/Apr/2023 21:06:52] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:06:52,617 - INFO - Show one room booking Request Initiated
+2023-04-30 21:06:52,618 - INFO - Show one room booking Request ended
+2023-04-30 21:06:52,619 - INFO - 127.0.0.1 - - [30/Apr/2023 21:06:52] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 21:08:47,376 - INFO - Return one room Request Initiated
+2023-04-30 21:08:47,380 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:08:47,382 - INFO - Return one room Request ended
+2023-04-30 21:08:47,383 - INFO - 127.0.0.1 - - [30/Apr/2023 21:08:47] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:08:47,388 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 21:08:47,388 - INFO - ProfilePicture Request Ended
+2023-04-30 21:08:47,392 - INFO - 127.0.0.1 - - [30/Apr/2023 21:08:47] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:08:47,393 - INFO - Room Mapping Picture Request Ended
+2023-04-30 21:08:47,394 - INFO - 127.0.0.1 - - [30/Apr/2023 21:08:47] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:08:47,642 - INFO - 127.0.0.1 - - [30/Apr/2023 21:08:47] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:08:47,705 - INFO - authtoken Request Initiated
+2023-04-30 21:08:47,706 - INFO - authtoken Request Ended
+2023-04-30 21:08:47,707 - INFO - 127.0.0.1 - - [30/Apr/2023 21:08:47] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:08:47,956 - INFO - Show one room booking Request Initiated
+2023-04-30 21:08:47,958 - INFO - Show one room booking Request ended
+2023-04-30 21:08:47,959 - INFO - 127.0.0.1 - - [30/Apr/2023 21:08:47] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 21:10:26,712 - INFO - Return one room Request Initiated
+2023-04-30 21:10:26,714 - INFO - Return one room Request ended
+2023-04-30 21:10:26,715 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:10:26,716 - INFO - 127.0.0.1 - - [30/Apr/2023 21:10:26] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:10:26,719 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 21:10:26,723 - INFO - ProfilePicture Request Ended
+2023-04-30 21:10:26,724 - INFO - 127.0.0.1 - - [30/Apr/2023 21:10:26] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:10:26,725 - INFO - Room Mapping Picture Request Ended
+2023-04-30 21:10:26,726 - INFO - 127.0.0.1 - - [30/Apr/2023 21:10:26] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:10:26,969 - INFO - 127.0.0.1 - - [30/Apr/2023 21:10:26] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:10:27,029 - INFO - authtoken Request Initiated
+2023-04-30 21:10:27,031 - INFO - authtoken Request Ended
+2023-04-30 21:10:27,032 - INFO - 127.0.0.1 - - [30/Apr/2023 21:10:27] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:10:27,278 - INFO - Show one room booking Request Initiated
+2023-04-30 21:10:27,279 - INFO - Show one room booking Request ended
+2023-04-30 21:10:27,280 - INFO - 127.0.0.1 - - [30/Apr/2023 21:10:27] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 21:10:31,899 - INFO - Return one room Request Initiated
+2023-04-30 21:10:31,901 - INFO - Return one room Request ended
+2023-04-30 21:10:31,902 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:10:31,903 - INFO - 127.0.0.1 - - [30/Apr/2023 21:10:31] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:10:31,905 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 21:10:31,909 - INFO - ProfilePicture Request Ended
+2023-04-30 21:10:31,910 - INFO - 127.0.0.1 - - [30/Apr/2023 21:10:31] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:10:31,910 - INFO - Room Mapping Picture Request Ended
+2023-04-30 21:10:31,911 - INFO - 127.0.0.1 - - [30/Apr/2023 21:10:31] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:10:32,163 - INFO - authtoken Request Initiated
+2023-04-30 21:10:32,165 - INFO - authtoken Request Ended
+2023-04-30 21:10:32,165 - INFO - 127.0.0.1 - - [30/Apr/2023 21:10:32] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:10:32,225 - INFO - Show one room booking Request Initiated
+2023-04-30 21:10:32,226 - INFO - Show one room booking Request ended
+2023-04-30 21:10:32,227 - INFO - 127.0.0.1 - - [30/Apr/2023 21:10:32] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 21:27:41,041 - INFO - Return one room Request Initiated
+2023-04-30 21:27:41,055 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:27:41,061 - INFO - Return one room Request ended
+2023-04-30 21:27:41,068 - INFO - 127.0.0.1 - - [30/Apr/2023 21:27:41] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:27:41,073 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 21:27:41,078 - INFO - ProfilePicture Request Ended
+2023-04-30 21:27:41,085 - INFO - 127.0.0.1 - - [30/Apr/2023 21:27:41] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:27:41,087 - INFO - Room Mapping Picture Request Ended
+2023-04-30 21:27:41,088 - INFO - 127.0.0.1 - - [30/Apr/2023 21:27:41] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:27:41,206 - INFO - 127.0.0.1 - - [30/Apr/2023 21:27:41] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:27:41,391 - INFO - authtoken Request Initiated
+2023-04-30 21:27:41,398 - INFO - authtoken Request Ended
+2023-04-30 21:27:41,398 - INFO - 127.0.0.1 - - [30/Apr/2023 21:27:41] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:27:41,517 - INFO - Show one room booking Request Initiated
+2023-04-30 21:27:41,520 - INFO - Show one room booking Request ended
+2023-04-30 21:27:41,521 - INFO - 127.0.0.1 - - [30/Apr/2023 21:27:41] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 21:28:28,250 - INFO - Return one room Request Initiated
+2023-04-30 21:28:28,253 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:28:28,254 - INFO - Return one room Request ended
+2023-04-30 21:28:28,256 - INFO - 127.0.0.1 - - [30/Apr/2023 21:28:28] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:28:28,257 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 21:28:28,261 - INFO - ProfilePicture Request Ended
+2023-04-30 21:28:28,263 - INFO - 127.0.0.1 - - [30/Apr/2023 21:28:28] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:28:28,264 - INFO - Room Mapping Picture Request Ended
+2023-04-30 21:28:28,265 - INFO - 127.0.0.1 - - [30/Apr/2023 21:28:28] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-04-30 21:28:28,513 - INFO - 127.0.0.1 - - [30/Apr/2023 21:28:28] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:28:28,574 - INFO - authtoken Request Initiated
+2023-04-30 21:28:28,576 - INFO - authtoken Request Ended
+2023-04-30 21:28:28,576 - INFO - 127.0.0.1 - - [30/Apr/2023 21:28:28] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:28:28,826 - INFO - Show one room booking Request Initiated
+2023-04-30 21:28:28,827 - INFO - Show one room booking Request ended
+2023-04-30 21:28:28,828 - INFO - 127.0.0.1 - - [30/Apr/2023 21:28:28] "GET /api/v1.0/bookings/3 HTTP/1.1" 200 -
+2023-04-30 21:28:40,678 - INFO - Return all rooms Request Initiated
+2023-04-30 21:28:40,680 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:28:40,682 - INFO - Return all rooms Request ended
+2023-04-30 21:28:40,696 - INFO - 127.0.0.1 - - [30/Apr/2023 21:28:40] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 21:28:40,699 - INFO - 127.0.0.1 - - [30/Apr/2023 21:28:40] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:28:40,701 - INFO - ProfilePicture Request Ended
+2023-04-30 21:28:40,703 - INFO - 127.0.0.1 - - [30/Apr/2023 21:28:40] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:28:40,942 - INFO - authtoken Request Initiated
+2023-04-30 21:28:40,943 - INFO - authtoken Request Ended
+2023-04-30 21:28:40,944 - INFO - 127.0.0.1 - - [30/Apr/2023 21:28:40] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:28:45,754 - INFO - Return one room Request Initiated
+2023-04-30 21:28:45,756 - INFO - Return one room Request ended
+2023-04-30 21:28:45,757 - INFO - 127.0.0.1 - - [30/Apr/2023 21:28:45] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6f HTTP/1.1" 200 -
+2023-04-30 21:28:46,060 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:28:46,062 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 21:28:46,065 - INFO - ProfilePicture Request Ended
+2023-04-30 21:28:46,066 - INFO - 127.0.0.1 - - [30/Apr/2023 21:28:46] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:28:46,070 - INFO - 127.0.0.1 - - [30/Apr/2023 21:28:46] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:28:46,082 - INFO - Room Mapping Picture Request Ended
+2023-04-30 21:28:46,082 - INFO - 127.0.0.1 - - [30/Apr/2023 21:28:46] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6f HTTP/1.1" 200 -
+2023-04-30 21:28:46,385 - INFO - authtoken Request Initiated
+2023-04-30 21:28:46,386 - INFO - authtoken Request Ended
+2023-04-30 21:28:46,387 - INFO - 127.0.0.1 - - [30/Apr/2023 21:28:46] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:28:46,696 - INFO - Show one room booking Request Initiated
+2023-04-30 21:28:46,698 - WARNING - No bookings for this room
+2023-04-30 21:28:46,699 - INFO - 127.0.0.1 - - [30/Apr/2023 21:28:46] "[33mGET /api/v1.0/bookings/8 HTTP/1.1[0m" 404 -
+2023-04-30 21:28:52,488 - INFO - Return all rooms Request Initiated
+2023-04-30 21:28:52,490 - INFO - Return all rooms Request ended
+2023-04-30 21:28:52,501 - INFO - 127.0.0.1 - - [30/Apr/2023 21:28:52] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 21:28:52,795 - INFO - 127.0.0.1 - - [30/Apr/2023 21:28:52] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:28:52,797 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:28:52,800 - INFO - ProfilePicture Request Ended
+2023-04-30 21:28:52,801 - INFO - 127.0.0.1 - - [30/Apr/2023 21:28:52] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:28:53,107 - INFO - authtoken Request Initiated
+2023-04-30 21:28:53,108 - INFO - authtoken Request Ended
+2023-04-30 21:28:53,109 - INFO - 127.0.0.1 - - [30/Apr/2023 21:28:53] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:28:54,023 - INFO - Return one room Request Initiated
+2023-04-30 21:28:54,025 - INFO - Return one room Request ended
+2023-04-30 21:28:54,026 - INFO - 127.0.0.1 - - [30/Apr/2023 21:28:54] "GET /api/v1.0/rooms/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 21:28:54,027 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:28:54,030 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 21:28:54,033 - INFO - ProfilePicture Request Ended
+2023-04-30 21:28:54,034 - INFO - 127.0.0.1 - - [30/Apr/2023 21:28:54] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:28:54,036 - INFO - Room Mapping Picture Request Ended
+2023-04-30 21:28:54,036 - INFO - 127.0.0.1 - - [30/Apr/2023 21:28:54] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 21:28:54,286 - INFO - authtoken Request Initiated
+2023-04-30 21:28:54,288 - INFO - authtoken Request Ended
+2023-04-30 21:28:54,288 - INFO - 127.0.0.1 - - [30/Apr/2023 21:28:54] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:28:54,331 - INFO - Show one room booking Request Initiated
+2023-04-30 21:28:54,333 - INFO - Show one room booking Request ended
+2023-04-30 21:28:54,333 - INFO - 127.0.0.1 - - [30/Apr/2023 21:28:54] "GET /api/v1.0/bookings/1 HTTP/1.1" 200 -
+2023-04-30 21:29:00,657 - INFO - Return all rooms Request Initiated
+2023-04-30 21:29:00,660 - INFO - 127.0.0.1 - - [30/Apr/2023 21:29:00] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:29:00,661 - INFO - Return all rooms Request ended
+2023-04-30 21:29:00,671 - INFO - 127.0.0.1 - - [30/Apr/2023 21:29:00] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 21:29:00,673 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:29:00,676 - INFO - ProfilePicture Request Ended
+2023-04-30 21:29:00,678 - INFO - 127.0.0.1 - - [30/Apr/2023 21:29:00] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:29:00,905 - INFO - authtoken Request Initiated
+2023-04-30 21:29:00,907 - INFO - authtoken Request Ended
+2023-04-30 21:29:00,907 - INFO - 127.0.0.1 - - [30/Apr/2023 21:29:00] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:31:00,743 - INFO - Return all rooms Request Initiated
+2023-04-30 21:31:00,746 - INFO - 127.0.0.1 - - [30/Apr/2023 21:31:00] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:31:00,746 - INFO - Return all rooms Request ended
+2023-04-30 21:31:00,758 - INFO - 127.0.0.1 - - [30/Apr/2023 21:31:00] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 21:31:00,761 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:31:00,764 - INFO - ProfilePicture Request Ended
+2023-04-30 21:31:00,765 - INFO - 127.0.0.1 - - [30/Apr/2023 21:31:00] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:31:00,990 - INFO - authtoken Request Initiated
+2023-04-30 21:31:00,992 - INFO - authtoken Request Ended
+2023-04-30 21:31:00,992 - INFO - 127.0.0.1 - - [30/Apr/2023 21:31:00] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:33:23,337 - INFO - Return all rooms Request Initiated
+2023-04-30 21:33:23,340 - INFO - Return all rooms Request ended
+2023-04-30 21:33:23,341 - INFO - 127.0.0.1 - - [30/Apr/2023 21:33:23] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:33:23,343 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:33:23,354 - INFO - 127.0.0.1 - - [30/Apr/2023 21:33:23] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 21:33:23,358 - INFO - ProfilePicture Request Ended
+2023-04-30 21:33:23,359 - INFO - 127.0.0.1 - - [30/Apr/2023 21:33:23] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:33:23,601 - INFO - authtoken Request Initiated
+2023-04-30 21:33:23,602 - INFO - authtoken Request Ended
+2023-04-30 21:33:23,603 - INFO - 127.0.0.1 - - [30/Apr/2023 21:33:23] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:33:50,802 - INFO - Return all rooms Request Initiated
+2023-04-30 21:33:50,804 - INFO - Return all rooms Request ended
+2023-04-30 21:33:50,817 - INFO - 127.0.0.1 - - [30/Apr/2023 21:33:50] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 21:33:50,819 - INFO - 127.0.0.1 - - [30/Apr/2023 21:33:50] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:33:50,821 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:33:50,824 - INFO - ProfilePicture Request Ended
+2023-04-30 21:33:50,826 - INFO - 127.0.0.1 - - [30/Apr/2023 21:33:50] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:33:51,055 - INFO - authtoken Request Initiated
+2023-04-30 21:33:51,056 - INFO - authtoken Request Ended
+2023-04-30 21:33:51,057 - INFO - 127.0.0.1 - - [30/Apr/2023 21:33:51] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:33:53,127 - INFO - authtoken Request Initiated
+2023-04-30 21:33:53,129 - INFO - authtoken Request Ended
+2023-04-30 21:33:53,130 - INFO - 127.0.0.1 - - [30/Apr/2023 21:33:53] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:33:53,446 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:33:53,448 - INFO - Show all bookings for a user Request Initiated
+2023-04-30 21:33:53,451 - INFO - Show all bookings for a user Request ended
+2023-04-30 21:33:53,451 - INFO - ProfilePicture Request Ended
+2023-04-30 21:33:53,452 - INFO - 127.0.0.1 - - [30/Apr/2023 21:33:53] "GET /api/v1.0/bookings/user/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:33:53,453 - INFO - 127.0.0.1 - - [30/Apr/2023 21:33:53] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:34:10,601 - INFO - 127.0.0.1 - - [30/Apr/2023 21:34:10] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:34:10,604 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:34:10,607 - INFO - ProfilePicture Request Ended
+2023-04-30 21:34:10,608 - INFO - 127.0.0.1 - - [30/Apr/2023 21:34:10] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:34:10,867 - INFO - authtoken Request Initiated
+2023-04-30 21:34:10,868 - INFO - authtoken Request Ended
+2023-04-30 21:34:10,869 - INFO - 127.0.0.1 - - [30/Apr/2023 21:34:10] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:34:10,913 - INFO - Show all bookings for a user Request Initiated
+2023-04-30 21:34:10,914 - INFO - Show all bookings for a user Request ended
+2023-04-30 21:34:10,916 - INFO - 127.0.0.1 - - [30/Apr/2023 21:34:10] "GET /api/v1.0/bookings/user/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:34:37,147 - INFO - 127.0.0.1 - - [30/Apr/2023 21:34:37] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:34:37,149 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:34:37,152 - INFO - ProfilePicture Request Ended
+2023-04-30 21:34:37,153 - INFO - 127.0.0.1 - - [30/Apr/2023 21:34:37] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:34:37,410 - INFO - authtoken Request Initiated
+2023-04-30 21:34:37,411 - INFO - authtoken Request Ended
+2023-04-30 21:34:37,412 - INFO - 127.0.0.1 - - [30/Apr/2023 21:34:37] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:34:37,457 - INFO - Show all bookings for a user Request Initiated
+2023-04-30 21:34:37,459 - INFO - Show all bookings for a user Request ended
+2023-04-30 21:34:37,460 - INFO - 127.0.0.1 - - [30/Apr/2023 21:34:37] "GET /api/v1.0/bookings/user/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:36:00,196 - INFO - 127.0.0.1 - - [30/Apr/2023 21:36:00] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:36:00,198 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:36:00,201 - INFO - ProfilePicture Request Ended
+2023-04-30 21:36:00,202 - INFO - 127.0.0.1 - - [30/Apr/2023 21:36:00] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:36:00,461 - INFO - authtoken Request Initiated
+2023-04-30 21:36:00,462 - INFO - authtoken Request Ended
+2023-04-30 21:36:00,463 - INFO - 127.0.0.1 - - [30/Apr/2023 21:36:00] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:36:00,506 - INFO - Show all bookings for a user Request Initiated
+2023-04-30 21:36:00,507 - INFO - Show all bookings for a user Request ended
+2023-04-30 21:36:00,509 - INFO - 127.0.0.1 - - [30/Apr/2023 21:36:00] "GET /api/v1.0/bookings/user/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:36:05,856 - INFO - 127.0.0.1 - - [30/Apr/2023 21:36:05] "OPTIONS /api/v1.0/bookings/644ec99d493dca65e0c1f982 HTTP/1.1" 200 -
+2023-04-30 21:36:06,177 - INFO - Delete Booking Request Initiated
+2023-04-30 21:36:06,185 - INFO - Delete Booking Request Ended
+2023-04-30 21:36:06,186 - INFO - 127.0.0.1 - - [30/Apr/2023 21:36:06] "[35m[1mDELETE /api/v1.0/bookings/644ec99d493dca65e0c1f982 HTTP/1.1[0m" 204 -
+2023-04-30 21:36:06,431 - INFO - Show all bookings for a user Request Initiated
+2023-04-30 21:36:06,432 - INFO - Show all bookings for a user Request ended
+2023-04-30 21:36:06,433 - INFO - 127.0.0.1 - - [30/Apr/2023 21:36:06] "GET /api/v1.0/bookings/user/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:37:17,757 - INFO - 127.0.0.1 - - [30/Apr/2023 21:37:17] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:37:17,759 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:37:17,762 - INFO - ProfilePicture Request Ended
+2023-04-30 21:37:17,763 - INFO - 127.0.0.1 - - [30/Apr/2023 21:37:17] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:37:18,019 - INFO - authtoken Request Initiated
+2023-04-30 21:37:18,021 - INFO - authtoken Request Ended
+2023-04-30 21:37:18,021 - INFO - 127.0.0.1 - - [30/Apr/2023 21:37:18] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:37:18,066 - INFO - Show all bookings for a user Request Initiated
+2023-04-30 21:37:18,067 - INFO - Show all bookings for a user Request ended
+2023-04-30 21:37:18,068 - INFO - 127.0.0.1 - - [30/Apr/2023 21:37:18] "GET /api/v1.0/bookings/user/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:37:19,869 - INFO - Show all university news Request Initiated
+2023-04-30 21:37:19,871 - INFO - Show all university news Request Ended
+2023-04-30 21:37:19,872 - INFO - 127.0.0.1 - - [30/Apr/2023 21:37:19] "GET /api/v1.0/uniNews HTTP/1.1" 200 -
+2023-04-30 21:37:20,185 - INFO - show all unversity events Request Initiated
+2023-04-30 21:37:20,186 - INFO - show all unversity events Request Ended
+2023-04-30 21:37:20,187 - INFO - authtoken Request Initiated
+2023-04-30 21:37:20,189 - INFO - 127.0.0.1 - - [30/Apr/2023 21:37:20] "GET /api/v1.0/uniEvents HTTP/1.1" 200 -
+2023-04-30 21:37:20,190 - INFO - authtoken Request Ended
+2023-04-30 21:37:20,191 - INFO - 127.0.0.1 - - [30/Apr/2023 21:37:20] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:37:20,193 - INFO - Generate Pie Chart Usage Request Initiated
+2023-04-30 21:37:20,203 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:37:20,230 - INFO - ProfilePicture Request Ended
+2023-04-30 21:37:20,247 - INFO - 127.0.0.1 - - [30/Apr/2023 21:37:20] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:37:20,412 - INFO - Generate Pie Chart Usage Request Ended
+2023-04-30 21:37:20,413 - INFO - 127.0.0.1 - - [30/Apr/2023 21:37:20] "GET /api/v1.0/rooms/piegraph/2022-12-28%2012:00 HTTP/1.1" 200 -
+2023-04-30 21:37:20,513 - INFO - Show all bookings for a user Request Initiated
+2023-04-30 21:37:20,514 - INFO - Show all bookings for a user Request ended
+2023-04-30 21:37:20,516 - INFO - 127.0.0.1 - - [30/Apr/2023 21:37:20] "GET /api/v1.0/bookings/user/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:37:21,924 - INFO - Return all rooms Request Initiated
+2023-04-30 21:37:21,927 - INFO - Return all rooms Request ended
+2023-04-30 21:37:21,928 - INFO - authtoken Request Initiated
+2023-04-30 21:37:21,938 - INFO - 127.0.0.1 - - [30/Apr/2023 21:37:21] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 21:37:21,941 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:37:21,942 - INFO - authtoken Request Ended
+2023-04-30 21:37:21,943 - INFO - 127.0.0.1 - - [30/Apr/2023 21:37:21] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:37:21,945 - INFO - ProfilePicture Request Ended
+2023-04-30 21:37:21,947 - INFO - 127.0.0.1 - - [30/Apr/2023 21:37:21] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:37:22,913 - INFO - Return one room Request Initiated
+2023-04-30 21:37:22,915 - INFO - Return one room Request ended
+2023-04-30 21:37:22,916 - INFO - 127.0.0.1 - - [30/Apr/2023 21:37:22] "GET /api/v1.0/rooms/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 21:37:23,220 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:37:23,222 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 21:37:23,225 - INFO - ProfilePicture Request Ended
+2023-04-30 21:37:23,226 - INFO - 127.0.0.1 - - [30/Apr/2023 21:37:23] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:37:23,228 - INFO - Room Mapping Picture Request Ended
+2023-04-30 21:37:23,229 - INFO - 127.0.0.1 - - [30/Apr/2023 21:37:23] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 21:37:23,232 - INFO - 127.0.0.1 - - [30/Apr/2023 21:37:23] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:37:23,547 - INFO - authtoken Request Initiated
+2023-04-30 21:37:23,549 - INFO - authtoken Request Ended
+2023-04-30 21:37:23,549 - INFO - 127.0.0.1 - - [30/Apr/2023 21:37:23] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:37:23,809 - INFO - Show one room booking Request Initiated
+2023-04-30 21:37:23,810 - INFO - Show one room booking Request ended
+2023-04-30 21:37:23,811 - INFO - 127.0.0.1 - - [30/Apr/2023 21:37:23] "GET /api/v1.0/bookings/1 HTTP/1.1" 200 -
+2023-04-30 21:37:55,845 - INFO - Return one room Request Initiated
+2023-04-30 21:37:55,849 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:37:55,850 - INFO - Return one room Request ended
+2023-04-30 21:37:55,852 - INFO - 127.0.0.1 - - [30/Apr/2023 21:37:55] "GET /api/v1.0/rooms/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 21:37:55,857 - INFO - ProfilePicture Request Ended
+2023-04-30 21:37:55,859 - INFO - 127.0.0.1 - - [30/Apr/2023 21:37:55] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:37:55,861 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 21:37:55,866 - INFO - Room Mapping Picture Request Ended
+2023-04-30 21:37:55,868 - INFO - 127.0.0.1 - - [30/Apr/2023 21:37:55] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 21:37:56,111 - INFO - 127.0.0.1 - - [30/Apr/2023 21:37:56] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:37:56,171 - INFO - authtoken Request Initiated
+2023-04-30 21:37:56,172 - INFO - authtoken Request Ended
+2023-04-30 21:37:56,173 - INFO - 127.0.0.1 - - [30/Apr/2023 21:37:56] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:37:56,421 - INFO - Show one room booking Request Initiated
+2023-04-30 21:37:56,422 - INFO - Show one room booking Request ended
+2023-04-30 21:37:56,423 - INFO - 127.0.0.1 - - [30/Apr/2023 21:37:56] "GET /api/v1.0/bookings/1 HTTP/1.1" 200 -
+2023-04-30 21:38:28,414 - INFO - Return one room Request Initiated
+2023-04-30 21:38:28,416 - INFO - Return one room Request ended
+2023-04-30 21:38:28,417 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:38:28,418 - INFO - 127.0.0.1 - - [30/Apr/2023 21:38:28] "GET /api/v1.0/rooms/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 21:38:28,422 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 21:38:28,425 - INFO - ProfilePicture Request Ended
+2023-04-30 21:38:28,428 - INFO - 127.0.0.1 - - [30/Apr/2023 21:38:28] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:38:28,429 - INFO - Room Mapping Picture Request Ended
+2023-04-30 21:38:28,431 - INFO - 127.0.0.1 - - [30/Apr/2023 21:38:28] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 21:38:28,667 - INFO - 127.0.0.1 - - [30/Apr/2023 21:38:28] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:38:28,729 - INFO - authtoken Request Initiated
+2023-04-30 21:38:28,731 - INFO - authtoken Request Ended
+2023-04-30 21:38:28,732 - INFO - 127.0.0.1 - - [30/Apr/2023 21:38:28] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:38:28,974 - INFO - Show one room booking Request Initiated
+2023-04-30 21:38:28,975 - INFO - Show one room booking Request ended
+2023-04-30 21:38:28,976 - INFO - 127.0.0.1 - - [30/Apr/2023 21:38:28] "GET /api/v1.0/bookings/1 HTTP/1.1" 200 -
+2023-04-30 21:53:11,140 - INFO - Show all university news Request Initiated
+2023-04-30 21:53:11,142 - INFO - show all unversity events Request Initiated
+2023-04-30 21:53:11,143 - INFO - Show all university news Request Ended
+2023-04-30 21:53:11,145 - INFO - 127.0.0.1 - - [30/Apr/2023 21:53:11] "GET /api/v1.0/uniNews HTTP/1.1" 200 -
+2023-04-30 21:53:11,145 - INFO - show all unversity events Request Ended
+2023-04-30 21:53:11,146 - INFO - 127.0.0.1 - - [30/Apr/2023 21:53:11] "GET /api/v1.0/uniEvents HTTP/1.1" 200 -
+2023-04-30 21:53:11,148 - INFO - 127.0.0.1 - - [30/Apr/2023 21:53:11] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:53:11,151 - INFO - Generate Pie Chart Usage Request Initiated
+2023-04-30 21:53:11,157 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:53:11,215 - INFO - ProfilePicture Request Ended
+2023-04-30 21:53:11,222 - INFO - 127.0.0.1 - - [30/Apr/2023 21:53:11] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:53:11,289 - INFO - Generate Pie Chart Usage Request Ended
+2023-04-30 21:53:11,289 - INFO - 127.0.0.1 - - [30/Apr/2023 21:53:11] "GET /api/v1.0/rooms/piegraph/2022-12-28%2012:00 HTTP/1.1" 200 -
+2023-04-30 21:53:11,391 - INFO - authtoken Request Initiated
+2023-04-30 21:53:11,392 - INFO - authtoken Request Ended
+2023-04-30 21:53:11,393 - INFO - 127.0.0.1 - - [30/Apr/2023 21:53:11] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:53:11,467 - INFO - Show all bookings for a user Request Initiated
+2023-04-30 21:53:11,468 - INFO - Show all bookings for a user Request ended
+2023-04-30 21:53:11,469 - INFO - 127.0.0.1 - - [30/Apr/2023 21:53:11] "GET /api/v1.0/bookings/user/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:54:59,947 - INFO - Show all university news Request Initiated
+2023-04-30 21:54:59,951 - INFO - show all unversity events Request Initiated
+2023-04-30 21:54:59,953 - INFO - Show all university news Request Ended
+2023-04-30 21:54:59,955 - INFO - 127.0.0.1 - - [30/Apr/2023 21:54:59] "GET /api/v1.0/uniNews HTTP/1.1" 200 -
+2023-04-30 21:54:59,960 - INFO - 127.0.0.1 - - [30/Apr/2023 21:54:59] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:54:59,961 - INFO - show all unversity events Request Ended
+2023-04-30 21:54:59,965 - INFO - 127.0.0.1 - - [30/Apr/2023 21:54:59] "GET /api/v1.0/uniEvents HTTP/1.1" 200 -
+2023-04-30 21:54:59,968 - INFO - Generate Pie Chart Usage Request Initiated
+2023-04-30 21:54:59,978 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:55:00,039 - INFO - ProfilePicture Request Ended
+2023-04-30 21:55:00,040 - INFO - 127.0.0.1 - - [30/Apr/2023 21:55:00] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:55:00,150 - INFO - Generate Pie Chart Usage Request Ended
+2023-04-30 21:55:00,152 - INFO - 127.0.0.1 - - [30/Apr/2023 21:55:00] "GET /api/v1.0/rooms/piegraph/2022-12-28%2012:00 HTTP/1.1" 200 -
+2023-04-30 21:55:00,211 - INFO - authtoken Request Initiated
+2023-04-30 21:55:00,213 - INFO - authtoken Request Ended
+2023-04-30 21:55:00,214 - INFO - 127.0.0.1 - - [30/Apr/2023 21:55:00] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:55:00,272 - INFO - Show all bookings for a user Request Initiated
+2023-04-30 21:55:00,274 - INFO - Show all bookings for a user Request ended
+2023-04-30 21:55:00,275 - INFO - 127.0.0.1 - - [30/Apr/2023 21:55:00] "GET /api/v1.0/bookings/user/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:56:52,315 - INFO - Show all university news Request Initiated
+2023-04-30 21:56:52,317 - INFO - show all unversity events Request Initiated
+2023-04-30 21:56:52,318 - INFO - Show all university news Request Ended
+2023-04-30 21:56:52,319 - INFO - show all unversity events Request Ended
+2023-04-30 21:56:52,319 - INFO - 127.0.0.1 - - [30/Apr/2023 21:56:52] "GET /api/v1.0/uniNews HTTP/1.1" 200 -
+2023-04-30 21:56:52,320 - INFO - 127.0.0.1 - - [30/Apr/2023 21:56:52] "GET /api/v1.0/uniEvents HTTP/1.1" 200 -
+2023-04-30 21:56:52,322 - INFO - 127.0.0.1 - - [30/Apr/2023 21:56:52] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:56:52,325 - INFO - Generate Pie Chart Usage Request Initiated
+2023-04-30 21:56:52,329 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:56:52,380 - INFO - ProfilePicture Request Ended
+2023-04-30 21:56:52,381 - INFO - 127.0.0.1 - - [30/Apr/2023 21:56:52] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:56:52,427 - INFO - Generate Pie Chart Usage Request Ended
+2023-04-30 21:56:52,428 - INFO - 127.0.0.1 - - [30/Apr/2023 21:56:52] "GET /api/v1.0/rooms/piegraph/2022-12-28%2012:00 HTTP/1.1" 200 -
+2023-04-30 21:56:52,581 - INFO - authtoken Request Initiated
+2023-04-30 21:56:52,584 - ERROR - Token is invalid
+2023-04-30 21:56:52,584 - INFO - 127.0.0.1 - - [30/Apr/2023 21:56:52] "[33mGET /api/v1.0/authtoken HTTP/1.1[0m" 404 -
+2023-04-30 21:57:16,012 - INFO - Show all university news Request Initiated
+2023-04-30 21:57:16,015 - INFO - Show all university news Request Ended
+2023-04-30 21:57:16,016 - INFO - show all unversity events Request Initiated
+2023-04-30 21:57:16,017 - INFO - 127.0.0.1 - - [30/Apr/2023 21:57:16] "GET /api/v1.0/uniNews HTTP/1.1" 200 -
+2023-04-30 21:57:16,019 - INFO - show all unversity events Request Ended
+2023-04-30 21:57:16,021 - INFO - 127.0.0.1 - - [30/Apr/2023 21:57:16] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:57:16,023 - INFO - 127.0.0.1 - - [30/Apr/2023 21:57:16] "GET /api/v1.0/uniEvents HTTP/1.1" 200 -
+2023-04-30 21:57:16,028 - INFO - Generate Pie Chart Usage Request Initiated
+2023-04-30 21:57:16,037 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:57:16,087 - INFO - ProfilePicture Request Ended
+2023-04-30 21:57:16,090 - INFO - 127.0.0.1 - - [30/Apr/2023 21:57:16] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:57:16,149 - INFO - Generate Pie Chart Usage Request Ended
+2023-04-30 21:57:16,150 - INFO - 127.0.0.1 - - [30/Apr/2023 21:57:16] "GET /api/v1.0/rooms/piegraph/2022-12-28%2012:00 HTTP/1.1" 200 -
+2023-04-30 21:57:16,280 - INFO - authtoken Request Initiated
+2023-04-30 21:57:16,280 - ERROR - Token is invalid
+2023-04-30 21:57:16,281 - INFO - 127.0.0.1 - - [30/Apr/2023 21:57:16] "[33mGET /api/v1.0/authtoken HTTP/1.1[0m" 404 -
+2023-04-30 21:58:32,759 - INFO - Show all university news Request Initiated
+2023-04-30 21:58:32,761 - INFO - Show all university news Request Ended
+2023-04-30 21:58:32,762 - INFO - 127.0.0.1 - - [30/Apr/2023 21:58:32] "GET /api/v1.0/uniNews HTTP/1.1" 200 -
+2023-04-30 21:58:32,764 - INFO - show all unversity events Request Initiated
+2023-04-30 21:58:32,765 - INFO - show all unversity events Request Ended
+2023-04-30 21:58:32,766 - INFO - 127.0.0.1 - - [30/Apr/2023 21:58:32] "GET /api/v1.0/uniEvents HTTP/1.1" 200 -
+2023-04-30 21:58:32,768 - INFO - 127.0.0.1 - - [30/Apr/2023 21:58:32] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 21:58:32,771 - INFO - Generate Pie Chart Usage Request Initiated
+2023-04-30 21:58:32,774 - INFO - ProfilePicture Request Initiated
+2023-04-30 21:58:32,824 - INFO - ProfilePicture Request Ended
+2023-04-30 21:58:32,826 - INFO - 127.0.0.1 - - [30/Apr/2023 21:58:32] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 21:58:32,863 - INFO - Generate Pie Chart Usage Request Ended
+2023-04-30 21:58:32,864 - INFO - 127.0.0.1 - - [30/Apr/2023 21:58:32] "GET /api/v1.0/rooms/piegraph/2022-12-28%2012:00 HTTP/1.1" 200 -
+2023-04-30 21:58:33,024 - INFO - authtoken Request Initiated
+2023-04-30 21:58:33,024 - ERROR - Token is invalid
+2023-04-30 21:58:33,025 - INFO - 127.0.0.1 - - [30/Apr/2023 21:58:33] "[33mGET /api/v1.0/authtoken HTTP/1.1[0m" 404 -
+2023-04-30 22:04:18,521 - INFO - Show all university news Request Initiated
+2023-04-30 22:04:18,523 - INFO - show all unversity events Request Initiated
+2023-04-30 22:04:18,524 - INFO - Show all university news Request Ended
+2023-04-30 22:04:18,525 - INFO - 127.0.0.1 - - [30/Apr/2023 22:04:18] "GET /api/v1.0/uniNews HTTP/1.1" 200 -
+2023-04-30 22:04:18,527 - INFO - show all unversity events Request Ended
+2023-04-30 22:04:18,528 - INFO - 127.0.0.1 - - [30/Apr/2023 22:04:18] "GET /api/v1.0/uniEvents HTTP/1.1" 200 -
+2023-04-30 22:04:18,530 - INFO - 127.0.0.1 - - [30/Apr/2023 22:04:18] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:04:18,534 - INFO - Generate Pie Chart Usage Request Initiated
+2023-04-30 22:04:18,542 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:04:18,977 - INFO - ProfilePicture Request Ended
+2023-04-30 22:04:18,981 - INFO - 127.0.0.1 - - [30/Apr/2023 22:04:18] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:04:18,984 - INFO - authtoken Request Initiated
+2023-04-30 22:04:18,988 - ERROR - Token is invalid
+2023-04-30 22:04:19,003 - INFO - 127.0.0.1 - - [30/Apr/2023 22:04:19] "[33mGET /api/v1.0/authtoken HTTP/1.1[0m" 404 -
+2023-04-30 22:04:19,050 - INFO - Generate Pie Chart Usage Request Ended
+2023-04-30 22:04:19,051 - INFO - 127.0.0.1 - - [30/Apr/2023 22:04:19] "GET /api/v1.0/rooms/piegraph/2022-12-28%2012:00 HTTP/1.1" 200 -
+2023-04-30 22:06:04,164 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:04] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:06:04,167 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:06:04,170 - INFO - ProfilePicture Request Ended
+2023-04-30 22:06:04,171 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:04] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:06:04,429 - INFO - authtoken Request Initiated
+2023-04-30 22:06:04,429 - ERROR - Token is invalid
+2023-04-30 22:06:04,430 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:04] "[33mGET /api/v1.0/authtoken HTTP/1.1[0m" 404 -
+2023-04-30 22:06:06,817 - INFO - Show all university news Request Initiated
+2023-04-30 22:06:06,820 - INFO - Show all university news Request Ended
+2023-04-30 22:06:06,821 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:06] "GET /api/v1.0/uniNews HTTP/1.1" 200 -
+2023-04-30 22:06:07,132 - INFO - show all unversity events Request Initiated
+2023-04-30 22:06:07,134 - INFO - show all unversity events Request Ended
+2023-04-30 22:06:07,135 - INFO - authtoken Request Initiated
+2023-04-30 22:06:07,136 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:07] "GET /api/v1.0/uniEvents HTTP/1.1" 200 -
+2023-04-30 22:06:07,137 - ERROR - Token is invalid
+2023-04-30 22:06:07,138 - INFO - Generate Pie Chart Usage Request Initiated
+2023-04-30 22:06:07,139 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:07] "[33mGET /api/v1.0/authtoken HTTP/1.1[0m" 404 -
+2023-04-30 22:06:07,142 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:06:07,174 - INFO - ProfilePicture Request Ended
+2023-04-30 22:06:07,181 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:07] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:06:07,235 - INFO - Generate Pie Chart Usage Request Ended
+2023-04-30 22:06:07,236 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:07] "GET /api/v1.0/rooms/piegraph/2022-12-28%2012:00 HTTP/1.1" 200 -
+2023-04-30 22:06:07,850 - INFO - Return one room Request Initiated
+2023-04-30 22:06:07,852 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:06:07,852 - INFO - Return one room Request ended
+2023-04-30 22:06:07,854 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:07] "GET /api/v1.0/rooms/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 22:06:07,856 - INFO - Room Mapping Picture Request Initiated
+2023-04-30 22:06:07,858 - INFO - ProfilePicture Request Ended
+2023-04-30 22:06:07,859 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:07] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:06:07,860 - INFO - Room Mapping Picture Request Ended
+2023-04-30 22:06:07,862 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:07] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-04-30 22:06:08,111 - INFO - authtoken Request Initiated
+2023-04-30 22:06:08,112 - ERROR - Token is invalid
+2023-04-30 22:06:08,112 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:08] "[33mGET /api/v1.0/authtoken HTTP/1.1[0m" 404 -
+2023-04-30 22:06:08,615 - INFO - Return all rooms Request Initiated
+2023-04-30 22:06:08,618 - INFO - Return all rooms Request ended
+2023-04-30 22:06:08,632 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:08] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:06:08,921 - INFO - authtoken Request Initiated
+2023-04-30 22:06:08,922 - ERROR - Token is invalid
+2023-04-30 22:06:08,922 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:08] "[33mGET /api/v1.0/authtoken HTTP/1.1[0m" 404 -
+2023-04-30 22:06:08,924 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:06:08,927 - INFO - ProfilePicture Request Ended
+2023-04-30 22:06:08,928 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:08] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:06:09,762 - INFO - Show all university news Request Initiated
+2023-04-30 22:06:09,764 - INFO - Show all university news Request Ended
+2023-04-30 22:06:09,765 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:09] "GET /api/v1.0/uniNews HTTP/1.1" 200 -
+2023-04-30 22:06:09,766 - INFO - show all unversity events Request Initiated
+2023-04-30 22:06:09,767 - INFO - show all unversity events Request Ended
+2023-04-30 22:06:09,769 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:09] "GET /api/v1.0/uniEvents HTTP/1.1" 200 -
+2023-04-30 22:06:09,771 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:09] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:06:09,775 - INFO - Generate Pie Chart Usage Request Initiated
+2023-04-30 22:06:09,779 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:06:09,832 - INFO - ProfilePicture Request Ended
+2023-04-30 22:06:09,837 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:09] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:06:09,886 - INFO - Generate Pie Chart Usage Request Ended
+2023-04-30 22:06:09,887 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:09] "GET /api/v1.0/rooms/piegraph/2022-12-28%2012:00 HTTP/1.1" 200 -
+2023-04-30 22:06:10,026 - INFO - authtoken Request Initiated
+2023-04-30 22:06:10,027 - ERROR - Token is invalid
+2023-04-30 22:06:10,027 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:10] "[33mGET /api/v1.0/authtoken HTTP/1.1[0m" 404 -
+2023-04-30 22:06:11,932 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:11] "OPTIONS /api/v1.0/login HTTP/1.1" 200 -
+2023-04-30 22:06:12,240 - INFO - Login Request Initiated
+2023-04-30 22:06:12,437 - INFO - Login Request ended
+2023-04-30 22:06:12,438 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:12] "GET /api/v1.0/login HTTP/1.1" 200 -
+2023-04-30 22:06:12,507 - INFO - Show all university news Request Initiated
+2023-04-30 22:06:12,508 - INFO - Show all university news Request Ended
+2023-04-30 22:06:12,509 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:12] "GET /api/v1.0/uniNews HTTP/1.1" 200 -
+2023-04-30 22:06:12,757 - INFO - show all unversity events Request Initiated
+2023-04-30 22:06:12,758 - INFO - show all unversity events Request Ended
+2023-04-30 22:06:12,760 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:12] "GET /api/v1.0/uniEvents HTTP/1.1" 200 -
+2023-04-30 22:06:12,761 - INFO - authtoken Request Initiated
+2023-04-30 22:06:12,764 - INFO - authtoken Request Ended
+2023-04-30 22:06:12,765 - INFO - Generate Pie Chart Usage Request Initiated
+2023-04-30 22:06:12,766 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:12] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:06:12,772 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:06:12,804 - INFO - Show all bookings for a user Request Initiated
+2023-04-30 22:06:12,821 - INFO - Show all bookings for a user Request ended
+2023-04-30 22:06:12,823 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:12] "GET /api/v1.0/bookings/user/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:06:12,827 - INFO - ProfilePicture Request Ended
+2023-04-30 22:06:12,830 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:12] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:06:12,873 - INFO - Generate Pie Chart Usage Request Ended
+2023-04-30 22:06:12,874 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:12] "GET /api/v1.0/rooms/piegraph/2022-12-28%2012:00 HTTP/1.1" 200 -
+2023-04-30 22:06:17,972 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:17] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:06:17,974 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:06:17,976 - INFO - ProfilePicture Request Ended
+2023-04-30 22:06:17,978 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:17] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:06:18,240 - INFO - authtoken Request Initiated
+2023-04-30 22:06:18,241 - INFO - authtoken Request Ended
+2023-04-30 22:06:18,241 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:18] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:06:18,287 - INFO - Show all bookings for a user Request Initiated
+2023-04-30 22:06:18,288 - INFO - Show all bookings for a user Request ended
+2023-04-30 22:06:18,289 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:18] "GET /api/v1.0/bookings/user/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:06:19,557 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:06:19,560 - INFO - ProfilePicture Request Ended
+2023-04-30 22:06:19,561 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:19] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:06:19,868 - INFO - Return all rooms Request Initiated
+2023-04-30 22:06:19,870 - INFO - Return all rooms Request ended
+2023-04-30 22:06:19,879 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:19] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:06:20,196 - INFO - authtoken Request Initiated
+2023-04-30 22:06:20,198 - INFO - authtoken Request Ended
+2023-04-30 22:06:20,198 - INFO - 127.0.0.1 - - [30/Apr/2023 22:06:20] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:07:22,559 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:07:22,561 - INFO - Return all rooms Request Initiated
+2023-04-30 22:07:22,563 - INFO - ProfilePicture Request Ended
+2023-04-30 22:07:22,563 - INFO - Return all rooms Request ended
+2023-04-30 22:07:22,564 - INFO - 127.0.0.1 - - [30/Apr/2023 22:07:22] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:07:22,575 - INFO - 127.0.0.1 - - [30/Apr/2023 22:07:22] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:07:22,811 - INFO - 127.0.0.1 - - [30/Apr/2023 22:07:22] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:07:22,889 - INFO - authtoken Request Initiated
+2023-04-30 22:07:22,890 - INFO - authtoken Request Ended
+2023-04-30 22:07:22,891 - INFO - 127.0.0.1 - - [30/Apr/2023 22:07:22] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:09:43,845 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:09:43,847 - INFO - Return all rooms Request Initiated
+2023-04-30 22:09:43,849 - INFO - Return all rooms Request ended
+2023-04-30 22:09:43,860 - INFO - 127.0.0.1 - - [30/Apr/2023 22:09:43] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:09:43,862 - INFO - ProfilePicture Request Ended
+2023-04-30 22:09:43,863 - INFO - 127.0.0.1 - - [30/Apr/2023 22:09:43] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:09:44,081 - INFO - 127.0.0.1 - - [30/Apr/2023 22:09:44] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:09:44,176 - INFO - authtoken Request Initiated
+2023-04-30 22:09:44,177 - INFO - authtoken Request Ended
+2023-04-30 22:09:44,178 - INFO - 127.0.0.1 - - [30/Apr/2023 22:09:44] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:10:40,680 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:10:40,682 - INFO - Return all rooms Request Initiated
+2023-04-30 22:10:40,683 - INFO - Return all rooms Request ended
+2023-04-30 22:10:40,693 - INFO - 127.0.0.1 - - [30/Apr/2023 22:10:40] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:10:40,695 - INFO - ProfilePicture Request Ended
+2023-04-30 22:10:40,696 - INFO - 127.0.0.1 - - [30/Apr/2023 22:10:40] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:10:40,947 - INFO - 127.0.0.1 - - [30/Apr/2023 22:10:40] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:10:41,007 - INFO - authtoken Request Initiated
+2023-04-30 22:10:41,008 - INFO - authtoken Request Ended
+2023-04-30 22:10:41,009 - INFO - 127.0.0.1 - - [30/Apr/2023 22:10:41] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:16:34,802 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:16:34,811 - INFO - Return all rooms Request Initiated
+2023-04-30 22:16:34,814 - INFO - Return all rooms Request ended
+2023-04-30 22:16:34,831 - INFO - 127.0.0.1 - - [30/Apr/2023 22:16:34] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:16:34,834 - INFO - ProfilePicture Request Ended
+2023-04-30 22:16:34,836 - INFO - 127.0.0.1 - - [30/Apr/2023 22:16:34] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:16:35,011 - INFO - 127.0.0.1 - - [30/Apr/2023 22:16:35] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:16:35,152 - INFO - authtoken Request Initiated
+2023-04-30 22:16:35,158 - INFO - authtoken Request Ended
+2023-04-30 22:16:35,158 - INFO - 127.0.0.1 - - [30/Apr/2023 22:16:35] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:18:59,462 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:18:59,464 - INFO - Return all rooms Request Initiated
+2023-04-30 22:18:59,467 - INFO - Return all rooms Request ended
+2023-04-30 22:18:59,480 - INFO - 127.0.0.1 - - [30/Apr/2023 22:18:59] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:18:59,480 - INFO - ProfilePicture Request Ended
+2023-04-30 22:18:59,481 - INFO - 127.0.0.1 - - [30/Apr/2023 22:18:59] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:18:59,707 - INFO - 127.0.0.1 - - [30/Apr/2023 22:18:59] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:18:59,801 - INFO - authtoken Request Initiated
+2023-04-30 22:18:59,826 - INFO - authtoken Request Ended
+2023-04-30 22:18:59,827 - INFO - 127.0.0.1 - - [30/Apr/2023 22:18:59] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:21:50,862 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:21:50,865 - INFO - Return all rooms Request Initiated
+2023-04-30 22:21:50,868 - INFO - Return all rooms Request ended
+2023-04-30 22:21:50,882 - INFO - 127.0.0.1 - - [30/Apr/2023 22:21:50] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:21:50,885 - INFO - ProfilePicture Request Ended
+2023-04-30 22:21:50,886 - INFO - 127.0.0.1 - - [30/Apr/2023 22:21:50] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:21:51,106 - INFO - 127.0.0.1 - - [30/Apr/2023 22:21:51] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:21:51,198 - INFO - authtoken Request Initiated
+2023-04-30 22:21:51,203 - INFO - authtoken Request Ended
+2023-04-30 22:21:51,204 - INFO - 127.0.0.1 - - [30/Apr/2023 22:21:51] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:22:42,701 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:22:42,707 - INFO - Return all rooms Request Initiated
+2023-04-30 22:22:42,711 - INFO - ProfilePicture Request Ended
+2023-04-30 22:22:42,714 - INFO - Return all rooms Request ended
+2023-04-30 22:22:42,716 - INFO - 127.0.0.1 - - [30/Apr/2023 22:22:42] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:22:42,728 - INFO - 127.0.0.1 - - [30/Apr/2023 22:22:42] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:22:42,966 - INFO - 127.0.0.1 - - [30/Apr/2023 22:22:42] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:22:43,044 - INFO - authtoken Request Initiated
+2023-04-30 22:22:43,045 - INFO - authtoken Request Ended
+2023-04-30 22:22:43,046 - INFO - 127.0.0.1 - - [30/Apr/2023 22:22:43] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:23:02,691 - INFO - Return all rooms Request Initiated
+2023-04-30 22:23:02,695 - INFO - Return all rooms Request ended
+2023-04-30 22:23:02,709 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:23:02,716 - INFO - 127.0.0.1 - - [30/Apr/2023 22:23:02] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:23:02,721 - INFO - ProfilePicture Request Ended
+2023-04-30 22:23:02,723 - INFO - 127.0.0.1 - - [30/Apr/2023 22:23:02] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:23:02,931 - INFO - 127.0.0.1 - - [30/Apr/2023 22:23:02] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:23:03,042 - INFO - authtoken Request Initiated
+2023-04-30 22:23:03,044 - INFO - authtoken Request Ended
+2023-04-30 22:23:03,045 - INFO - 127.0.0.1 - - [30/Apr/2023 22:23:03] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:23:13,038 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:23:13,041 - INFO - Return all rooms Request Initiated
+2023-04-30 22:23:13,044 - INFO - ProfilePicture Request Ended
+2023-04-30 22:23:13,044 - INFO - Return all rooms Request ended
+2023-04-30 22:23:13,046 - INFO - 127.0.0.1 - - [30/Apr/2023 22:23:13] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:23:13,061 - INFO - 127.0.0.1 - - [30/Apr/2023 22:23:13] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:23:13,303 - INFO - 127.0.0.1 - - [30/Apr/2023 22:23:13] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:23:13,382 - INFO - authtoken Request Initiated
+2023-04-30 22:23:13,384 - INFO - authtoken Request Ended
+2023-04-30 22:23:13,384 - INFO - 127.0.0.1 - - [30/Apr/2023 22:23:13] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:23:18,043 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:23:18,045 - INFO - Return all rooms Request Initiated
+2023-04-30 22:23:18,047 - INFO - ProfilePicture Request Ended
+2023-04-30 22:23:18,048 - INFO - Return all rooms Request ended
+2023-04-30 22:23:18,049 - INFO - 127.0.0.1 - - [30/Apr/2023 22:23:18] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:23:18,059 - INFO - 127.0.0.1 - - [30/Apr/2023 22:23:18] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:23:18,298 - INFO - authtoken Request Initiated
+2023-04-30 22:23:18,299 - INFO - authtoken Request Ended
+2023-04-30 22:23:18,300 - INFO - 127.0.0.1 - - [30/Apr/2023 22:23:18] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:35:38,781 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:35:38,788 - INFO - Return all rooms Request Initiated
+2023-04-30 22:35:38,803 - INFO - Return all rooms Request ended
+2023-04-30 22:35:38,832 - INFO - 127.0.0.1 - - [30/Apr/2023 22:35:38] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:35:38,842 - INFO - ProfilePicture Request Ended
+2023-04-30 22:35:38,843 - INFO - 127.0.0.1 - - [30/Apr/2023 22:35:38] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:35:38,932 - INFO - 127.0.0.1 - - [30/Apr/2023 22:35:38] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:35:39,187 - INFO - authtoken Request Initiated
+2023-04-30 22:35:39,196 - INFO - authtoken Request Ended
+2023-04-30 22:35:39,197 - INFO - 127.0.0.1 - - [30/Apr/2023 22:35:39] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:35:44,982 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:35:44,986 - INFO - Return all rooms Request Initiated
+2023-04-30 22:35:44,990 - INFO - ProfilePicture Request Ended
+2023-04-30 22:35:44,991 - INFO - Return all rooms Request ended
+2023-04-30 22:35:44,992 - INFO - 127.0.0.1 - - [30/Apr/2023 22:35:44] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:35:45,004 - INFO - 127.0.0.1 - - [30/Apr/2023 22:35:45] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:35:45,248 - INFO - 127.0.0.1 - - [30/Apr/2023 22:35:45] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:35:45,327 - INFO - authtoken Request Initiated
+2023-04-30 22:35:45,328 - INFO - authtoken Request Ended
+2023-04-30 22:35:45,329 - INFO - 127.0.0.1 - - [30/Apr/2023 22:35:45] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:37:41,796 - INFO - 127.0.0.1 - - [30/Apr/2023 22:37:41] "OPTIONS /api/v1.0/login HTTP/1.1" 200 -
+2023-04-30 22:37:42,062 - INFO - Login Request Initiated
+2023-04-30 22:37:42,315 - INFO - Login Request ended
+2023-04-30 22:37:42,316 - INFO - 127.0.0.1 - - [30/Apr/2023 22:37:42] "GET /api/v1.0/login HTTP/1.1" 200 -
+2023-04-30 22:37:42,336 - INFO - Show all university news Request Initiated
+2023-04-30 22:37:42,339 - INFO - Show all university news Request Ended
+2023-04-30 22:37:42,341 - INFO - 127.0.0.1 - - [30/Apr/2023 22:37:42] "GET /api/v1.0/uniNews HTTP/1.1" 200 -
+2023-04-30 22:37:42,654 - INFO - show all unversity events Request Initiated
+2023-04-30 22:37:42,656 - INFO - show all unversity events Request Ended
+2023-04-30 22:37:42,657 - INFO - 127.0.0.1 - - [30/Apr/2023 22:37:42] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:37:42,658 - INFO - 127.0.0.1 - - [30/Apr/2023 22:37:42] "GET /api/v1.0/uniEvents HTTP/1.1" 200 -
+2023-04-30 22:37:42,662 - INFO - Generate Pie Chart Usage Request Initiated
+2023-04-30 22:37:42,666 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:37:42,679 - INFO - ProfilePicture Request Ended
+2023-04-30 22:37:42,680 - INFO - 127.0.0.1 - - [30/Apr/2023 22:37:42] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:37:43,005 - INFO - authtoken Request Initiated
+2023-04-30 22:37:43,008 - INFO - authtoken Request Ended
+2023-04-30 22:37:43,009 - INFO - 127.0.0.1 - - [30/Apr/2023 22:37:43] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:37:43,097 - INFO - Generate Pie Chart Usage Request Ended
+2023-04-30 22:37:43,098 - INFO - 127.0.0.1 - - [30/Apr/2023 22:37:43] "GET /api/v1.0/rooms/piegraph/2022-12-28%2012:00 HTTP/1.1" 200 -
+2023-04-30 22:37:43,322 - INFO - Show all bookings for a user Request Initiated
+2023-04-30 22:37:43,323 - INFO - Show all bookings for a user Request ended
+2023-04-30 22:37:43,324 - INFO - 127.0.0.1 - - [30/Apr/2023 22:37:43] "GET /api/v1.0/bookings/user/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:37:50,177 - INFO - Show all university news Request Initiated
+2023-04-30 22:37:50,180 - INFO - show all unversity events Request Initiated
+2023-04-30 22:37:50,181 - INFO - Show all university news Request Ended
+2023-04-30 22:37:50,184 - INFO - show all unversity events Request Ended
+2023-04-30 22:37:50,185 - INFO - 127.0.0.1 - - [30/Apr/2023 22:37:50] "GET /api/v1.0/uniNews HTTP/1.1" 200 -
+2023-04-30 22:37:50,187 - INFO - 127.0.0.1 - - [30/Apr/2023 22:37:50] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:37:50,188 - INFO - 127.0.0.1 - - [30/Apr/2023 22:37:50] "GET /api/v1.0/uniEvents HTTP/1.1" 200 -
+2023-04-30 22:37:50,206 - INFO - Generate Pie Chart Usage Request Initiated
+2023-04-30 22:37:50,266 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:37:50,305 - INFO - ProfilePicture Request Ended
+2023-04-30 22:37:50,307 - INFO - 127.0.0.1 - - [30/Apr/2023 22:37:50] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:37:50,368 - INFO - Generate Pie Chart Usage Request Ended
+2023-04-30 22:37:50,369 - INFO - 127.0.0.1 - - [30/Apr/2023 22:37:50] "GET /api/v1.0/rooms/piegraph/2022-12-28%2012:00 HTTP/1.1" 200 -
+2023-04-30 22:37:50,425 - INFO - authtoken Request Initiated
+2023-04-30 22:37:50,427 - INFO - authtoken Request Ended
+2023-04-30 22:37:50,428 - INFO - 127.0.0.1 - - [30/Apr/2023 22:37:50] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:37:50,521 - INFO - Show all bookings for a user Request Initiated
+2023-04-30 22:37:50,523 - INFO - Show all bookings for a user Request ended
+2023-04-30 22:37:50,524 - INFO - 127.0.0.1 - - [30/Apr/2023 22:37:50] "GET /api/v1.0/bookings/user/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:38:08,636 - INFO - show all unversity events Request Initiated
+2023-04-30 22:38:08,657 - INFO - Show all university news Request Initiated
+2023-04-30 22:38:08,672 - INFO - 127.0.0.1 - - [30/Apr/2023 22:38:08] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:38:08,678 - INFO - Generate Pie Chart Usage Request Initiated
+2023-04-30 22:38:08,696 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:38:08,697 - INFO - show all unversity events Request Ended
+2023-04-30 22:38:08,698 - INFO - Show all university news Request Ended
+2023-04-30 22:38:08,706 - INFO - 127.0.0.1 - - [30/Apr/2023 22:38:08] "GET /api/v1.0/uniEvents HTTP/1.1" 200 -
+2023-04-30 22:38:08,707 - INFO - 127.0.0.1 - - [30/Apr/2023 22:38:08] "GET /api/v1.0/uniNews HTTP/1.1" 200 -
+2023-04-30 22:38:08,713 - INFO - ProfilePicture Request Ended
+2023-04-30 22:38:08,714 - INFO - 127.0.0.1 - - [30/Apr/2023 22:38:08] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:38:08,888 - INFO - authtoken Request Initiated
+2023-04-30 22:38:08,943 - INFO - authtoken Request Ended
+2023-04-30 22:38:08,965 - INFO - 127.0.0.1 - - [30/Apr/2023 22:38:08] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:38:09,010 - INFO - Show all bookings for a user Request Initiated
+2023-04-30 22:38:09,014 - INFO - Show all bookings for a user Request ended
+2023-04-30 22:38:09,016 - INFO - 127.0.0.1 - - [30/Apr/2023 22:38:09] "GET /api/v1.0/bookings/user/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:38:09,137 - INFO - Generate Pie Chart Usage Request Ended
+2023-04-30 22:38:09,139 - INFO - 127.0.0.1 - - [30/Apr/2023 22:38:09] "GET /api/v1.0/rooms/piegraph/2022-12-28%2012:00 HTTP/1.1" 200 -
+2023-04-30 22:38:10,191 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:38:10,194 - INFO - Return all rooms Request Initiated
+2023-04-30 22:38:10,198 - INFO - ProfilePicture Request Ended
+2023-04-30 22:38:10,199 - INFO - Return all rooms Request ended
+2023-04-30 22:38:10,200 - INFO - 127.0.0.1 - - [30/Apr/2023 22:38:10] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:38:10,216 - INFO - 127.0.0.1 - - [30/Apr/2023 22:38:10] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:38:10,457 - INFO - authtoken Request Initiated
+2023-04-30 22:38:10,459 - INFO - authtoken Request Ended
+2023-04-30 22:38:10,460 - INFO - 127.0.0.1 - - [30/Apr/2023 22:38:10] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:39:24,349 - INFO - 127.0.0.1 - - [30/Apr/2023 22:39:24] "OPTIONS /api/v1.0/login HTTP/1.1" 200 -
+2023-04-30 22:39:24,612 - INFO - Login Request Initiated
+2023-04-30 22:39:24,823 - INFO - Login Request ended
+2023-04-30 22:39:24,824 - INFO - 127.0.0.1 - - [30/Apr/2023 22:39:24] "GET /api/v1.0/login HTTP/1.1" 200 -
+2023-04-30 22:39:24,842 - INFO - Show all university news Request Initiated
+2023-04-30 22:39:24,843 - INFO - Show all university news Request Ended
+2023-04-30 22:39:24,844 - INFO - 127.0.0.1 - - [30/Apr/2023 22:39:24] "GET /api/v1.0/uniNews HTTP/1.1" 200 -
+2023-04-30 22:39:25,158 - INFO - 127.0.0.1 - - [30/Apr/2023 22:39:25] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:39:25,163 - INFO - Generate Pie Chart Usage Request Initiated
+2023-04-30 22:39:25,168 - INFO - show all unversity events Request Initiated
+2023-04-30 22:39:25,182 - INFO - show all unversity events Request Ended
+2023-04-30 22:39:25,214 - INFO - 127.0.0.1 - - [30/Apr/2023 22:39:25] "GET /api/v1.0/uniEvents HTTP/1.1" 200 -
+2023-04-30 22:39:25,222 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:39:25,254 - INFO - ProfilePicture Request Ended
+2023-04-30 22:39:25,256 - INFO - 127.0.0.1 - - [30/Apr/2023 22:39:25] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:39:25,301 - INFO - Generate Pie Chart Usage Request Ended
+2023-04-30 22:39:25,302 - INFO - 127.0.0.1 - - [30/Apr/2023 22:39:25] "GET /api/v1.0/rooms/piegraph/2022-12-28%2012:00 HTTP/1.1" 200 -
+2023-04-30 22:39:25,472 - INFO - authtoken Request Initiated
+2023-04-30 22:39:25,473 - INFO - authtoken Request Ended
+2023-04-30 22:39:25,474 - INFO - 127.0.0.1 - - [30/Apr/2023 22:39:25] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:39:25,783 - INFO - Show all bookings for a user Request Initiated
+2023-04-30 22:39:25,784 - INFO - Show all bookings for a user Request ended
+2023-04-30 22:39:25,786 - INFO - 127.0.0.1 - - [30/Apr/2023 22:39:25] "GET /api/v1.0/bookings/user/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:39:28,827 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:39:28,831 - INFO - ProfilePicture Request Ended
+2023-04-30 22:39:28,832 - INFO - 127.0.0.1 - - [30/Apr/2023 22:39:28] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:39:29,143 - INFO - Return all rooms Request Initiated
+2023-04-30 22:39:29,144 - INFO - Return all rooms Request ended
+2023-04-30 22:39:29,154 - INFO - 127.0.0.1 - - [30/Apr/2023 22:39:29] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:39:29,469 - INFO - authtoken Request Initiated
+2023-04-30 22:39:29,470 - INFO - authtoken Request Ended
+2023-04-30 22:39:29,470 - INFO - 127.0.0.1 - - [30/Apr/2023 22:39:29] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:41:44,809 - INFO - 127.0.0.1 - - [30/Apr/2023 22:41:44] "OPTIONS /api/v1.0/login HTTP/1.1" 200 -
+2023-04-30 22:41:45,077 - INFO - Login Request Initiated
+2023-04-30 22:41:45,281 - INFO - Login Request ended
+2023-04-30 22:41:45,282 - INFO - 127.0.0.1 - - [30/Apr/2023 22:41:45] "GET /api/v1.0/login HTTP/1.1" 200 -
+2023-04-30 22:41:45,296 - INFO - Show all university news Request Initiated
+2023-04-30 22:41:45,299 - INFO - Show all university news Request Ended
+2023-04-30 22:41:45,300 - INFO - 127.0.0.1 - - [30/Apr/2023 22:41:45] "GET /api/v1.0/uniNews HTTP/1.1" 200 -
+2023-04-30 22:41:45,606 - INFO - show all unversity events Request Initiated
+2023-04-30 22:41:45,608 - INFO - show all unversity events Request Ended
+2023-04-30 22:41:45,609 - INFO - 127.0.0.1 - - [30/Apr/2023 22:41:45] "GET /api/v1.0/uniEvents HTTP/1.1" 200 -
+2023-04-30 22:41:45,612 - INFO - Generate Pie Chart Usage Request Initiated
+2023-04-30 22:41:45,618 - INFO - 127.0.0.1 - - [30/Apr/2023 22:41:45] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:41:45,657 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:41:45,687 - INFO - ProfilePicture Request Ended
+2023-04-30 22:41:45,690 - INFO - 127.0.0.1 - - [30/Apr/2023 22:41:45] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:41:45,745 - INFO - Generate Pie Chart Usage Request Ended
+2023-04-30 22:41:45,746 - INFO - 127.0.0.1 - - [30/Apr/2023 22:41:45] "GET /api/v1.0/rooms/piegraph/2022-12-28%2012:00 HTTP/1.1" 200 -
+2023-04-30 22:41:45,936 - INFO - authtoken Request Initiated
+2023-04-30 22:41:45,937 - INFO - authtoken Request Ended
+2023-04-30 22:41:45,938 - INFO - 127.0.0.1 - - [30/Apr/2023 22:41:45] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:41:46,248 - INFO - Show all bookings for a user Request Initiated
+2023-04-30 22:41:46,250 - INFO - Show all bookings for a user Request ended
+2023-04-30 22:41:46,251 - INFO - 127.0.0.1 - - [30/Apr/2023 22:41:46] "GET /api/v1.0/bookings/user/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:41:48,824 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:41:48,827 - INFO - ProfilePicture Request Ended
+2023-04-30 22:41:48,828 - INFO - 127.0.0.1 - - [30/Apr/2023 22:41:48] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:41:49,137 - INFO - Return all rooms Request Initiated
+2023-04-30 22:41:49,139 - INFO - Return all rooms Request ended
+2023-04-30 22:41:49,148 - INFO - 127.0.0.1 - - [30/Apr/2023 22:41:49] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:41:49,462 - INFO - authtoken Request Initiated
+2023-04-30 22:41:49,463 - INFO - authtoken Request Ended
+2023-04-30 22:41:49,464 - INFO - 127.0.0.1 - - [30/Apr/2023 22:41:49] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:42:40,168 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:42:40,170 - INFO - ProfilePicture Request Ended
+2023-04-30 22:42:40,171 - INFO - 127.0.0.1 - - [30/Apr/2023 22:42:40] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:42:40,174 - INFO - Return all rooms Request Initiated
+2023-04-30 22:42:40,177 - INFO - Return all rooms Request ended
+2023-04-30 22:42:40,187 - INFO - 127.0.0.1 - - [30/Apr/2023 22:42:40] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:42:40,433 - INFO - 127.0.0.1 - - [30/Apr/2023 22:42:40] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:42:40,495 - INFO - authtoken Request Initiated
+2023-04-30 22:42:40,498 - INFO - authtoken Request Ended
+2023-04-30 22:42:40,498 - INFO - 127.0.0.1 - - [30/Apr/2023 22:42:40] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:43:18,827 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:43:18,830 - INFO - ProfilePicture Request Ended
+2023-04-30 22:43:18,831 - INFO - 127.0.0.1 - - [30/Apr/2023 22:43:18] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:43:18,834 - INFO - Return all rooms Request Initiated
+2023-04-30 22:43:18,836 - INFO - Return all rooms Request ended
+2023-04-30 22:43:18,847 - INFO - 127.0.0.1 - - [30/Apr/2023 22:43:18] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:43:19,091 - INFO - 127.0.0.1 - - [30/Apr/2023 22:43:19] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:43:19,154 - INFO - authtoken Request Initiated
+2023-04-30 22:43:19,157 - INFO - authtoken Request Ended
+2023-04-30 22:43:19,158 - INFO - 127.0.0.1 - - [30/Apr/2023 22:43:19] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:43:29,872 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:43:29,875 - INFO - Return all rooms Request Initiated
+2023-04-30 22:43:29,877 - INFO - Return all rooms Request ended
+2023-04-30 22:43:29,886 - INFO - 127.0.0.1 - - [30/Apr/2023 22:43:29] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:43:29,888 - INFO - ProfilePicture Request Ended
+2023-04-30 22:43:29,890 - INFO - 127.0.0.1 - - [30/Apr/2023 22:43:29] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:43:30,136 - INFO - 127.0.0.1 - - [30/Apr/2023 22:43:30] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:43:30,214 - INFO - authtoken Request Initiated
+2023-04-30 22:43:30,216 - INFO - authtoken Request Ended
+2023-04-30 22:43:30,217 - INFO - 127.0.0.1 - - [30/Apr/2023 22:43:30] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:44:02,372 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:44:02,375 - INFO - Return all rooms Request Initiated
+2023-04-30 22:44:02,377 - INFO - ProfilePicture Request Ended
+2023-04-30 22:44:02,378 - INFO - Return all rooms Request ended
+2023-04-30 22:44:02,379 - INFO - 127.0.0.1 - - [30/Apr/2023 22:44:02] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:44:02,389 - INFO - 127.0.0.1 - - [30/Apr/2023 22:44:02] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:44:02,621 - INFO - 127.0.0.1 - - [30/Apr/2023 22:44:02] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:44:02,698 - INFO - authtoken Request Initiated
+2023-04-30 22:44:02,700 - INFO - authtoken Request Ended
+2023-04-30 22:44:02,701 - INFO - 127.0.0.1 - - [30/Apr/2023 22:44:02] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:44:08,700 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:44:08,702 - INFO - Return all rooms Request Initiated
+2023-04-30 22:44:08,704 - INFO - ProfilePicture Request Ended
+2023-04-30 22:44:08,705 - INFO - Return all rooms Request ended
+2023-04-30 22:44:08,706 - INFO - 127.0.0.1 - - [30/Apr/2023 22:44:08] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:44:08,716 - INFO - 127.0.0.1 - - [30/Apr/2023 22:44:08] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:44:08,966 - INFO - 127.0.0.1 - - [30/Apr/2023 22:44:08] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:44:09,027 - INFO - authtoken Request Initiated
+2023-04-30 22:44:09,030 - INFO - authtoken Request Ended
+2023-04-30 22:44:09,031 - INFO - 127.0.0.1 - - [30/Apr/2023 22:44:09] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:44:15,624 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:44:15,627 - INFO - ProfilePicture Request Ended
+2023-04-30 22:44:15,629 - INFO - 127.0.0.1 - - [30/Apr/2023 22:44:15] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:44:15,931 - INFO - Return all rooms Request Initiated
+2023-04-30 22:44:15,934 - INFO - Return all rooms Request ended
+2023-04-30 22:44:15,944 - INFO - 127.0.0.1 - - [30/Apr/2023 22:44:15] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:44:16,257 - INFO - 127.0.0.1 - - [30/Apr/2023 22:44:16] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:44:16,525 - INFO - authtoken Request Initiated
+2023-04-30 22:44:16,527 - INFO - authtoken Request Ended
+2023-04-30 22:44:16,528 - INFO - 127.0.0.1 - - [30/Apr/2023 22:44:16] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:44:20,163 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:44:20,170 - INFO - ProfilePicture Request Ended
+2023-04-30 22:44:20,172 - INFO - 127.0.0.1 - - [30/Apr/2023 22:44:20] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:44:20,474 - INFO - Return all rooms Request Initiated
+2023-04-30 22:44:20,475 - INFO - Return all rooms Request ended
+2023-04-30 22:44:20,484 - INFO - 127.0.0.1 - - [30/Apr/2023 22:44:20] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:44:20,805 - INFO - authtoken Request Initiated
+2023-04-30 22:44:20,807 - INFO - authtoken Request Ended
+2023-04-30 22:44:20,807 - INFO - 127.0.0.1 - - [30/Apr/2023 22:44:20] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:44:32,354 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:44:32,356 - INFO - Return all rooms Request Initiated
+2023-04-30 22:44:32,357 - INFO - Return all rooms Request ended
+2023-04-30 22:44:32,367 - INFO - 127.0.0.1 - - [30/Apr/2023 22:44:32] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:44:32,370 - INFO - ProfilePicture Request Ended
+2023-04-30 22:44:32,371 - INFO - 127.0.0.1 - - [30/Apr/2023 22:44:32] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:44:32,603 - INFO - 127.0.0.1 - - [30/Apr/2023 22:44:32] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:44:32,681 - INFO - authtoken Request Initiated
+2023-04-30 22:44:32,683 - INFO - authtoken Request Ended
+2023-04-30 22:44:32,684 - INFO - 127.0.0.1 - - [30/Apr/2023 22:44:32] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:44:55,223 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:44:55,225 - INFO - Return all rooms Request Initiated
+2023-04-30 22:44:55,227 - INFO - ProfilePicture Request Ended
+2023-04-30 22:44:55,228 - INFO - Return all rooms Request ended
+2023-04-30 22:44:55,230 - INFO - 127.0.0.1 - - [30/Apr/2023 22:44:55] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:44:55,239 - INFO - 127.0.0.1 - - [30/Apr/2023 22:44:55] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:44:55,488 - INFO - 127.0.0.1 - - [30/Apr/2023 22:44:55] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:44:55,549 - INFO - authtoken Request Initiated
+2023-04-30 22:44:55,551 - INFO - authtoken Request Ended
+2023-04-30 22:44:55,552 - INFO - 127.0.0.1 - - [30/Apr/2023 22:44:55] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:45:47,307 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:45:47,310 - INFO - ProfilePicture Request Ended
+2023-04-30 22:45:47,312 - INFO - 127.0.0.1 - - [30/Apr/2023 22:45:47] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:45:47,622 - INFO - Return all rooms Request Initiated
+2023-04-30 22:45:47,623 - INFO - Return all rooms Request ended
+2023-04-30 22:45:47,632 - INFO - 127.0.0.1 - - [30/Apr/2023 22:45:47] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:45:47,947 - INFO - 127.0.0.1 - - [30/Apr/2023 22:45:47] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:45:48,213 - INFO - authtoken Request Initiated
+2023-04-30 22:45:48,214 - INFO - authtoken Request Ended
+2023-04-30 22:45:48,215 - INFO - 127.0.0.1 - - [30/Apr/2023 22:45:48] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:46:17,187 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:46:17,193 - INFO - ProfilePicture Request Ended
+2023-04-30 22:46:17,194 - INFO - 127.0.0.1 - - [30/Apr/2023 22:46:17] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:46:17,498 - INFO - Return all rooms Request Initiated
+2023-04-30 22:46:17,499 - INFO - Return all rooms Request ended
+2023-04-30 22:46:17,509 - INFO - 127.0.0.1 - - [30/Apr/2023 22:46:17] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:46:17,826 - INFO - 127.0.0.1 - - [30/Apr/2023 22:46:17] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:46:18,091 - INFO - authtoken Request Initiated
+2023-04-30 22:46:18,092 - INFO - authtoken Request Ended
+2023-04-30 22:46:18,093 - INFO - 127.0.0.1 - - [30/Apr/2023 22:46:18] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:46:59,006 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:46:59,011 - INFO - ProfilePicture Request Ended
+2023-04-30 22:46:59,013 - INFO - 127.0.0.1 - - [30/Apr/2023 22:46:59] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:46:59,326 - INFO - Return all rooms Request Initiated
+2023-04-30 22:46:59,328 - INFO - Return all rooms Request ended
+2023-04-30 22:46:59,337 - INFO - 127.0.0.1 - - [30/Apr/2023 22:46:59] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:46:59,651 - INFO - 127.0.0.1 - - [30/Apr/2023 22:46:59] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:46:59,918 - INFO - authtoken Request Initiated
+2023-04-30 22:46:59,920 - INFO - authtoken Request Ended
+2023-04-30 22:46:59,920 - INFO - 127.0.0.1 - - [30/Apr/2023 22:46:59] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:47:14,523 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:47:14,527 - INFO - ProfilePicture Request Ended
+2023-04-30 22:47:14,528 - INFO - 127.0.0.1 - - [30/Apr/2023 22:47:14] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:47:14,836 - INFO - Return all rooms Request Initiated
+2023-04-30 22:47:14,838 - INFO - Return all rooms Request ended
+2023-04-30 22:47:14,848 - INFO - 127.0.0.1 - - [30/Apr/2023 22:47:14] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:47:15,163 - INFO - 127.0.0.1 - - [30/Apr/2023 22:47:15] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:47:15,428 - INFO - authtoken Request Initiated
+2023-04-30 22:47:15,430 - INFO - authtoken Request Ended
+2023-04-30 22:47:15,431 - INFO - 127.0.0.1 - - [30/Apr/2023 22:47:15] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:48:03,148 - INFO - 127.0.0.1 - - [30/Apr/2023 22:48:03] "OPTIONS /api/v1.0/login HTTP/1.1" 200 -
+2023-04-30 22:48:03,465 - INFO - Login Request Initiated
+2023-04-30 22:48:03,658 - INFO - Login Request ended
+2023-04-30 22:48:03,659 - INFO - 127.0.0.1 - - [30/Apr/2023 22:48:03] "GET /api/v1.0/login HTTP/1.1" 200 -
+2023-04-30 22:48:03,717 - INFO - Show all university news Request Initiated
+2023-04-30 22:48:03,718 - INFO - Show all university news Request Ended
+2023-04-30 22:48:03,719 - INFO - 127.0.0.1 - - [30/Apr/2023 22:48:03] "GET /api/v1.0/uniNews HTTP/1.1" 200 -
+2023-04-30 22:48:03,986 - INFO - show all unversity events Request Initiated
+2023-04-30 22:48:03,987 - INFO - show all unversity events Request Ended
+2023-04-30 22:48:03,988 - INFO - 127.0.0.1 - - [30/Apr/2023 22:48:03] "GET /api/v1.0/uniEvents HTTP/1.1" 200 -
+2023-04-30 22:48:03,991 - INFO - 127.0.0.1 - - [30/Apr/2023 22:48:03] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:48:03,994 - INFO - Generate Pie Chart Usage Request Initiated
+2023-04-30 22:48:04,000 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:48:04,046 - INFO - authtoken Request Initiated
+2023-04-30 22:48:04,048 - INFO - authtoken Request Ended
+2023-04-30 22:48:04,049 - INFO - 127.0.0.1 - - [30/Apr/2023 22:48:04] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:48:04,055 - INFO - ProfilePicture Request Ended
+2023-04-30 22:48:04,062 - INFO - 127.0.0.1 - - [30/Apr/2023 22:48:04] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:48:04,119 - INFO - Generate Pie Chart Usage Request Ended
+2023-04-30 22:48:04,121 - INFO - 127.0.0.1 - - [30/Apr/2023 22:48:04] "GET /api/v1.0/rooms/piegraph/2022-12-28%2012:00 HTTP/1.1" 200 -
+2023-04-30 22:48:04,370 - INFO - Show all bookings for a user Request Initiated
+2023-04-30 22:48:04,371 - INFO - Show all bookings for a user Request ended
+2023-04-30 22:48:04,372 - INFO - 127.0.0.1 - - [30/Apr/2023 22:48:04] "GET /api/v1.0/bookings/user/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:48:09,083 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:48:09,086 - INFO - Return all rooms Request Initiated
+2023-04-30 22:48:09,088 - INFO - ProfilePicture Request Ended
+2023-04-30 22:48:09,088 - INFO - Return all rooms Request ended
+2023-04-30 22:48:09,089 - INFO - 127.0.0.1 - - [30/Apr/2023 22:48:09] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:48:09,099 - INFO - 127.0.0.1 - - [30/Apr/2023 22:48:09] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:48:09,347 - INFO - 127.0.0.1 - - [30/Apr/2023 22:48:09] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:48:09,409 - INFO - authtoken Request Initiated
+2023-04-30 22:48:09,411 - INFO - authtoken Request Ended
+2023-04-30 22:48:09,411 - INFO - 127.0.0.1 - - [30/Apr/2023 22:48:09] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:56:22,652 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:56:22,655 - INFO - Return all rooms Request Initiated
+2023-04-30 22:56:22,657 - INFO - Return all rooms Request ended
+2023-04-30 22:56:22,669 - INFO - 127.0.0.1 - - [30/Apr/2023 22:56:22] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:56:22,669 - INFO - ProfilePicture Request Ended
+2023-04-30 22:56:22,670 - INFO - 127.0.0.1 - - [30/Apr/2023 22:56:22] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:56:22,898 - INFO - 127.0.0.1 - - [30/Apr/2023 22:56:22] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:56:22,992 - INFO - authtoken Request Initiated
+2023-04-30 22:56:22,993 - INFO - authtoken Request Ended
+2023-04-30 22:56:22,994 - INFO - 127.0.0.1 - - [30/Apr/2023 22:56:22] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:56:27,526 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:56:27,530 - INFO - ProfilePicture Request Ended
+2023-04-30 22:56:27,532 - INFO - 127.0.0.1 - - [30/Apr/2023 22:56:27] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:56:27,836 - INFO - Return all rooms Request Initiated
+2023-04-30 22:56:27,837 - INFO - Return all rooms Request ended
+2023-04-30 22:56:27,846 - INFO - 127.0.0.1 - - [30/Apr/2023 22:56:27] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:56:28,162 - INFO - authtoken Request Initiated
+2023-04-30 22:56:28,164 - INFO - authtoken Request Ended
+2023-04-30 22:56:28,164 - INFO - 127.0.0.1 - - [30/Apr/2023 22:56:28] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:57:03,244 - INFO - ProfilePicture Request Initiated
+2023-04-30 22:57:03,248 - INFO - Return all rooms Request Initiated
+2023-04-30 22:57:03,249 - INFO - ProfilePicture Request Ended
+2023-04-30 22:57:03,250 - INFO - 127.0.0.1 - - [30/Apr/2023 22:57:03] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 22:57:03,250 - INFO - Return all rooms Request ended
+2023-04-30 22:57:03,260 - INFO - 127.0.0.1 - - [30/Apr/2023 22:57:03] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 22:57:03,492 - INFO - 127.0.0.1 - - [30/Apr/2023 22:57:03] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 22:57:03,571 - INFO - authtoken Request Initiated
+2023-04-30 22:57:03,573 - INFO - authtoken Request Ended
+2023-04-30 22:57:03,573 - INFO - 127.0.0.1 - - [30/Apr/2023 22:57:03] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 23:09:23,712 - INFO - ProfilePicture Request Initiated
+2023-04-30 23:09:23,715 - INFO - Return all rooms Request Initiated
+2023-04-30 23:09:23,717 - INFO - ProfilePicture Request Ended
+2023-04-30 23:09:23,717 - INFO - Return all rooms Request ended
+2023-04-30 23:09:23,718 - INFO - 127.0.0.1 - - [30/Apr/2023 23:09:23] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 23:09:23,728 - INFO - 127.0.0.1 - - [30/Apr/2023 23:09:23] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 23:09:23,979 - INFO - 127.0.0.1 - - [30/Apr/2023 23:09:23] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 23:09:24,040 - INFO - authtoken Request Initiated
+2023-04-30 23:09:24,041 - INFO - authtoken Request Ended
+2023-04-30 23:09:24,042 - INFO - 127.0.0.1 - - [30/Apr/2023 23:09:24] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 23:10:03,757 - INFO - Post a booking by Name Request Initiated
+2023-04-30 23:10:03,781 - INFO - Post a booking by Name Request Ended
+2023-04-30 23:10:03,782 - INFO - 127.0.0.1 - - [30/Apr/2023 23:10:03] "[35m[1mPOST /api/v1.0/bookingsname HTTP/1.1[0m" 201 -
+2023-04-30 23:10:44,096 - INFO - Post a booking by Name Request Initiated
+2023-04-30 23:10:44,100 - INFO - Post a booking by Name Request Ended
+2023-04-30 23:10:44,101 - INFO - 127.0.0.1 - - [30/Apr/2023 23:10:44] "[35m[1mPOST /api/v1.0/bookingsname HTTP/1.1[0m" 201 -
+2023-04-30 23:11:37,100 - INFO - Post a booking by Name Request Initiated
+2023-04-30 23:11:37,105 - INFO - Post a booking by Name Request Ended
+2023-04-30 23:11:37,106 - INFO - 127.0.0.1 - - [30/Apr/2023 23:11:37] "[35m[1mPOST /api/v1.0/bookingsname HTTP/1.1[0m" 201 -
+2023-04-30 23:12:54,758 - INFO - ProfilePicture Request Initiated
+2023-04-30 23:12:54,760 - INFO - Return all rooms Request Initiated
+2023-04-30 23:12:54,762 - INFO - ProfilePicture Request Ended
+2023-04-30 23:12:54,763 - INFO - Return all rooms Request ended
+2023-04-30 23:12:54,764 - INFO - 127.0.0.1 - - [30/Apr/2023 23:12:54] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 23:12:54,773 - INFO - 127.0.0.1 - - [30/Apr/2023 23:12:54] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 23:12:55,022 - INFO - 127.0.0.1 - - [30/Apr/2023 23:12:55] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 23:12:55,085 - INFO - authtoken Request Initiated
+2023-04-30 23:12:55,087 - INFO - authtoken Request Ended
+2023-04-30 23:12:55,087 - INFO - 127.0.0.1 - - [30/Apr/2023 23:12:55] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 23:13:30,564 - INFO - Post a booking by Name Request Initiated
+2023-04-30 23:13:30,571 - INFO - Post a booking by Name Request Ended
+2023-04-30 23:13:30,571 - INFO - 127.0.0.1 - - [30/Apr/2023 23:13:30] "[35m[1mPOST /api/v1.0/bookingsname HTTP/1.1[0m" 201 -
+2023-04-30 23:21:31,153 - INFO - ProfilePicture Request Initiated
+2023-04-30 23:21:31,157 - INFO - Return all rooms Request Initiated
+2023-04-30 23:21:31,160 - INFO - Return all rooms Request ended
+2023-04-30 23:21:31,170 - INFO - 127.0.0.1 - - [30/Apr/2023 23:21:31] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 23:21:31,173 - INFO - ProfilePicture Request Ended
+2023-04-30 23:21:31,174 - INFO - 127.0.0.1 - - [30/Apr/2023 23:21:31] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 23:21:31,401 - INFO - 127.0.0.1 - - [30/Apr/2023 23:21:31] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 23:21:31,493 - INFO - authtoken Request Initiated
+2023-04-30 23:21:31,495 - INFO - authtoken Request Ended
+2023-04-30 23:21:31,495 - INFO - 127.0.0.1 - - [30/Apr/2023 23:21:31] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 23:23:16,436 - INFO - Post a booking by Name Request Initiated
+2023-04-30 23:23:16,442 - INFO - Post a booking by Name Request Ended
+2023-04-30 23:23:16,443 - INFO - 127.0.0.1 - - [30/Apr/2023 23:23:16] "[35m[1mPOST /api/v1.0/bookingsname HTTP/1.1[0m" 201 -
+2023-04-30 23:23:44,183 - INFO - Post a booking by Name Request Initiated
+2023-04-30 23:23:44,188 - INFO - Post a booking by Name Request Ended
+2023-04-30 23:23:44,189 - INFO - 127.0.0.1 - - [30/Apr/2023 23:23:44] "[35m[1mPOST /api/v1.0/bookingsname HTTP/1.1[0m" 201 -
+2023-04-30 23:23:47,611 - INFO - ProfilePicture Request Initiated
+2023-04-30 23:23:47,613 - INFO - Return all rooms Request Initiated
+2023-04-30 23:23:47,616 - INFO - ProfilePicture Request Ended
+2023-04-30 23:23:47,616 - INFO - Return all rooms Request ended
+2023-04-30 23:23:47,617 - INFO - 127.0.0.1 - - [30/Apr/2023 23:23:47] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 23:23:47,628 - INFO - 127.0.0.1 - - [30/Apr/2023 23:23:47] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 23:23:47,879 - INFO - 127.0.0.1 - - [30/Apr/2023 23:23:47] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 23:23:47,940 - INFO - authtoken Request Initiated
+2023-04-30 23:23:47,943 - INFO - authtoken Request Ended
+2023-04-30 23:23:47,943 - INFO - 127.0.0.1 - - [30/Apr/2023 23:23:47] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 23:24:24,319 - INFO - Post a booking by Name Request Initiated
+2023-04-30 23:24:24,325 - INFO - Post a booking by Name Request Ended
+2023-04-30 23:24:24,326 - INFO - 127.0.0.1 - - [30/Apr/2023 23:24:24] "[35m[1mPOST /api/v1.0/bookingsname HTTP/1.1[0m" 201 -
+2023-04-30 23:25:32,297 - INFO - ProfilePicture Request Initiated
+2023-04-30 23:25:32,300 - INFO - Return all rooms Request Initiated
+2023-04-30 23:25:32,303 - INFO - ProfilePicture Request Ended
+2023-04-30 23:25:32,303 - INFO - Return all rooms Request ended
+2023-04-30 23:25:32,305 - INFO - 127.0.0.1 - - [30/Apr/2023 23:25:32] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 23:25:32,316 - INFO - 127.0.0.1 - - [30/Apr/2023 23:25:32] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 23:25:32,547 - INFO - 127.0.0.1 - - [30/Apr/2023 23:25:32] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 23:25:32,639 - INFO - authtoken Request Initiated
+2023-04-30 23:25:32,641 - INFO - authtoken Request Ended
+2023-04-30 23:25:32,641 - INFO - 127.0.0.1 - - [30/Apr/2023 23:25:32] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 23:27:21,529 - INFO - ProfilePicture Request Initiated
+2023-04-30 23:27:21,532 - INFO - Return all rooms Request Initiated
+2023-04-30 23:27:21,538 - INFO - ProfilePicture Request Ended
+2023-04-30 23:27:21,539 - INFO - Return all rooms Request ended
+2023-04-30 23:27:21,540 - INFO - 127.0.0.1 - - [30/Apr/2023 23:27:21] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 23:27:21,558 - INFO - 127.0.0.1 - - [30/Apr/2023 23:27:21] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 23:27:21,796 - INFO - 127.0.0.1 - - [30/Apr/2023 23:27:21] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 23:27:21,873 - INFO - authtoken Request Initiated
+2023-04-30 23:27:21,874 - INFO - authtoken Request Ended
+2023-04-30 23:27:21,875 - INFO - 127.0.0.1 - - [30/Apr/2023 23:27:21] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 23:28:13,812 - INFO - Post a booking by Name Request Initiated
+2023-04-30 23:28:13,821 - INFO - Post a booking by Name Request Ended
+2023-04-30 23:28:13,822 - INFO - 127.0.0.1 - - [30/Apr/2023 23:28:13] "[35m[1mPOST /api/v1.0/bookingsname HTTP/1.1[0m" 201 -
+2023-04-30 23:28:17,330 - INFO - ProfilePicture Request Initiated
+2023-04-30 23:28:17,332 - INFO - Return all rooms Request Initiated
+2023-04-30 23:28:17,334 - INFO - ProfilePicture Request Ended
+2023-04-30 23:28:17,335 - INFO - 127.0.0.1 - - [30/Apr/2023 23:28:17] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 23:28:17,336 - INFO - Return all rooms Request ended
+2023-04-30 23:28:17,346 - INFO - 127.0.0.1 - - [30/Apr/2023 23:28:17] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 23:28:17,590 - INFO - 127.0.0.1 - - [30/Apr/2023 23:28:17] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 23:28:17,666 - INFO - authtoken Request Initiated
+2023-04-30 23:28:17,667 - INFO - authtoken Request Ended
+2023-04-30 23:28:17,668 - INFO - 127.0.0.1 - - [30/Apr/2023 23:28:17] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 23:29:03,605 - INFO - Post a booking by Name Request Initiated
+2023-04-30 23:29:03,611 - INFO - Post a booking by Name Request Ended
+2023-04-30 23:29:03,611 - INFO - 127.0.0.1 - - [30/Apr/2023 23:29:03] "[35m[1mPOST /api/v1.0/bookingsname HTTP/1.1[0m" 201 -
+2023-04-30 23:29:15,217 - INFO - ProfilePicture Request Initiated
+2023-04-30 23:29:15,220 - INFO - Return all rooms Request Initiated
+2023-04-30 23:29:15,223 - INFO - ProfilePicture Request Ended
+2023-04-30 23:29:15,223 - INFO - Return all rooms Request ended
+2023-04-30 23:29:15,225 - INFO - 127.0.0.1 - - [30/Apr/2023 23:29:15] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 23:29:15,235 - INFO - 127.0.0.1 - - [30/Apr/2023 23:29:15] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 23:29:15,481 - INFO - 127.0.0.1 - - [30/Apr/2023 23:29:15] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 23:29:15,560 - INFO - authtoken Request Initiated
+2023-04-30 23:29:15,561 - INFO - authtoken Request Ended
+2023-04-30 23:29:15,562 - INFO - 127.0.0.1 - - [30/Apr/2023 23:29:15] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 23:30:42,925 - INFO - Post a booking by Name Request Initiated
+2023-04-30 23:30:42,930 - INFO - Post a booking by Name Request Ended
+2023-04-30 23:30:42,931 - INFO - 127.0.0.1 - - [30/Apr/2023 23:30:42] "[35m[1mPOST /api/v1.0/bookingsname HTTP/1.1[0m" 201 -
+2023-04-30 23:30:45,809 - INFO - ProfilePicture Request Initiated
+2023-04-30 23:30:45,812 - INFO - ProfilePicture Request Ended
+2023-04-30 23:30:45,814 - INFO - 127.0.0.1 - - [30/Apr/2023 23:30:45] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-04-30 23:30:46,125 - INFO - Return all rooms Request Initiated
+2023-04-30 23:30:46,127 - INFO - Return all rooms Request ended
+2023-04-30 23:30:46,136 - INFO - 127.0.0.1 - - [30/Apr/2023 23:30:46] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-04-30 23:30:46,448 - INFO - 127.0.0.1 - - [30/Apr/2023 23:30:46] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-04-30 23:30:46,713 - INFO - authtoken Request Initiated
+2023-04-30 23:30:46,716 - INFO - authtoken Request Ended
+2023-04-30 23:30:46,716 - INFO - 127.0.0.1 - - [30/Apr/2023 23:30:46] "GET /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-05-01 01:00:57,339 - INFO - ProfilePicture Request Initiated
+2023-05-01 01:00:57,348 - INFO - Return all rooms Request Initiated
+2023-05-01 01:00:57,367 - INFO - Return all rooms Request ended
+2023-05-01 01:00:57,381 - INFO - 127.0.0.1 - - [01/May/2023 01:00:57] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-05-01 01:00:57,384 - INFO - ProfilePicture Request Ended
+2023-05-01 01:00:57,386 - INFO - 127.0.0.1 - - [01/May/2023 01:00:57] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-05-01 01:00:57,574 - INFO - 127.0.0.1 - - [01/May/2023 01:00:57] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-05-01 01:00:57,698 - INFO - authtoken Request Initiated
+2023-05-01 01:00:57,704 - ERROR - Token is invalid
+2023-05-01 01:00:57,706 - INFO - 127.0.0.1 - - [01/May/2023 01:00:57] "[33mGET /api/v1.0/authtoken HTTP/1.1[0m" 404 -
+2023-05-01 01:00:58,498 - INFO - Show all university news Request Initiated
+2023-05-01 01:00:58,501 - INFO - Show all university news Request Ended
+2023-05-01 01:00:58,502 - INFO - 127.0.0.1 - - [01/May/2023 01:00:58] "GET /api/v1.0/uniNews HTTP/1.1" 200 -
+2023-05-01 01:00:58,814 - INFO - show all unversity events Request Initiated
+2023-05-01 01:00:58,815 - INFO - show all unversity events Request Ended
+2023-05-01 01:00:58,816 - INFO - 127.0.0.1 - - [01/May/2023 01:00:58] "GET /api/v1.0/uniEvents HTTP/1.1" 200 -
+2023-05-01 01:00:58,818 - INFO - authtoken Request Initiated
+2023-05-01 01:00:58,818 - ERROR - Token is invalid
+2023-05-01 01:00:58,819 - INFO - 127.0.0.1 - - [01/May/2023 01:00:58] "[33mGET /api/v1.0/authtoken HTTP/1.1[0m" 404 -
+2023-05-01 01:00:58,823 - INFO - Generate Pie Chart Usage Request Initiated
+2023-05-01 01:00:58,828 - INFO - ProfilePicture Request Initiated
+2023-05-01 01:00:58,837 - INFO - ProfilePicture Request Ended
+2023-05-01 01:00:58,839 - INFO - 127.0.0.1 - - [01/May/2023 01:00:58] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-05-01 01:00:59,008 - INFO - Generate Pie Chart Usage Request Ended
+2023-05-01 01:00:59,009 - INFO - 127.0.0.1 - - [01/May/2023 01:00:59] "GET /api/v1.0/rooms/piegraph/2022-12-28%2012:00 HTTP/1.1" 200 -
+2023-05-01 01:01:03,154 - INFO - Return all rooms Request Initiated
+2023-05-01 01:01:03,155 - INFO - Return all rooms Request ended
+2023-05-01 01:01:03,165 - INFO - 127.0.0.1 - - [01/May/2023 01:01:03] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-05-01 01:01:03,167 - INFO - 127.0.0.1 - - [01/May/2023 01:01:03] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-05-01 01:01:03,169 - INFO - ProfilePicture Request Initiated
+2023-05-01 01:01:03,172 - INFO - ProfilePicture Request Ended
+2023-05-01 01:01:03,173 - INFO - 127.0.0.1 - - [01/May/2023 01:01:03] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-05-01 01:01:03,420 - INFO - authtoken Request Initiated
+2023-05-01 01:01:03,421 - ERROR - Token is invalid
+2023-05-01 01:01:03,422 - INFO - 127.0.0.1 - - [01/May/2023 01:01:03] "[33mGET /api/v1.0/authtoken HTTP/1.1[0m" 404 -
+2023-05-01 01:01:04,205 - INFO - Return one room Request Initiated
+2023-05-01 01:01:04,213 - INFO - Return one room Request ended
+2023-05-01 01:01:04,215 - INFO - 127.0.0.1 - - [01/May/2023 01:01:04] "GET /api/v1.0/rooms/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-05-01 01:01:04,508 - INFO - ProfilePicture Request Initiated
+2023-05-01 01:01:04,511 - INFO - Room Mapping Picture Request Initiated
+2023-05-01 01:01:04,513 - INFO - ProfilePicture Request Ended
+2023-05-01 01:01:04,515 - INFO - 127.0.0.1 - - [01/May/2023 01:01:04] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-05-01 01:01:04,516 - INFO - Room Mapping Picture Request Ended
+2023-05-01 01:01:04,516 - INFO - 127.0.0.1 - - [01/May/2023 01:01:04] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b68 HTTP/1.1" 200 -
+2023-05-01 01:01:04,523 - INFO - authtoken Request Initiated
+2023-05-01 01:01:04,523 - ERROR - Token is invalid
+2023-05-01 01:01:04,524 - INFO - 127.0.0.1 - - [01/May/2023 01:01:04] "[33mGET /api/v1.0/authtoken HTTP/1.1[0m" 404 -
+2023-05-01 01:01:06,788 - INFO - Show all university news Request Initiated
+2023-05-01 01:01:06,790 - INFO - Show all university news Request Ended
+2023-05-01 01:01:06,791 - INFO - 127.0.0.1 - - [01/May/2023 01:01:06] "GET /api/v1.0/uniNews HTTP/1.1" 200 -
+2023-05-01 01:01:06,792 - INFO - show all unversity events Request Initiated
+2023-05-01 01:01:06,794 - INFO - show all unversity events Request Ended
+2023-05-01 01:01:06,795 - INFO - 127.0.0.1 - - [01/May/2023 01:01:06] "GET /api/v1.0/uniEvents HTTP/1.1" 200 -
+2023-05-01 01:01:06,796 - INFO - authtoken Request Initiated
+2023-05-01 01:01:06,797 - ERROR - Token is invalid
+2023-05-01 01:01:06,798 - INFO - 127.0.0.1 - - [01/May/2023 01:01:06] "[33mGET /api/v1.0/authtoken HTTP/1.1[0m" 404 -
+2023-05-01 01:01:06,800 - INFO - Generate Pie Chart Usage Request Initiated
+2023-05-01 01:01:06,806 - INFO - ProfilePicture Request Initiated
+2023-05-01 01:01:06,853 - INFO - ProfilePicture Request Ended
+2023-05-01 01:01:06,854 - INFO - 127.0.0.1 - - [01/May/2023 01:01:06] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-05-01 01:01:06,891 - INFO - Generate Pie Chart Usage Request Ended
+2023-05-01 01:01:06,892 - INFO - 127.0.0.1 - - [01/May/2023 01:01:06] "GET /api/v1.0/rooms/piegraph/2022-12-28%2012:00 HTTP/1.1" 200 -
+2023-05-01 01:01:07,290 - INFO - Return all rooms Request Initiated
+2023-05-01 01:01:07,292 - INFO - Return all rooms Request ended
+2023-05-01 01:01:07,303 - INFO - 127.0.0.1 - - [01/May/2023 01:01:07] "GET /api/v1.0/rooms HTTP/1.1" 200 -
+2023-05-01 01:01:07,595 - INFO - authtoken Request Initiated
+2023-05-01 01:01:07,597 - ERROR - Token is invalid
+2023-05-01 01:01:07,597 - INFO - 127.0.0.1 - - [01/May/2023 01:01:07] "[33mGET /api/v1.0/authtoken HTTP/1.1[0m" 404 -
+2023-05-01 01:01:07,599 - INFO - ProfilePicture Request Initiated
+2023-05-01 01:01:07,603 - INFO - ProfilePicture Request Ended
+2023-05-01 01:01:07,605 - INFO - 127.0.0.1 - - [01/May/2023 01:01:07] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-05-01 01:01:09,626 - INFO - Return one room Request Initiated
+2023-05-01 01:01:09,627 - INFO - Return one room Request ended
+2023-05-01 01:01:09,629 - INFO - 127.0.0.1 - - [01/May/2023 01:01:09] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-05-01 01:01:09,630 - INFO - ProfilePicture Request Initiated
+2023-05-01 01:01:09,633 - INFO - Room Mapping Picture Request Initiated
+2023-05-01 01:01:09,635 - INFO - ProfilePicture Request Ended
+2023-05-01 01:01:09,637 - INFO - 127.0.0.1 - - [01/May/2023 01:01:09] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-05-01 01:01:09,638 - INFO - Room Mapping Picture Request Ended
+2023-05-01 01:01:09,639 - INFO - 127.0.0.1 - - [01/May/2023 01:01:09] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-05-01 01:01:09,890 - INFO - 127.0.0.1 - - [01/May/2023 01:01:09] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-05-01 01:01:09,935 - INFO - authtoken Request Initiated
+2023-05-01 01:01:09,935 - ERROR - Token is invalid
+2023-05-01 01:01:09,936 - INFO - 127.0.0.1 - - [01/May/2023 01:01:09] "[33mGET /api/v1.0/authtoken HTTP/1.1[0m" 404 -
+2023-05-01 01:01:33,828 - INFO - Return one room Request Initiated
+2023-05-01 01:01:33,830 - INFO - Return one room Request ended
+2023-05-01 01:01:33,831 - INFO - ProfilePicture Request Initiated
+2023-05-01 01:01:33,832 - INFO - 127.0.0.1 - - [01/May/2023 01:01:33] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-05-01 01:01:33,835 - INFO - Room Mapping Picture Request Initiated
+2023-05-01 01:01:33,837 - INFO - ProfilePicture Request Ended
+2023-05-01 01:01:33,839 - INFO - 127.0.0.1 - - [01/May/2023 01:01:33] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-05-01 01:01:33,840 - INFO - Room Mapping Picture Request Ended
+2023-05-01 01:01:33,841 - INFO - 127.0.0.1 - - [01/May/2023 01:01:33] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-05-01 01:01:34,096 - INFO - 127.0.0.1 - - [01/May/2023 01:01:34] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-05-01 01:01:34,143 - INFO - authtoken Request Initiated
+2023-05-01 01:01:34,144 - ERROR - Token is invalid
+2023-05-01 01:01:34,144 - INFO - 127.0.0.1 - - [01/May/2023 01:01:34] "[33mGET /api/v1.0/authtoken HTTP/1.1[0m" 404 -
+2023-05-01 01:05:06,180 - INFO - Return one room Request Initiated
+2023-05-01 01:05:06,183 - INFO - ProfilePicture Request Initiated
+2023-05-01 01:05:06,184 - INFO - Return one room Request ended
+2023-05-01 01:05:06,185 - INFO - 127.0.0.1 - - [01/May/2023 01:05:06] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-05-01 01:05:06,188 - INFO - Room Mapping Picture Request Initiated
+2023-05-01 01:05:06,192 - INFO - ProfilePicture Request Ended
+2023-05-01 01:05:06,194 - INFO - 127.0.0.1 - - [01/May/2023 01:05:06] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-05-01 01:05:06,195 - INFO - Room Mapping Picture Request Ended
+2023-05-01 01:05:06,197 - INFO - 127.0.0.1 - - [01/May/2023 01:05:06] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-05-01 01:05:06,443 - INFO - 127.0.0.1 - - [01/May/2023 01:05:06] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-05-01 01:05:06,506 - INFO - authtoken Request Initiated
+2023-05-01 01:05:06,506 - ERROR - Token is invalid
+2023-05-01 01:05:06,507 - INFO - 127.0.0.1 - - [01/May/2023 01:05:06] "[33mGET /api/v1.0/authtoken HTTP/1.1[0m" 404 -
+2023-05-01 01:05:13,016 - INFO - Return one room Request Initiated
+2023-05-01 01:05:13,018 - INFO - Return one room Request ended
+2023-05-01 01:05:13,019 - INFO - ProfilePicture Request Initiated
+2023-05-01 01:05:13,020 - INFO - 127.0.0.1 - - [01/May/2023 01:05:13] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-05-01 01:05:13,023 - INFO - Room Mapping Picture Request Initiated
+2023-05-01 01:05:13,025 - INFO - ProfilePicture Request Ended
+2023-05-01 01:05:13,028 - INFO - 127.0.0.1 - - [01/May/2023 01:05:13] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-05-01 01:05:13,029 - INFO - Room Mapping Picture Request Ended
+2023-05-01 01:05:13,030 - INFO - 127.0.0.1 - - [01/May/2023 01:05:13] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-05-01 01:05:13,267 - INFO - 127.0.0.1 - - [01/May/2023 01:05:13] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-05-01 01:05:13,331 - INFO - authtoken Request Initiated
+2023-05-01 01:05:13,332 - ERROR - Token is invalid
+2023-05-01 01:05:13,332 - INFO - 127.0.0.1 - - [01/May/2023 01:05:13] "[33mGET /api/v1.0/authtoken HTTP/1.1[0m" 404 -
+2023-05-01 01:07:31,341 - INFO - Return one room Request Initiated
+2023-05-01 01:07:31,343 - INFO - Return one room Request ended
+2023-05-01 01:07:31,344 - INFO - ProfilePicture Request Initiated
+2023-05-01 01:07:31,345 - INFO - 127.0.0.1 - - [01/May/2023 01:07:31] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-05-01 01:07:31,348 - INFO - Room Mapping Picture Request Initiated
+2023-05-01 01:07:31,350 - INFO - ProfilePicture Request Ended
+2023-05-01 01:07:31,352 - INFO - 127.0.0.1 - - [01/May/2023 01:07:31] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-05-01 01:07:31,352 - INFO - Room Mapping Picture Request Ended
+2023-05-01 01:07:31,354 - INFO - 127.0.0.1 - - [01/May/2023 01:07:31] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-05-01 01:07:31,592 - INFO - 127.0.0.1 - - [01/May/2023 01:07:31] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-05-01 01:07:31,655 - INFO - authtoken Request Initiated
+2023-05-01 01:07:31,656 - ERROR - Token is invalid
+2023-05-01 01:07:31,656 - INFO - 127.0.0.1 - - [01/May/2023 01:07:31] "[33mGET /api/v1.0/authtoken HTTP/1.1[0m" 404 -
+2023-05-01 01:17:26,124 - INFO - Return one room Request Initiated
+2023-05-01 01:17:26,128 - INFO - ProfilePicture Request Initiated
+2023-05-01 01:17:26,129 - INFO - Return one room Request ended
+2023-05-01 01:17:26,131 - INFO - 127.0.0.1 - - [01/May/2023 01:17:26] "GET /api/v1.0/rooms/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-05-01 01:17:26,133 - INFO - Room Mapping Picture Request Initiated
+2023-05-01 01:17:26,136 - INFO - ProfilePicture Request Ended
+2023-05-01 01:17:26,138 - INFO - 127.0.0.1 - - [01/May/2023 01:17:26] "GET /api/v1.0/rooms/profileimg/63beb696563c13ff7216d1e6 HTTP/1.1" 200 -
+2023-05-01 01:17:26,142 - INFO - Room Mapping Picture Request Ended
+2023-05-01 01:17:26,144 - INFO - 127.0.0.1 - - [01/May/2023 01:17:26] "GET /api/v1.0/rooms/roommapimg/6418a074b9d33df688c64b6a HTTP/1.1" 200 -
+2023-05-01 01:17:26,388 - INFO - 127.0.0.1 - - [01/May/2023 01:17:26] "OPTIONS /api/v1.0/authtoken HTTP/1.1" 200 -
+2023-05-01 01:17:26,449 - INFO - authtoken Request Initiated
+2023-05-01 01:17:26,450 - ERROR - Token is invalid
+2023-05-01 01:17:26,450 - INFO - 127.0.0.1 - - [01/May/2023 01:17:26] "[33mGET /api/v1.0/authtoken HTTP/1.1[0m" 404 -

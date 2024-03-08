@@ -1,0 +1,1081 @@
+[{
+  "_id": {
+    "$oid": "6418a074b9d33df688c64b68"
+  },
+  "roomLocation": "MB-01-01",
+  "roomName": "The Alan Turing Hall",
+  "roomType": "Lecture",
+  "Size": 350,
+  "roomID": 1,
+  "accessLevel": "Lecturer",
+  "Peripherals": [
+    {
+      "Projector": true,
+      "projectorScreen": true,
+      "digitalPodium": true,
+      "echoCancellingMicrophone": true,
+      "Speakers": true,
+      "moveableSeating": false,
+      "movableDisplays": false,
+      "Computers": false,
+      "conferenceDesk": false,
+      "presentationDisplays": false,
+      "Whiteboard": false,
+      "webCamera": false
+    }
+  ],
+  "Accessibility": [
+    {
+      "wheelchairAccessible": true,
+      "screenReader": true,
+      "HearingTechnologies": true,
+      "nearbyBathroom": true,
+      "seatingNearExits": true
+    }
+  ],
+  "Maplink": "buildingMaps/Floor_1_t9.png"
+},{
+  "_id": {
+    "$oid": "6418a074b9d33df688c64b69"
+  },
+  "roomLocation": "MB-01-03",
+  "roomName": "Berners-Lee lecture theater",
+  "roomType": "Lecture",
+  "Size": 400,
+  "roomID": 2,
+  "accessLevel": "Lecturer",
+  "Peripherals": [
+    {
+      "Projector": true,
+      "projectorScreen": true,
+      "digitalPodium": true,
+      "echoCancellingMicrophone": true,
+      "Speakers": true,
+      "moveableSeating": false,
+      "movableDisplays": false,
+      "Computers": false,
+      "conferenceDesk": false,
+      "presentationDisplays": false,
+      "Whiteboard": false,
+      "webCamera": false
+    }
+  ],
+  "Accessibility": [
+    {
+      "wheelchairAccessible": true,
+      "screenReader": true,
+      "HearingTechnologies": true,
+      "nearbyBathroom": true,
+      "seatingNearExits": true
+    }
+  ],
+  "Maplink": "buildingMaps/Floor_1_t7.png"
+},{
+  "_id": {
+    "$oid": "6418a074b9d33df688c64b6a"
+  },
+  "roomLocation": "MB-01-05",
+  "roomName": "John Clauser",
+  "roomType": "Study",
+  "Size": 15,
+  "roomID": 3,
+  "accessLevel": "Student",
+  "Peripherals": [
+    {
+      "Projector": false,
+      "projectorScreen": false,
+      "digitalPodium": false,
+      "echoCancellingMicrophone": false,
+      "Speakers": false,
+      "moveableSeating": true,
+      "movableDisplays": false,
+      "Computers": true,
+      "conferenceDesk": true,
+      "presentationDisplays": true,
+      "Whiteboard": true,
+      "webCamera": false
+    }
+  ],
+  "Accessibility": [
+    {
+      "wheelchairAccessible": true,
+      "screenReader": true,
+      "HearingTechnologies": true,
+      "nearbyBathroom": false,
+      "seatingNearExits": true
+    }
+  ],
+  "Maplink": "buildingMaps/Floor_1_t4.png"
+},{
+  "_id": {
+    "$oid": "6418a074b9d33df688c64b6b"
+  },
+  "roomLocation": "MB-01-06",
+  "roomName": "Karl Barry Sharpless",
+  "roomType": "Study",
+  "Size": 15,
+  "roomID": 4,
+  "accessLevel": "Student",
+  "Peripherals": [
+    {
+      "Projector": false,
+      "projectorScreen": false,
+      "digitalPodium": false,
+      "echoCancellingMicrophone": false,
+      "Speakers": false,
+      "moveableSeating": true,
+      "movableDisplays": false,
+      "Computers": true,
+      "conferenceDesk": true,
+      "presentationDisplays": true,
+      "Whiteboard": true,
+      "webCamera": false
+    }
+  ],
+  "Accessibility": [
+    {
+      "wheelchairAccessible": true,
+      "screenReader": true,
+      "HearingTechnologies": true,
+      "nearbyBathroom": false,
+      "seatingNearExits": true
+    }
+  ],
+  "Maplink": "buildingMaps/Floor_1_t3.png"
+},{
+  "_id": {
+    "$oid": "6418a074b9d33df688c64b6c"
+  },
+  "roomLocation": "MB-01-09",
+  "roomName": "Oliver Hart",
+  "roomType": "Study",
+  "Size": 12,
+  "roomID": 5,
+  "accessLevel": "Student",
+  "Peripherals": [
+    {
+      "Projector": false,
+      "projectorScreen": false,
+      "digitalPodium": false,
+      "echoCancellingMicrophone": false,
+      "Speakers": false,
+      "moveableSeating": true,
+      "movableDisplays": false,
+      "Computers": true,
+      "conferenceDesk": true,
+      "presentationDisplays": true,
+      "Whiteboard": true,
+      "webCamera": false
+    }
+  ],
+  "Accessibility": [
+    {
+      "wheelchairAccessible": true,
+      "screenReader": true,
+      "HearingTechnologies": true,
+      "nearbyBathroom": true,
+      "seatingNearExits": false
+    }
+  ],
+  "Maplink": "buildingMaps/Floor_1_t5.png"
+},{
+  "_id": {
+    "$oid": "6418a074b9d33df688c64b6d"
+  },
+  "roomLocation": "MB-01-08",
+  "roomName": "Churchill",
+  "roomType": "Meeting",
+  "Size": 5,
+  "roomID": 6,
+  "accessLevel": "Student",
+  "Peripherals": [
+    {
+      "Projector": false,
+      "projectorScreen": false,
+      "digitalPodium": false,
+      "echoCancellingMicrophone": true,
+      "Speakers": true,
+      "moveableSeating": true,
+      "movableDisplays": false,
+      "Computers": false,
+      "conferenceDesk": true,
+      "presentationDisplays": true,
+      "Whiteboard": true,
+      "webCamera": true
+    }
+  ],
+  "Accessibility": [
+    {
+      "wheelchairAccessible": true,
+      "screenReader": true,
+      "HearingTechnologies": true,
+      "nearbyBathroom": false,
+      "seatingNearExits": true
+    }
+  ],
+  "Maplink": "buildingMaps/Floor_1_t1.png"
+},{
+  "_id": {
+    "$oid": "6418a074b9d33df688c64b6e"
+  },
+  "roomLocation": "MB-01-07",
+  "roomName": "Glenariff",
+  "roomType": "Meeting",
+  "Size": 10,
+  "roomID": 7,
+  "accessLevel": "Student",
+  "Peripherals": [
+    {
+      "Projector": false,
+      "projectorScreen": false,
+      "digitalPodium": false,
+      "echoCancellingMicrophone": true,
+      "Speakers": true,
+      "moveableSeating": true,
+      "movableDisplays": false,
+      "Computers": false,
+      "conferenceDesk": true,
+      "presentationDisplays": true,
+      "Whiteboard": true,
+      "webCamera": true
+    }
+  ],
+  "Accessibility": [
+    {
+      "wheelchairAccessible": true,
+      "screenReader": false,
+      "HearingTechnologies": false,
+      "nearbyBathroom": true,
+      "seatingNearExits": true
+    }
+  ],
+  "Maplink": "buildingMaps/Floor_1_t2.png"
+},{
+  "_id": {
+    "$oid": "6418a074b9d33df688c64b6f"
+  },
+  "roomLocation": "MB-01-02",
+  "roomName": "Castlerock",
+  "roomType": "Teaching",
+  "Size": 100,
+  "roomID": 8,
+  "accessLevel": "Lecturer",
+  "Peripherals": [
+    {
+      "Projector": true,
+      "projectorScreen": true,
+      "digitalPodium": true,
+      "echoCancellingMicrophone": true,
+      "Speakers": true,
+      "moveableSeating": true,
+      "movableDisplays": true,
+      "Computers": true,
+      "conferenceDesk": false,
+      "presentationDisplays": false,
+      "Whiteboard": false,
+      "webCamera": false
+    }
+  ],
+  "Accessibility": [
+    {
+      "wheelchairAccessible": true,
+      "screenReader": true,
+      "HearingTechnologies": true,
+      "nearbyBathroom": true,
+      "seatingNearExits": true
+    }
+  ],
+  "Maplink": "buildingMaps/Floor_1_t10.png"
+},{
+  "_id": {
+    "$oid": "6418a074b9d33df688c64b70"
+  },
+  "roomLocation": "MB-01-04",
+  "roomName": "Portrush",
+  "roomType": "Teaching",
+  "Size": 100,
+  "roomID": 9,
+  "accessLevel": "Lecturer",
+  "Peripherals": [
+    {
+      "Projector": true,
+      "projectorScreen": true,
+      "digitalPodium": true,
+      "echoCancellingMicrophone": true,
+      "Speakers": true,
+      "moveableSeating": true,
+      "movableDisplays": true,
+      "Computers": true,
+      "conferenceDesk": false,
+      "presentationDisplays": false,
+      "Whiteboard": false,
+      "webCamera": false
+    }
+  ],
+  "Accessibility": [
+    {
+      "wheelchairAccessible": true,
+      "screenReader": true,
+      "HearingTechnologies": true,
+      "nearbyBathroom": false,
+      "seatingNearExits": true
+    }
+  ],
+  "Maplink": "buildingMaps/Floor_1_t8.png"
+},{
+  "_id": {
+    "$oid": "6418a074b9d33df688c64b71"
+  },
+  "roomLocation": "MB-01-10",
+  "roomName": "Newcastle",
+  "roomType": "Teaching",
+  "Size": 80,
+  "roomID": 10,
+  "accessLevel": "Lecturer",
+  "Peripherals": [
+    {
+      "Projector": true,
+      "projectorScreen": true,
+      "digitalPodium": true,
+      "echoCancellingMicrophone": true,
+      "Speakers": true,
+      "moveableSeating": true,
+      "movableDisplays": true,
+      "Computers": true,
+      "conferenceDesk": false,
+      "presentationDisplays": false,
+      "Whiteboard": false,
+      "webCamera": false
+    }
+  ],
+  "Accessibility": [
+    {
+      "wheelchairAccessible": true,
+      "screenReader": false,
+      "HearingTechnologies": true,
+      "nearbyBathroom": false,
+      "seatingNearExits": false
+    }
+  ],
+  "Maplink": "buildingMaps/Floor_1_t6.png"
+},{
+  "_id": {
+    "$oid": "6418a074b9d33df688c64b72"
+  },
+  "roomLocation": "MB-02-02",
+  "roomName": "Charles Babbage",
+  "roomType": "Lecture",
+  "Size": 250,
+  "roomID": 11,
+  "accessLevel": "Lecturer",
+  "Peripherals": [
+    {
+      "Projector": true,
+      "projectorScreen": true,
+      "digitalPodium": true,
+      "echoCancellingMicrophone": true,
+      "Speakers": true,
+      "moveableSeating": false,
+      "movableDisplays": false,
+      "Computers": false,
+      "conferenceDesk": false,
+      "presentationDisplays": false,
+      "Whiteboard": false,
+      "webCamera": false
+    }
+  ],
+  "Accessibility": [
+    {
+      "wheelchairAccessible": true,
+      "screenReader": true,
+      "HearingTechnologies": true,
+      "nearbyBathroom": true,
+      "seatingNearExits": true
+    }
+  ],
+  "Maplink": "buildingMaps/Floor_2_t9.png"
+},{
+  "_id": {
+    "$oid": "6418a074b9d33df688c64b73"
+  },
+  "roomLocation": "MB-02-03",
+  "roomName": "Margaret Hamilton Hall",
+  "roomType": "Lecture",
+  "Size": 250,
+  "roomID": 12,
+  "accessLevel": "Lecturer",
+  "Peripherals": [
+    {
+      "Projector": true,
+      "projectorScreen": true,
+      "digitalPodium": true,
+      "echoCancellingMicrophone": true,
+      "Speakers": true,
+      "moveableSeating": false,
+      "movableDisplays": false,
+      "Computers": false,
+      "conferenceDesk": false,
+      "presentationDisplays": false,
+      "Whiteboard": false,
+      "webCamera": false
+    }
+  ],
+  "Accessibility": [
+    {
+      "wheelchairAccessible": true,
+      "screenReader": false,
+      "HearingTechnologies": false,
+      "nearbyBathroom": true,
+      "seatingNearExits": true
+    }
+  ],
+  "Maplink": "buildingMaps/Floor_2_t7.png"
+},{
+  "_id": {
+    "$oid": "6418a074b9d33df688c64b74"
+  },
+  "roomLocation": "MB-02-05",
+  "roomName": "Gregory Winter",
+  "roomType": "Study",
+  "Size": 12,
+  "roomID": 13,
+  "accessLevel": "Student",
+  "Peripherals": [
+    {
+      "Projector": false,
+      "projectorScreen": false,
+      "digitalPodium": false,
+      "echoCancellingMicrophone": false,
+      "Speakers": false,
+      "moveableSeating": true,
+      "movableDisplays": false,
+      "Computers": true,
+      "conferenceDesk": true,
+      "presentationDisplays": true,
+      "Whiteboard": true,
+      "webCamera": false
+    }
+  ],
+  "Accessibility": [
+    {
+      "wheelchairAccessible": true,
+      "screenReader": true,
+      "HearingTechnologies": false,
+      "nearbyBathroom": false,
+      "seatingNearExits": true
+    }
+  ],
+  "Maplink": "buildingMaps/Floor_2_t6.png"
+},{
+  "_id": {
+    "$oid": "6418a074b9d33df688c64b75"
+  },
+  "roomLocation": "MB-02-06",
+  "roomName": "Roger Penrose",
+  "roomType": "Study",
+  "Size": 8,
+  "roomID": 14,
+  "accessLevel": "Student",
+  "Peripherals": [
+    {
+      "Projector": false,
+      "projectorScreen": false,
+      "digitalPodium": false,
+      "echoCancellingMicrophone": false,
+      "Speakers": false,
+      "moveableSeating": true,
+      "movableDisplays": false,
+      "Computers": true,
+      "conferenceDesk": true,
+      "presentationDisplays": true,
+      "Whiteboard": true,
+      "webCamera": false
+    }
+  ],
+  "Accessibility": [
+    {
+      "wheelchairAccessible": true,
+      "screenReader": true,
+      "HearingTechnologies": true,
+      "nearbyBathroom": false,
+      "seatingNearExits": false
+    }
+  ],
+  "Maplink": "buildingMaps/Floor_2_t5.png"
+},{
+  "_id": {
+    "$oid": "6418a074b9d33df688c64b76"
+  },
+  "roomLocation": "MB-02-07",
+  "roomName": "Glenarm",
+  "roomType": "Meeting",
+  "Size": 5,
+  "roomID": 15,
+  "accessLevel": "Student",
+  "Peripherals": [
+    {
+      "Projector": false,
+      "projectorScreen": false,
+      "digitalPodium": false,
+      "echoCancellingMicrophone": true,
+      "Speakers": true,
+      "moveableSeating": true,
+      "movableDisplays": false,
+      "Computers": false,
+      "conferenceDesk": true,
+      "presentationDisplays": true,
+      "Whiteboard": true,
+      "webCamera": true
+    }
+  ],
+  "Accessibility": [
+    {
+      "wheelchairAccessible": true,
+      "screenReader": false,
+      "HearingTechnologies": true,
+      "nearbyBathroom": true,
+      "seatingNearExits": true
+    }
+  ],
+  "Maplink": "buildingMaps/Floor_2_t4.png"
+},{
+  "_id": {
+    "$oid": "6418a074b9d33df688c64b77"
+  },
+  "roomLocation": "MB-02-08",
+  "roomName": "Craig",
+  "roomType": "Meeting",
+  "Size": 5,
+  "roomID": 16,
+  "accessLevel": "Student",
+  "Peripherals": [
+    {
+      "Projector": false,
+      "projectorScreen": false,
+      "digitalPodium": false,
+      "echoCancellingMicrophone": true,
+      "Speakers": true,
+      "moveableSeating": true,
+      "movableDisplays": false,
+      "Computers": false,
+      "conferenceDesk": true,
+      "presentationDisplays": true,
+      "Whiteboard": true,
+      "webCamera": true
+    }
+  ],
+  "Accessibility": [
+    {
+      "wheelchairAccessible": true,
+      "screenReader": true,
+      "HearingTechnologies": true,
+      "nearbyBathroom": true,
+      "seatingNearExits": true
+    }
+  ],
+  "Maplink": "buildingMaps/Floor_2_t3.png"
+},{
+  "_id": {
+    "$oid": "6418a074b9d33df688c64b78"
+  },
+  "roomLocation": "MB-02-04",
+  "roomName": "Portstewart",
+  "roomType": "Teaching",
+  "Size": 80,
+  "roomID": 17,
+  "accessLevel": "Lecturer",
+  "Peripherals": [
+    {
+      "Projector": true,
+      "projectorScreen": true,
+      "digitalPodium": true,
+      "echoCancellingMicrophone": true,
+      "Speakers": true,
+      "moveableSeating": true,
+      "movableDisplays": true,
+      "Computers": true,
+      "conferenceDesk": false,
+      "presentationDisplays": false,
+      "Whiteboard": false,
+      "webCamera": false
+    }
+  ],
+  "Accessibility": [
+    {
+      "wheelchairAccessible": true,
+      "screenReader": true,
+      "HearingTechnologies": true,
+      "nearbyBathroom": false,
+      "seatingNearExits": true
+    }
+  ],
+  "Maplink": "buildingMaps/Floor_2_t8.png"
+},{
+  "_id": {
+    "$oid": "6418a074b9d33df688c64b79"
+  },
+  "roomLocation": "MB-02-09",
+  "roomName": "Limavady",
+  "roomType": "Teaching",
+  "Size": 75,
+  "roomID": 18,
+  "accessLevel": "Lecturer",
+  "Peripherals": [
+    {
+      "Projector": true,
+      "projectorScreen": true,
+      "digitalPodium": true,
+      "echoCancellingMicrophone": true,
+      "Speakers": true,
+      "moveableSeating": true,
+      "movableDisplays": true,
+      "Computers": true,
+      "conferenceDesk": false,
+      "presentationDisplays": false,
+      "Whiteboard": false,
+      "webCamera": false
+    }
+  ],
+  "Accessibility": [
+    {
+      "wheelchairAccessible": true,
+      "screenReader": true,
+      "HearingTechnologies": true,
+      "nearbyBathroom": true,
+      "seatingNearExits": true
+    }
+  ],
+  "Maplink": "buildingMaps/Floor_2_t2.png"
+},{
+  "_id": {
+    "$oid": "6418a074b9d33df688c64b7a"
+  },
+  "roomLocation": "MB-02-10",
+  "roomName": "Ballywalter",
+  "roomType": "Teaching",
+  "Size": 50,
+  "roomID": 19,
+  "accessLevel": "Lecturer",
+  "Peripherals": [
+    {
+      "Projector": true,
+      "projectorScreen": true,
+      "digitalPodium": true,
+      "echoCancellingMicrophone": true,
+      "Speakers": true,
+      "moveableSeating": true,
+      "movableDisplays": true,
+      "Computers": true,
+      "conferenceDesk": false,
+      "presentationDisplays": false,
+      "Whiteboard": false,
+      "webCamera": false
+    }
+  ],
+  "Accessibility": [
+    {
+      "wheelchairAccessible": true,
+      "screenReader": false,
+      "HearingTechnologies": false,
+      "nearbyBathroom": true,
+      "seatingNearExits": true
+    }
+  ],
+  "Maplink": "buildingMaps/Floor_2_t1.png"
+},{
+  "_id": {
+    "$oid": "6418a074b9d33df688c64b7b"
+  },
+  "roomLocation": "MB-02-01",
+  "roomName": "Ballycastle",
+  "roomType": "Teaching",
+  "Size": 50,
+  "roomID": 20,
+  "accessLevel": "Lecturer",
+  "Peripherals": [
+    {
+      "Projector": true,
+      "projectorScreen": true,
+      "digitalPodium": true,
+      "echoCancellingMicrophone": true,
+      "Speakers": true,
+      "moveableSeating": true,
+      "movableDisplays": true,
+      "Computers": true,
+      "conferenceDesk": false,
+      "presentationDisplays": false,
+      "Whiteboard": false,
+      "webCamera": false
+    }
+  ],
+  "Accessibility": [
+    {
+      "wheelchairAccessible": true,
+      "screenReader": false,
+      "HearingTechnologies": false,
+      "nearbyBathroom": false,
+      "seatingNearExits": false
+    }
+  ],
+  "Maplink": "buildingMaps/Floor_2_t10.png"
+},{
+  "_id": {
+    "$oid": "6418a074b9d33df688c64b7c"
+  },
+  "roomLocation": "MB-03-09",
+  "roomName": "Doris Lessing",
+  "roomType": "Study",
+  "Size": 12,
+  "roomID": 21,
+  "accessLevel": "Student",
+  "Peripherals": [
+    {
+      "Projector": false,
+      "projectorScreen": false,
+      "digitalPodium": false,
+      "echoCancellingMicrophone": false,
+      "Speakers": false,
+      "moveableSeating": true,
+      "movableDisplays": false,
+      "Computers": true,
+      "conferenceDesk": true,
+      "presentationDisplays": true,
+      "Whiteboard": true,
+      "webCamera": false
+    }
+  ],
+  "Accessibility": [
+    {
+      "wheelchairAccessible": true,
+      "screenReader": true,
+      "HearingTechnologies": true,
+      "nearbyBathroom": false,
+      "seatingNearExits": true
+    }
+  ],
+  "Maplink": "buildingMaps/Floor_3_t8.png"
+},{
+  "_id": {
+    "$oid": "6418a074b9d33df688c64b7d"
+  },
+  "roomLocation": "MB-03-10",
+  "roomName": "Harold Pinter",
+  "roomType": "Study",
+  "Size": 5,
+  "roomID": 22,
+  "accessLevel": "Student",
+  "Peripherals": [
+    {
+      "Projector": false,
+      "projectorScreen": false,
+      "digitalPodium": false,
+      "echoCancellingMicrophone": false,
+      "Speakers": false,
+      "moveableSeating": true,
+      "movableDisplays": false,
+      "Computers": true,
+      "conferenceDesk": true,
+      "presentationDisplays": true,
+      "Whiteboard": true,
+      "webCamera": false
+    }
+  ],
+  "Accessibility": [
+    {
+      "wheelchairAccessible": true,
+      "screenReader": true,
+      "HearingTechnologies": false,
+      "nearbyBathroom": false,
+      "seatingNearExits": true
+    }
+  ],
+  "Maplink": "buildingMaps/Floor_3_t9.png"
+},{
+  "_id": {
+    "$oid": "6418a074b9d33df688c64b7e"
+  },
+  "roomLocation": "MB-03-05",
+  "roomName": "Clare",
+  "roomType": "Meeting",
+  "Size": 5,
+  "roomID": 23,
+  "accessLevel": "Student",
+  "Peripherals": [
+    {
+      "Projector": false,
+      "projectorScreen": false,
+      "digitalPodium": false,
+      "echoCancellingMicrophone": true,
+      "Speakers": true,
+      "moveableSeating": true,
+      "movableDisplays": false,
+      "Computers": false,
+      "conferenceDesk": true,
+      "presentationDisplays": true,
+      "Whiteboard": true,
+      "webCamera": true
+    }
+  ],
+  "Accessibility": [
+    {
+      "wheelchairAccessible": true,
+      "screenReader": true,
+      "HearingTechnologies": true,
+      "nearbyBathroom": true,
+      "seatingNearExits": true
+    }
+  ],
+  "Maplink": "buildingMaps/Floor_3_t5.png"
+},{
+  "_id": {
+    "$oid": "6418a074b9d33df688c64b7f"
+  },
+  "roomLocation": "MB-03-06",
+  "roomName": "Randalstown",
+  "roomType": "Meeting",
+  "Size": 5,
+  "roomID": 24,
+  "accessLevel": "Student",
+  "Peripherals": [
+    {
+      "Projector": false,
+      "projectorScreen": false,
+      "digitalPodium": false,
+      "echoCancellingMicrophone": true,
+      "Speakers": true,
+      "moveableSeating": true,
+      "movableDisplays": false,
+      "Computers": false,
+      "conferenceDesk": true,
+      "presentationDisplays": true,
+      "Whiteboard": true,
+      "webCamera": true
+    }
+  ],
+  "Accessibility": [
+    {
+      "wheelchairAccessible": true,
+      "screenReader": true,
+      "HearingTechnologies": true,
+      "nearbyBathroom": true,
+      "seatingNearExits": true
+    }
+  ],
+  "Maplink": "buildingMaps/Floor_3_t6.png"
+},{
+  "_id": {
+    "$oid": "6418a074b9d33df688c64b80"
+  },
+  "roomLocation": "MB-03-07",
+  "roomName": "Tim Hunt",
+  "roomType": "Study",
+  "Size": 8,
+  "roomID": 25,
+  "accessLevel": "Student",
+  "Peripherals": [
+    {
+      "Projector": false,
+      "projectorScreen": false,
+      "digitalPodium": false,
+      "echoCancellingMicrophone": false,
+      "Speakers": false,
+      "moveableSeating": true,
+      "movableDisplays": false,
+      "Computers": true,
+      "conferenceDesk": true,
+      "presentationDisplays": true,
+      "Whiteboard": true,
+      "webCamera": false
+    }
+  ],
+  "Accessibility": [
+    {
+      "wheelchairAccessible": true,
+      "screenReader": true,
+      "HearingTechnologies": false,
+      "nearbyBathroom": false,
+      "seatingNearExits": true
+    }
+  ],
+  "Maplink": "buildingMaps/Floor_3_t7.png"
+},{
+  "_id": {
+    "$oid": "6418a074b9d33df688c64b81"
+  },
+  "roomLocation": "MB-03-08",
+  "roomName": "Martin Ryle",
+  "roomType": "Study",
+  "Size": 8,
+  "roomID": 26,
+  "accessLevel": "Student",
+  "Peripherals": [
+    {
+      "Projector": false,
+      "projectorScreen": false,
+      "digitalPodium": false,
+      "echoCancellingMicrophone": false,
+      "Speakers": false,
+      "moveableSeating": true,
+      "movableDisplays": false,
+      "Computers": true,
+      "conferenceDesk": true,
+      "presentationDisplays": true,
+      "Whiteboard": true,
+      "webCamera": false
+    }
+  ],
+  "Accessibility": [
+    {
+      "wheelchairAccessible": true,
+      "screenReader": true,
+      "HearingTechnologies": true,
+      "nearbyBathroom": true,
+      "seatingNearExits": true
+    }
+  ],
+  "Maplink": "buildingMaps/Floor_3_t10.png"
+},{
+  "_id": {
+    "$oid": "6418a074b9d33df688c64b82"
+  },
+  "roomLocation": "MB-03-04",
+  "roomName": "Millisle",
+  "roomType": "Teaching",
+  "Size": 75,
+  "roomID": 27,
+  "accessLevel": "Lecturer",
+  "Peripherals": [
+    {
+      "Projector": false,
+      "projectorScreen": false,
+      "digitalPodium": false,
+      "echoCancellingMicrophone": true,
+      "Speakers": true,
+      "moveableSeating": true,
+      "movableDisplays": true,
+      "Computers": true,
+      "conferenceDesk": false,
+      "presentationDisplays": true,
+      "Whiteboard": false,
+      "webCamera": false
+    }
+  ],
+  "Accessibility": [
+    {
+      "wheelchairAccessible": true,
+      "screenReader": true,
+      "HearingTechnologies": true,
+      "nearbyBathroom": true,
+      "seatingNearExits": true
+    }
+  ],
+  "Maplink": "buildingMaps/Floor_3_t3.png"
+},{
+  "_id": {
+    "$oid": "6418a074b9d33df688c64b83"
+  },
+  "roomLocation": "MB-03-03",
+  "roomName": "Ballygally",
+  "roomType": "Teaching",
+  "Size": 75,
+  "roomID": 28,
+  "accessLevel": "Lecturer",
+  "Peripherals": [
+    {
+      "Projector": false,
+      "projectorScreen": false,
+      "digitalPodium": false,
+      "echoCancellingMicrophone": true,
+      "Speakers": true,
+      "moveableSeating": true,
+      "movableDisplays": true,
+      "Computers": true,
+      "conferenceDesk": false,
+      "presentationDisplays": true,
+      "Whiteboard": false,
+      "webCamera": false
+    }
+  ],
+  "Accessibility": [
+    {
+      "wheelchairAccessible": true,
+      "screenReader": true,
+      "HearingTechnologies": true,
+      "nearbyBathroom": true,
+      "seatingNearExits": true
+    }
+  ],
+  "Maplink": "buildingMaps/Floor_3_t4.png"
+},{
+  "_id": {
+    "$oid": "6418a074b9d33df688c64b84"
+  },
+  "roomLocation": "MB-03-02",
+  "roomName": "Helens Bay",
+  "roomType": "Teaching",
+  "Size": 50,
+  "roomID": 29,
+  "accessLevel": "Lecturer",
+  "Peripherals": [
+    {
+      "Projector": false,
+      "projectorScreen": false,
+      "digitalPodium": false,
+      "echoCancellingMicrophone": true,
+      "Speakers": true,
+      "moveableSeating": true,
+      "movableDisplays": true,
+      "Computers": true,
+      "conferenceDesk": false,
+      "presentationDisplays": true,
+      "Whiteboard": false,
+      "webCamera": false
+    }
+  ],
+  "Accessibility": [
+    {
+      "wheelchairAccessible": true,
+      "screenReader": false,
+      "HearingTechnologies": false,
+      "nearbyBathroom": false,
+      "seatingNearExits": true
+    }
+  ],
+  "Maplink": "buildingMaps/Floor_3_t2.png"
+},{
+  "_id": {
+    "$oid": "6418a074b9d33df688c64b85"
+  },
+  "roomLocation": "MB-03-01",
+  "roomName": "Cushendall",
+  "roomType": "Teaching",
+  "Size": 80,
+  "roomID": 30,
+  "accessLevel": "Lecturer",
+  "Peripherals": [
+    {
+      "Projector": false,
+      "projectorScreen": false,
+      "digitalPodium": false,
+      "echoCancellingMicrophone": true,
+      "Speakers": true,
+      "moveableSeating": true,
+      "movableDisplays": true,
+      "Computers": true,
+      "conferenceDesk": false,
+      "presentationDisplays": true,
+      "Whiteboard": false,
+      "webCamera": false
+    }
+  ],
+  "Accessibility": [
+    {
+      "wheelchairAccessible": true,
+      "screenReader": true,
+      "HearingTechnologies": true,
+      "nearbyBathroom": false,
+      "seatingNearExits": false
+    }
+  ],
+  "Maplink": "buildingMaps/Floor_3_t1.png"
+}]

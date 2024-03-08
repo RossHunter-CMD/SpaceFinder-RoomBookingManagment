@@ -1,0 +1,289 @@
+{
+	"info": {
+		"_postman_id": "34c922b4-748a-497b-9bd9-27fd4c74af6d",
+		"name": "Space_Finder_Requests",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "15379779"
+	},
+	"item": [
+		{
+			"name": "Return all Rooms",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/v1.0/rooms",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"v1.0",
+						"rooms"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Return one Room",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/v1.0/rooms/63ad98d9b345233e53ad9f95",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"v1.0",
+						"rooms",
+						"63ad98d9b345233e53ad9f95"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Return all Bookings",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/v1.0/bookings",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"v1.0",
+						"bookings"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Return all Bookings For a Room",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/v1.0/bookings/1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"v1.0",
+						"bookings",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Return one Booking",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/v1.0/booking/63a62a2722753dbd29d995f1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"v1.0",
+						"booking",
+						"63a62a2722753dbd29d995f1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Return all Bookings for a User",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/v1.0/bookings/user/1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"v1.0",
+						"bookings",
+						"user",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Return all Bookings for a User for a Room",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/v1.0/bookings/user/1/1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"v1.0",
+						"bookings",
+						"user",
+						"1",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Add a Booking",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "userid",
+							"value": "1",
+							"type": "text"
+						},
+						{
+							"key": "roomid",
+							"value": "1",
+							"type": "text"
+						},
+						{
+							"key": "startdatetime",
+							"value": "2022-12-28 17:00",
+							"type": "text"
+						},
+						{
+							"key": "enddatetime",
+							"value": "2022-12-28 18:00",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/v1.0/bookings",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"v1.0",
+						"bookings"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update a Booking",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "userid",
+							"value": "1",
+							"type": "text"
+						},
+						{
+							"key": "roomid",
+							"value": "1",
+							"type": "text"
+						},
+						{
+							"key": "startdatetime",
+							"value": "2022-12-28 12:00",
+							"type": "text"
+						},
+						{
+							"key": "enddatetime",
+							"value": "2022-12-28 13:00",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/v1.0/bookings/63a90f15aa7f3dcf8eda9563",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"v1.0",
+						"bookings",
+						"63a90f15aa7f3dcf8eda9563"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Room usage Piechart",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/v1.0/rooms/piegraph/2026-12-26 12:15",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"v1.0",
+						"rooms",
+						"piegraph",
+						"2026-12-26 12:15"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "profilePicture",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "641642a0b649b46f81566d58"
+  },
+  "Room": "MB-01-02",
+  "Dates": "21st June 12:20-13:00",
+  "Website": "https://www.eventbrite.co.uk/",
+  "eventTitle": "Hackathon",
+  "description": "A new Hackathon by IBM using a real network security threat and creating a solution. Free pizza and drinks provided."
+},{
+  "_id": {
+    "$oid": "641642a0b649b46f81566d59"
+  },
+  "Room": "MB-01-06",
+  "Dates": "15th June 9:00-12:00",
+  "Website": "https://www.eventbrite.co.uk/",
+  "eventTitle": "Law Speaker",
+  "description": "A Experienced property lawyer will be talking about real world experiences and the day to day tasks."
+},{
+  "_id": {
+    "$oid": "641642a0b649b46f81566d5a"
+  },
+  "Room": "MB-01-09",
+  "Dates": "30th May 18:30-21:00",
+  "Website": "https://www.eventbrite.co.uk/",
+  "description": "A fun new Pub Quiz consisting of 50 questions in categories of general trivia.\n\n",
+  "eventTitle": "Pub Quiz"
+}]

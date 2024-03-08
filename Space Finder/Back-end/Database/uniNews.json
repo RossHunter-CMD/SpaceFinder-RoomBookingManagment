@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "641643d1b649b46f81566d5e"
+  },
+  "newsTitle": "New Research award",
+  "newsDesc": "A researcher has made a breakthrough",
+  "newsDate": "21st May 12:20-13:00",
+  "newsWebsite": "https://www.ulster.ac.uk/news"
+},{
+  "_id": {
+    "$oid": "641643d1b649b46f81566d5f"
+  },
+  "newsTitle": "Free lunches",
+  "newsDesc": "Free lunches for student on Tuesdays",
+  "newsDate": "24th May 12:20-13:00",
+  "newsWebsite": "https://www.ulster.ac.uk/news"
+},{
+  "_id": {
+    "$oid": "641643d1b649b46f81566d60"
+  },
+  "newsTitle": "New course",
+  "newsDesc": "A new medical course has started",
+  "newsDate": "19th May 12:20-13:00",
+  "newsWebsite": "https://www.ulster.ac.uk/news"
+}]

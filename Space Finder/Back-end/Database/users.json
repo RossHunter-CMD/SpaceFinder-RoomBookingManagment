@@ -1,0 +1,181 @@
+[{
+  "_id": {
+    "$oid": "63beb696563c13ff7216d1e6"
+  },
+  "name": "ross",
+  "username": "ross",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJDZFamJDWmhSWnJnaURwSXVGeHBrUmVTNEdwWGpqQ2VxRWJXckouanREb0o2NGh4RnM2Rksy",
+      "subType": "00"
+    }
+  },
+  "email": "testing@gmail.com",
+  "Access": "Student",
+  "profilePicture": "userProfileImg/ProfilePicture2.gif"
+},{
+  "_id": {
+    "$oid": "63df8b5a8dfbacd21bdd908d"
+  },
+  "name": "Bob",
+  "username": "Bob",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJHNGVFhMU1QvazlHTUZhUmIuSGhrSC5qeHdWaGNKVWRMMWVHekd5aWg0amdDR2hTb2hqZjVt",
+      "subType": "00"
+    }
+  },
+  "email": "Bobsmith@gmail.com",
+  "Access": "Lecture",
+  "profilePicture": "userProfileImg/ProfilePicture1.png"
+},{
+  "_id": {
+    "$oid": "63df8b9b218a4d9c4080e3bb"
+  },
+  "name": "John",
+  "username": "Smith",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJElUWTMzME0wWjM2Lndad1poZmR5SU80Ujd5QmpDOG04bG5yVjdLV0MyZmxSU1NwY241eUpL",
+      "subType": "00"
+    }
+  },
+  "email": "JohnSmith@gmail.com",
+  "Access": "Admin",
+  " profilePicture": "userProfileImg/DefaultProfilePictures.png"
+},{
+  "_id": {
+    "$oid": "63df8bf943019aaf632ecc62"
+  },
+  "name": "Jake",
+  "username": "Jake",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJGhCTXpRTi5zaXlsR0ZQZTVKaFVjOWVSVkV6cVRzVHRQUkRzY0pUQzJKL2Rhdm82OXRpRHBt",
+      "subType": "00"
+    }
+  },
+  "email": "JohnSmith@gmail.com",
+  "Access": "Support Staff",
+  " profilePicture": "userProfileImg/DefaultProfilePictures.png"
+},{
+  "_id": {
+    "$oid": "641cf2c4af9c97ce49d4e99d"
+  },
+  "name": "Jake",
+  "username": "Jake",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJHBOcWZ4SkhGaVpHNGZhTEpSd2xLYU9HWUNwQS9sQ1htZ2w5dG1tR1A2N3lTYS5lR0w3ZjBp",
+      "subType": "00"
+    }
+  },
+  "email": "JohnSmith@gmail.com",
+  "Access": "Support Staff",
+  " profilePicture": "userProfileImg/DefaultProfilePictures.png"
+},{
+  "_id": {
+    "$oid": "644694e647e8de9c94475cef"
+  },
+  "name": "test",
+  "userName": "test",
+  "password": {
+    "$binary": {
+      "base64": "dGVzdA==",
+      "subType": "00"
+    }
+  },
+  "email": "test",
+  "accessLevel": "test",
+  "profilePicture": "test"
+},{
+  "_id": {
+    "$oid": "6446aee20c53b1097e01860c"
+  },
+  "name": "test",
+  "userName": "test",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJDU4Lmovb0Z1N2g5UnZSaDN6UU1TdE9sNklGeUpKNUdMVks0YmlEaUsweFIuQ1ZrdE12UVFp",
+      "subType": "00"
+    }
+  },
+  "email": "test",
+  "accessLevel": "test",
+  "profilePicture": "test"
+},{
+  "_id": {
+    "$oid": "644bc0c9a2bf79efe322d889"
+  },
+  "name": "test",
+  "userName": "test",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJFpZQkRzdFdZTjB4VTFZakxGenVWWGVqUi5zV05DNGVLQ2M0Z01NbENZeWZVWi5KRllCQS42",
+      "subType": "00"
+    }
+  },
+  "email": "test",
+  "accessLevel": "test",
+  "profilePicture": "test"
+},{
+  "_id": {
+    "$oid": "644bc10aa2bf79efe322d88a"
+  },
+  "name": "test",
+  "userName": "rosssmith",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJDdWS2VONWlTRmdoZmFvQUlnUmlVVU9vTVVVb2hYWnZBU2hjQUtaYWpuUWxqVy92bHVEUnZH",
+      "subType": "00"
+    }
+  },
+  "email": "asdknaskdn",
+  "accessLevel": "Student",
+  "profilePicture": "userProfileImg/ProfilePicture2.gif"
+},{
+  "_id": {
+    "$oid": "644bc127af38888640c99e6a"
+  },
+  "name": "test",
+  "userName": "rosssmith",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJHlYc0t2VE1YMkxzczJBNDUubHBQc2VwUkxtSFN3NnJVWmZCNDhUNENGTlpIcEhTLjk3V3h5",
+      "subType": "00"
+    }
+  },
+  "email": "asdknaskdn",
+  "accessLevel": "Student",
+  "profilePicture": "userProfileImg/ProfilePicture2.gif"
+},{
+  "_id": {
+    "$oid": "644bc133af38888640c99e6b"
+  },
+  "name": "test",
+  "userName": "rosssmith10",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJDUzWGEzQVVFMUlDenZPT0lpQ1dOYk9NbE02bHRPVG45Wnp4UU1tLjF1ckFOQktNTEZ3OTRL",
+      "subType": "00"
+    }
+  },
+  "email": "asdknaskdn",
+  "accessLevel": "Student",
+  "profilePicture": "userProfileImg/ProfilePicture2.gif"
+},{
+  "_id": {
+    "$oid": "644c556f39db2cc4fdd31a24"
+  },
+  "name": "testing",
+  "userName": "testing",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJDA1THJMVElPeC5OYW94aDkxeWx2Z3UzMVJZM3hQbjYyYWpCcUdzVklqLkNkWWYxNnR2YXRt",
+      "subType": "00"
+    }
+  },
+  "email": "test",
+  "accessLevel": "test",
+  "profilePicture": "test"
+}]
